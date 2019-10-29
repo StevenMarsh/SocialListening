@@ -4,7 +4,6 @@ import simplejson as json
 # import JSONtoTXT
 import sqlite3
 
-
 def main():
     tone_analyzer = ToneAnalyzerV3(
         version='2017-09-21',
@@ -16,10 +15,11 @@ def main():
         conn = sqlite3.connect("../sentdex/twitter.db")
         c = conn.cursor()
         c.execute("SELECT tweet FROM sentiment")
-        tweets = c.fetchall()
+        tweets = c.fetchall()  #tailor size
 
         for tweet in tweets:
             text += str(tweet[0] + "\n")
+
     except Error as e:
         print(str(e))
 
