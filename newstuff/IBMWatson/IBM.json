@@ -1,0 +1,1006 @@
+{
+  "document_tone": {
+    "tones": [
+      {
+        "score": 0.510768,
+        "tone_id": "joy",
+        "tone_name": "Joy"
+      },
+      {
+        "score": 0.576644,
+        "tone_id": "anger",
+        "tone_name": "Anger"
+      },
+      {
+        "score": 0.514997,
+        "tone_id": "sadness",
+        "tone_name": "Sadness"
+      }
+    ]
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "@ireneM2002 @JohnA_USMCvet @realDonaldTrump The Marksist Soviets have been SLOWLY attacking America from within its very own borders and have been VERY successful at that!! Our citizens are being mentaly subverted or BRAINWASHED for years!!",
+      "tones": [
+        {
+          "score": 0.580264,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 1,
+      "text": "The Marksists have a very detailed plan on how to take over a country from within..",
+      "tones": [
+        {
+          "score": 0.704642,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "@Mike_Pence @realDonaldTrump Get ready Mike!",
+      "tones": [
+        {
+          "score": 0.586013,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "My 10yo granddaughter &amp; I will be watching your mano a mano debate with Harris on Oct 7th at Salt Lake City.",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Have the accomplishments ready &amp; listed...simple 1, 2, 3, 4... &amp; be brave to confront &amp; denounce what's untrue.",
+      "tones": [
+        {
+          "score": 0.545142,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "The Nation will be praying for you!",
+      "tones": []
+    },
+    {
+      "sentence_id": 6,
+      "text": "@EdanClay @realDonaldTrump Wouldn\u2019t leave him in charge of a cactus...he\u2019d probably accuse it of something and fire it but not before engulfing it in scandal and fraud investigations.",
+      "tones": [
+        {
+          "score": 0.639565,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.664718,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "Oh and giving it some stupid name like \u201cTactless Cactus\u201d.",
+      "tones": [
+        {
+          "score": 0.595968,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.928936,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "@TankersleyDevyn @meinanutshell4 @MillerinDc @realDonaldTrump @HerschelWalker If it was last week that all of a sudden makes it not ok",
+      "tones": [
+        {
+          "score": 0.638987,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Trust me, to those who have been raped, molested &amp; defiled by the likes of Trump, have no time constraints ",
+      "tones": []
+    },
+    {
+      "sentence_id": 10,
+      "text": "It\u2019s clear that MAGATs are morally deprived ",
+      "tones": [
+        {
+          "score": 0.92125,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 11,
+      "text": " ",
+      "tones": []
+    },
+    {
+      "sentence_id": 12,
+      "text": "@realDonaldTrump \"Stand back and stand by\" is something a General says to his troops, NOT what a President says to white supremacists!",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "Of course, they are YOUR troops, aren't they, you vile, racist, imbecile?",
+      "tones": [
+        {
+          "score": 0.913755,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "@realDonaldTrump So does Mike Pence run the country?",
+      "tones": []
+    },
+    {
+      "sentence_id": 15,
+      "text": "Apparently, according to u, the VP is responsible for what happens during an administrations reign!",
+      "tones": [
+        {
+          "score": 0.801827,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "Idiot",
+      "tones": []
+    },
+    {
+      "sentence_id": 17,
+      "text": "@AllisonCayse @chroma_neo @josephdaschke @itsJeffTiedrich @realDonaldTrump Yeah, no surprise there...",
+      "tones": []
+    },
+    {
+      "sentence_id": 18,
+      "text": "Only 3 followers, 3 following",
+      "tones": [
+        {
+          "score": 0.653917,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "since 2011!!! ",
+      "tones": []
+    },
+    {
+      "sentence_id": 20,
+      "text": "BOT! Bye bye",
+      "tones": []
+    },
+    {
+      "sentence_id": 21,
+      "text": "@Macbogger1 @FredeckyB1 @FultertonAW @JoeBiden @realDonaldTrump Also why would Russia admit to killing American troops?",
+      "tones": []
+    },
+    {
+      "sentence_id": 22,
+      "text": "Are you that fucking stupid?",
+      "tones": [
+        {
+          "score": 0.899603,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "Would admit to your own murder charge?",
+      "tones": [
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "Least is good to know you'd fucking turn yourself in.",
+      "tones": [
+        {
+          "score": 0.744845,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "@realDonaldTrump history will repeat itself if we don\u2019t stop it, it\u2019s just no one WANTS to understand it.",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.5538,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "Bring America to children\u2019s books.",
+      "tones": []
+    },
+    {
+      "sentence_id": 27,
+      "text": "\ud83c\uddfa\ud83c\uddf8 \ud83d\udc69\ud83c\udffb\u200d\ud83c\udf93\ud83e\uddd1\ud83c\udffb\u200d\ud83c\udf93\ud83d\udc68\ud83c\udffc\u200d\ud83c\udf93\ud83d\udc69\ud83c\udffe\u200d\ud83c\udf93 \ud83c\uddfa\ud83c\uddf8 #educatechildrenofAmerica",
+      "tones": []
+    },
+    {
+      "sentence_id": 28,
+      "text": "@cbd_money @heather_giron @realDonaldTrump @DonaldJTrumpJr @EricTrump LOL yeah the Toyota trucks that Obama gave to ISIS:  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 29,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 30,
+      "text": "Basically ISIS and Antifa/BLM are funded and backed by the same people, all who chant death to the USA.",
+      "tones": [
+        {
+          "score": 0.512995,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "text": "@BarackObama @morethanavote @realDonaldTrump I mean he has somehow managed to classify his twitter rants as actual important business, so it is acceptable.",
+      "tones": [
+        {
+          "score": 0.679641,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "text": "I guess if you classify bullying and demeaning as work then he is the gold standard!",
+      "tones": [
+        {
+          "score": 0.527208,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.784247,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "text": "But oh hell naw, ole Bama better not dare take 10 minutes to fill out his bracket",
+      "tones": [
+        {
+          "score": 0.51251,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "text": "@realDonaldTrump Nope...",
+      "tones": []
+    },
+    {
+      "sentence_id": 35,
+      "text": "- Lies!",
+      "tones": [
+        {
+          "score": 0.931034,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.916667,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 36,
+      "text": "- Lies!",
+      "tones": [
+        {
+          "score": 0.931034,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.916667,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "text": "- Lies!",
+      "tones": [
+        {
+          "score": 0.931034,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.916667,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "text": "- Lies!",
+      "tones": [
+        {
+          "score": 0.931034,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.916667,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "text": "- Lies!",
+      "tones": [
+        {
+          "score": 0.931034,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.916667,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "text": "Aaaaaaaaaannnnnd more LIES \ud83d\ude42 #LieAfterLie #LyingTrump #FakePresident #FreeloaderInChief  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 41,
+      "text": "@TheLeoTerrell @realDonaldTrump @FoxNews @seanhannity @DailyCaller @Newsweek @newsmax Thank you for getting into this fight for our country Leo!",
+      "tones": []
+    },
+    {
+      "sentence_id": 42,
+      "text": "We appreciate your voice very much!",
+      "tones": [
+        {
+          "score": 0.714118,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.942582,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.842108,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 43,
+      "text": "@realDonaldTrump You think that posturing like an ape, constantly interrupting, and trying to appear tough makes you a leader?",
+      "tones": [
+        {
+          "score": 0.572599,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.705784,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.727988,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "It makes you an ass.",
+      "tones": [
+        {
+          "score": 0.643068,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "text": "Being a bully doesn't get you the respect a real leader earns.",
+      "tones": [
+        {
+          "score": 0.543112,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.762356,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "text": "It may help you a bit in prison though.",
+      "tones": [
+        {
+          "score": 0.56173,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.856622,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "@jjdpower1970 @realDonaldTrump Trump has the worst jobs performance of any president in history...",
+      "tones": [
+        {
+          "score": 0.716301,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 48,
+      "text": "He is no American.",
+      "tones": []
+    },
+    {
+      "sentence_id": 49,
+      "text": "#TrumpSoldOutAmerica #TrumpCorruption #TrumpFailedAmerica #TrumpIsBroke #DonTheCon #LockHimUp  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 50,
+      "text": "@dbksr1 @jasonbaum @realDonaldTrump @JoeBiden He wasn't doing a Nazi greeting.",
+      "tones": []
+    },
+    {
+      "sentence_id": 51,
+      "text": "He was greeting his supporters in a respectful way.",
+      "tones": []
+    },
+    {
+      "sentence_id": 52,
+      "text": "You and your cohorts decided to make this picture look different.",
+      "tones": [
+        {
+          "score": 0.537647,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.825035,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.862286,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "text": "#Shameless",
+      "tones": []
+    },
+    {
+      "sentence_id": 54,
+      "text": "@AAlertson @Kazdery @jaredburgin @realDonaldTrump Trump is a weak president and has no respect among world leaders.",
+      "tones": [
+        {
+          "score": 0.506763,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "text": "Vote Blue in November to save democracy and end the trump coverup of corruption!",
+      "tones": [
+        {
+          "score": 0.660937,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "text": "@Comfynumb15 @SharylAttkisson @realDonaldTrump Last time I saw a look like that was at the Bush funeral when they all got an extra piece of paper in their programmes.",
+      "tones": [
+        {
+          "score": 0.539359,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "\ud83d\ude01",
+      "tones": []
+    },
+    {
+      "sentence_id": 58,
+      "text": "@EvanAKilgore Exactly how many times does @realDonaldTrump  have to disavow the hate groups that aren't hate groups or the ones NOT looting, killing, violently harassing the public, and burning down businesses.",
+      "tones": [
+        {
+          "score": 0.697342,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "text": "@realDonaldTrump @HerschelWalker You\u2019re going to need Herschel to go on Russia Today or something.",
+      "tones": [
+        {
+          "score": 0.91961,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 60,
+      "text": "#PutinsPiglet is what they are calling you over there.",
+      "tones": []
+    },
+    {
+      "sentence_id": 61,
+      "text": "@Alldobe @the_resistor @realDonaldTrump Speak for yourself.",
+      "tones": []
+    },
+    {
+      "sentence_id": 62,
+      "text": "The ku klutz klanocrats are ruining  their own states &amp; cities &amp; bringing down good Americans with them",
+      "tones": []
+    },
+    {
+      "sentence_id": 63,
+      "text": "We attended @realDonaldTrump\u2019s rally in Duluth, MN tonight and it was PHENOMENAL!",
+      "tones": []
+    },
+    {
+      "sentence_id": 64,
+      "text": "The positive energy was fabulous and the crowd was on fire!\ud83d\udd25 WE LOVE YOU DONALD TRUMP! 4 MORE YEARS!",
+      "tones": [
+        {
+          "score": 0.905192,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.638987,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 65,
+      "text": "Masks required to ride the shuttle but otherwise not required.",
+      "tones": [
+        {
+          "score": 0.920855,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 66,
+      "text": "@luvredsox13 @realDonaldTrump Aren't you missing xenophobic,  homophobic and eats babies?",
+      "tones": []
+    },
+    {
+      "sentence_id": 67,
+      "text": "This conversation only goes south from here, so this is my stop .... \u270b",
+      "tones": []
+    },
+    {
+      "sentence_id": 68,
+      "text": "@cecewinans I\u2019d like 2 hear ur conversation,  on how ur tired ass, was gon b n a ad 4 @realDonaldTrump, claimn #COVID19 was disappearing.",
+      "tones": []
+    },
+    {
+      "sentence_id": 69,
+      "text": "luckily ur the only 1, othr then @DennisQuaid9 that showd up 2 get #paid off #taxpayers #Dollars",
+      "tones": [
+        {
+          "score": 0.58393,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 70,
+      "text": "#HoldUpTheLight my ass ",
+      "tones": []
+    },
+    {
+      "sentence_id": 71,
+      "text": "Niggah What ?",
+      "tones": []
+    },
+    {
+      "sentence_id": 72,
+      "text": "NiggahNews",
+      "tones": []
+    },
+    {
+      "sentence_id": 73,
+      "text": "Niggah U",
+      "tones": []
+    },
+    {
+      "sentence_id": 74,
+      "text": "@IsraelUSAforevr @realDonaldTrump @DonaldJTrumpJr @EricTrump @FLOTUS @DineshDSouza @GenFlynn @charliekirk11 @RyanAFournier @nedryun @Debber66 @danielledsouzag @RealCandaceO Donnie is a fraud!",
+      "tones": []
+    },
+    {
+      "sentence_id": 75,
+      "text": "A tax fraud!",
+      "tones": []
+    },
+    {
+      "sentence_id": 76,
+      "text": "Glad that there was a leak!",
+      "tones": [
+        {
+          "score": 0.750437,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 77,
+      "text": "Otherwise your tax fraud would have never been exposed!",
+      "tones": [
+        {
+          "score": 0.546783,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.660207,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 78,
+      "text": "Prison is calling your name, Donnie!",
+      "tones": []
+    },
+    {
+      "sentence_id": 79,
+      "text": "#LockThemAllUp",
+      "tones": []
+    },
+    {
+      "sentence_id": 80,
+      "text": "Check out @realDonaldTrump's new ride tomorrow",
+      "tones": [
+        {
+          "score": 0.724841,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.944551,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 81,
+      "text": "Fri, October 02, 2020",
+      "tones": []
+    },
+    {
+      "sentence_id": 82,
+      "text": "07:00 pm (EDT)",
+      "tones": []
+    },
+    {
+      "sentence_id": 83,
+      "text": "Doors Open: 04:00 pm",
+      "tones": []
+    },
+    {
+      "sentence_id": 84,
+      "text": "",
+      "tones": []
+    },
+    {
+      "sentence_id": 85,
+      "text": "Orlando Sanford International Airport",
+      "tones": []
+    },
+    {
+      "sentence_id": 86,
+      "text": "2841 Flight Line Ave.",
+      "tones": []
+    },
+    {
+      "sentence_id": 87,
+      "text": "Sanford, FL, 32773",
+      "tones": []
+    },
+    {
+      "sentence_id": 88,
+      "text": "#Trump2020 #MAGA2020",
+      "tones": []
+    },
+    {
+      "sentence_id": 89,
+      "text": "@PastorDScott @realDonaldTrump Uh... not exactly... there are decorum rules on debates so we Americans can get a better idea as to what will be the plan for the next term, which, btw, Trump has none.",
+      "tones": []
+    },
+    {
+      "sentence_id": 90,
+      "text": "@ReallyAmerican1 Proud boys are criminals and cowards.",
+      "tones": [
+        {
+          "score": 0.556805,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 91,
+      "text": "Take away their guns, knives and clubs and each one is a coward who like Trump will run from a fight if they don't have their mob backing.",
+      "tones": [
+        {
+          "score": 0.659886,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 92,
+      "text": "They're as unamerican as Trump's boss Putin.",
+      "tones": []
+    },
+    {
+      "sentence_id": 93,
+      "text": "@realDonaldTrump",
+      "tones": []
+    },
+    {
+      "sentence_id": 94,
+      "text": "@schaymon @johnrobertsFox @TimScottSC @realDonaldTrump Over 20 Xs this @POTUS has condemned these racist hate groups.",
+      "tones": [
+        {
+          "score": 0.624427,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 95,
+      "text": "But these nigit brains for some reason have hearing issues??",
+      "tones": [
+        {
+          "score": 0.687768,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        },
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 96,
+      "text": "No wonder people have quit watching @FoxNews anymore?",
+      "tones": [
+        {
+          "score": 0.617371,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.88939,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 97,
+      "text": "Here U go Tim Scott &amp; John Roberts, since Ur too stupid to comprehend&gt;&gt;  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 98,
+      "text": "@TheBeatWithAri I have to say, the interview with @BorisEP was, as exp, a monumental waste of time.",
+      "tones": [
+        {
+          "score": 0.736154,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.592138,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 99,
+      "text": "@BorisEP would not know a FACT if it smacked him in the face.",
+      "tones": [
+        {
+          "score": 0.775702,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.947344,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 100,
+      "text": "The man lives in an alternative reality.",
+      "tones": [
+        {
+          "score": 0.556722,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.751512,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        },
+        {
+          "score": 0.560098,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 101,
+      "text": "AKA The fake world of @realDonaldTrump",
+      "tones": [
+        {
+          "score": 0.586509,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 102,
+      "text": "@CryCrisis @danicazheng2 @missy_131 @HKrassenstein @realDonaldTrump What that trump wears lift shoes?",
+      "tones": []
+    },
+    {
+      "sentence_id": 103,
+      "text": "This is public knowledge.",
+      "tones": [
+        {
+          "score": 0.920855,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    }
+  ]
+}

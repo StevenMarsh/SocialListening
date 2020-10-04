@@ -20,7 +20,7 @@ def main():
         for tweet in tweets:
             text += str(tweet[0] + "\n")
 
-    except Error as e:
+    except Exception as e:
         print(str(e))
 
     print("printing text")

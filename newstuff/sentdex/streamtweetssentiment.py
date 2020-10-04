@@ -5,7 +5,7 @@ from tweepy.streaming import StreamListener
 import json
 #CONNECTING SQLITE DATABASE
 import sqlite3
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+
 from unidecode import unidecode
 import time
 import re
@@ -19,7 +19,7 @@ def create_table():
 
 create_table()
 #SENTIMENT ANALYSIS ANALYZER
-analyzer = SentimentIntensityAnalyzer()
+
 
 # consumer key, consumer secret, access token, access secret.
 auth = OAuthHandler("vFutoJoPIDaF8O3U3ifJUnrFw",
@@ -42,11 +42,9 @@ class listener(StreamListener):
                 tweet = re.sub(url.group(), " ", tweet)
 
             time_ms = data['timestamp_ms']
-            vs = analyzer.polarity_scores(tweet)
-            sentiment = vs['compound']
-            print(time_ms, tweet, sentiment)
-            c.execute("INSERT INTO sentiment (unix, tweet, sentiment) VALUES (?, ?, ?)",
-                  (time_ms, tweet, sentiment))
+
+            c.execute("INSERT INTO sentiment (unix, tweet) VALUES (?, ?)",
+                  (time_ms, tweet))
             conn.commit()
 
             if time.time() > self.__endTime:

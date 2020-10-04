@@ -1,0 +1,192 @@
+Document Tones
+	Joy: 0.510768
+	Anger: 0.576644
+	Sadness: 0.514997
+
+Individual Sentences with Tone Analysis
+1. @ireneM2002 @JohnA_USMCvet @realDonaldTrump The Marksist Soviets have been SLOWLY attacking America from within its very own borders and have been VERY successful at that!! Our citizens are being mentaly subverted or BRAINWASHED for years!!
+	Joy: 0.580264
+2. The Marksists have a very detailed plan on how to take over a country from within..
+	Confident: 0.704642
+3. @Mike_Pence @realDonaldTrump Get ready Mike!
+	Joy: 0.586013
+4. My 10yo granddaughter &amp; I will be watching your mano a mano debate with Harris on Oct 7th at Salt Lake City.
+5. Have the accomplishments ready &amp; listed...simple 1, 2, 3, 4... &amp; be brave to confront &amp; denounce what's untrue.
+	Joy: 0.545142
+6. The Nation will be praying for you!
+7. @EdanClay @realDonaldTrump Wouldn’t leave him in charge of a cactus...he’d probably accuse it of something and fire it but not before engulfing it in scandal and fraud investigations.
+	Anger: 0.639565
+	Tentative: 0.664718
+8. Oh and giving it some stupid name like “Tactless Cactus”.
+	Anger: 0.595968
+	Tentative: 0.928936
+9. @TankersleyDevyn @meinanutshell4 @MillerinDc @realDonaldTrump @HerschelWalker If it was last week that all of a sudden makes it not ok
+	Confident: 0.638987
+10. Trust me, to those who have been raped, molested &amp; defiled by the likes of Trump, have no time constraints 
+11. It’s clear that MAGATs are morally deprived 
+	Confident: 0.92125
+	Analytical: 0.560098
+12.  
+13. @realDonaldTrump "Stand back and stand by" is something a General says to his troops, NOT what a President says to white supremacists!
+	Tentative: 0.615352
+14. Of course, they are YOUR troops, aren't they, you vile, racist, imbecile?
+	Confident: 0.913755
+15. @realDonaldTrump So does Mike Pence run the country?
+16. Apparently, according to u, the VP is responsible for what happens during an administrations reign!
+	Analytical: 0.801827
+17. Idiot
+18. @AllisonCayse @chroma_neo @josephdaschke @itsJeffTiedrich @realDonaldTrump Yeah, no surprise there...
+19. Only 3 followers, 3 following
+	Joy: 0.653917
+	Analytical: 0.687768
+20. since 2011!!! 
+21. BOT! Bye bye
+22. @Macbogger1 @FredeckyB1 @FultertonAW @JoeBiden @realDonaldTrump Also why would Russia admit to killing American troops?
+23. Are you that fucking stupid?
+	Anger: 0.899603
+24. Would admit to your own murder charge?
+	Confident: 0.751512
+25. Least is good to know you'd fucking turn yourself in.
+	Anger: 0.744845
+26. @realDonaldTrump history will repeat itself if we don’t stop it, it’s just no one WANTS to understand it.
+	Analytical: 0.724236
+	Tentative: 0.5538
+27. Bring America to children’s books.
+28. 🇺🇸 👩🏻‍🎓🧑🏻‍🎓👨🏼‍🎓👩🏾‍🎓 🇺🇸 #educatechildrenofAmerica
+29. @cbd_money @heather_giron @realDonaldTrump @DonaldJTrumpJr @EricTrump LOL yeah the Toyota trucks that Obama gave to ISIS:  
+30. 
+31. Basically ISIS and Antifa/BLM are funded and backed by the same people, all who chant death to the USA.
+	Sadness: 0.512995
+32. @BarackObama @morethanavote @realDonaldTrump I mean he has somehow managed to classify his twitter rants as actual important business, so it is acceptable.
+	Anger: 0.679641
+33. I guess if you classify bullying and demeaning as work then he is the gold standard!
+	Sadness: 0.527208
+	Analytical: 0.784247
+	Tentative: 0.615352
+34. But oh hell naw, ole Bama better not dare take 10 minutes to fill out his bracket
+	Anger: 0.51251
+35. @realDonaldTrump Nope...
+36. - Lies!
+	Anger: 0.931034
+	Sadness: 0.916667
+37. - Lies!
+	Anger: 0.931034
+	Sadness: 0.916667
+38. - Lies!
+	Anger: 0.931034
+	Sadness: 0.916667
+39. - Lies!
+	Anger: 0.931034
+	Sadness: 0.916667
+40. - Lies!
+	Anger: 0.931034
+	Sadness: 0.916667
+41. Aaaaaaaaaannnnnd more LIES 🙂 #LieAfterLie #LyingTrump #FakePresident #FreeloaderInChief  
+42. @TheLeoTerrell @realDonaldTrump @FoxNews @seanhannity @DailyCaller @Newsweek @newsmax Thank you for getting into this fight for our country Leo!
+43. We appreciate your voice very much!
+	Joy: 0.714118
+	Confident: 0.942582
+	Analytical: 0.842108
+44. @realDonaldTrump You think that posturing like an ape, constantly interrupting, and trying to appear tough makes you a leader?
+	Sadness: 0.572599
+	Analytical: 0.705784
+	Tentative: 0.727988
+45. It makes you an ass.
+	Joy: 0.643068
+46. Being a bully doesn't get you the respect a real leader earns.
+	Confident: 0.543112
+	Analytical: 0.762356
+47. It may help you a bit in prison though.
+	Sadness: 0.56173
+	Tentative: 0.856622
+48. @jjdpower1970 @realDonaldTrump Trump has the worst jobs performance of any president in history...
+	Tentative: 0.716301
+49. He is no American.
+50. #TrumpSoldOutAmerica #TrumpCorruption #TrumpFailedAmerica #TrumpIsBroke #DonTheCon #LockHimUp  
+51. @dbksr1 @jasonbaum @realDonaldTrump @JoeBiden He wasn't doing a Nazi greeting.
+52. He was greeting his supporters in a respectful way.
+53. You and your cohorts decided to make this picture look different.
+	Joy: 0.537647
+	Confident: 0.825035
+	Analytical: 0.862286
+54. #Shameless
+55. @AAlertson @Kazdery @jaredburgin @realDonaldTrump Trump is a weak president and has no respect among world leaders.
+	Analytical: 0.506763
+56. Vote Blue in November to save democracy and end the trump coverup of corruption!
+	Analytical: 0.660937
+57. @Comfynumb15 @SharylAttkisson @realDonaldTrump Last time I saw a look like that was at the Bush funeral when they all got an extra piece of paper in their programmes.
+	Sadness: 0.539359
+58. 😁
+59. @EvanAKilgore Exactly how many times does @realDonaldTrump  have to disavow the hate groups that aren't hate groups or the ones NOT looting, killing, violently harassing the public, and burning down businesses.
+	Anger: 0.697342
+60. @realDonaldTrump @HerschelWalker You’re going to need Herschel to go on Russia Today or something.
+	Tentative: 0.91961
+61. #PutinsPiglet is what they are calling you over there.
+62. @Alldobe @the_resistor @realDonaldTrump Speak for yourself.
+63. The ku klutz klanocrats are ruining  their own states &amp; cities &amp; bringing down good Americans with them
+64. We attended @realDonaldTrump’s rally in Duluth, MN tonight and it was PHENOMENAL!
+65. The positive energy was fabulous and the crowd was on fire!🔥 WE LOVE YOU DONALD TRUMP! 4 MORE YEARS!
+	Joy: 0.905192
+	Confident: 0.638987
+66. Masks required to ride the shuttle but otherwise not required.
+	Analytical: 0.920855
+67. @luvredsox13 @realDonaldTrump Aren't you missing xenophobic,  homophobic and eats babies?
+68. This conversation only goes south from here, so this is my stop .... ✋
+69. @cecewinans I’d like 2 hear ur conversation,  on how ur tired ass, was gon b n a ad 4 @realDonaldTrump, claimn #COVID19 was disappearing.
+70. luckily ur the only 1, othr then @DennisQuaid9 that showd up 2 get #paid off #taxpayers #Dollars
+	Tentative: 0.58393
+71. #HoldUpTheLight my ass 
+72. Niggah What ?
+73. NiggahNews
+74. Niggah U
+75. @IsraelUSAforevr @realDonaldTrump @DonaldJTrumpJr @EricTrump @FLOTUS @DineshDSouza @GenFlynn @charliekirk11 @RyanAFournier @nedryun @Debber66 @danielledsouzag @RealCandaceO Donnie is a fraud!
+76. A tax fraud!
+77. Glad that there was a leak!
+	Joy: 0.750437
+78. Otherwise your tax fraud would have never been exposed!
+	Anger: 0.546783
+	Confident: 0.660207
+79. Prison is calling your name, Donnie!
+80. #LockThemAllUp
+81. Check out @realDonaldTrump's new ride tomorrow
+	Joy: 0.724841
+	Analytical: 0.944551
+82. Fri, October 02, 2020
+83. 07:00 pm (EDT)
+84. Doors Open: 04:00 pm
+85. 
+86. Orlando Sanford International Airport
+87. 2841 Flight Line Ave.
+88. Sanford, FL, 32773
+89. #Trump2020 #MAGA2020
+90. @PastorDScott @realDonaldTrump Uh... not exactly... there are decorum rules on debates so we Americans can get a better idea as to what will be the plan for the next term, which, btw, Trump has none.
+91. @ReallyAmerican1 Proud boys are criminals and cowards.
+	Joy: 0.556805
+92. Take away their guns, knives and clubs and each one is a coward who like Trump will run from a fight if they don't have their mob backing.
+	Analytical: 0.659886
+93. They're as unamerican as Trump's boss Putin.
+94. @realDonaldTrump
+95. @schaymon @johnrobertsFox @TimScottSC @realDonaldTrump Over 20 Xs this @POTUS has condemned these racist hate groups.
+	Anger: 0.624427
+96. But these nigit brains for some reason have hearing issues??
+	Analytical: 0.687768
+	Tentative: 0.822231
+97. No wonder people have quit watching @FoxNews anymore?
+	Sadness: 0.617371
+	Tentative: 0.88939
+98. Here U go Tim Scott &amp; John Roberts, since Ur too stupid to comprehend&gt;&gt;  
+99. @TheBeatWithAri I have to say, the interview with @BorisEP was, as exp, a monumental waste of time.
+	Anger: 0.736154
+	Confident: 0.592138
+100. @BorisEP would not know a FACT if it smacked him in the face.
+	Confident: 0.775702
+	Analytical: 0.947344
+101. The man lives in an alternative reality.
+	Sadness: 0.556722
+	Confident: 0.751512
+	Analytical: 0.560098
+102. AKA The fake world of @realDonaldTrump
+	Sadness: 0.586509
+103. @CryCrisis @danicazheng2 @missy_131 @HKrassenstein @realDonaldTrump What that trump wears lift shoes?
+104. This is public knowledge.
+	Analytical: 0.920855
