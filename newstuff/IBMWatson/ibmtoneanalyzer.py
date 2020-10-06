@@ -12,13 +12,14 @@ def main():
     )
     text = ""
     try:
-        conn = sqlite3.connect("../sentdex/twitter.db")
+        conn = sqlite3.connect("../sentdex/twitter.db") #relative path to twitter database
         c = conn.cursor()
         c.execute("SELECT tweet FROM sentiment")
         tweets = c.fetchall()  #tailor size
 
         for tweet in tweets:
-            text += str(tweet[0] + "\n")
+            text += str(tweet[0] + "\n") #tweets array possible TODO changing delimitter
+
 
     except Exception as e:
         print(str(e))
@@ -32,7 +33,7 @@ def main():
     ).get_result()
 
     # jsonDict = json.dumps(tone_analysis, indent=2)
-    with open("IBM.json", "w") as outfile:
+    with open("IBM.json", "w") as outfile: #writing data to IBM.json
         json.dump(tone_analysis, outfile, indent=2)
 
     cleanJSON("text.txt")

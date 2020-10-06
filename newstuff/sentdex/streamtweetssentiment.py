@@ -29,17 +29,18 @@ auth.set_access_token("855588527039422465-BirmEI78Vvugvm44y5cJzNoMjPiF8B8",
 
 class listener(StreamListener):
 
-    def __init__(self):
-        self.__endTime = time.time() + 20
 
-    def on_data(self, data):
+    def __init__(self):
+        self.__endTime = time.time() + 20 #20 represents time that class will be streaming tweets into DB (live feed)
+
+    def on_data(self, data): #always include self on class methods
         try:
             data = json.loads(data)
-            tweet = data["extended_tweet"]["full_text"]
+            tweet = data["extended_tweet"]["full_text"] #grab tweets in JSON format
 
-            url = re.search("https://t.co/\w\w\w\w\w\w\w\w\w\w", tweet)
+            url = re.search("https://t.co/\w\w\w\w\w\w\w\w\w\w", tweet) #TODO removes URLs from Tweets
             if url:
-                tweet = re.sub(url.group(), " ", tweet)
+                tweet = re.sub(url.group(), " ", tweet) #remove url from tweet-- not working
 
             time_ms = data['timestamp_ms']
 
@@ -63,11 +64,13 @@ def main():
         twitterStream = Stream(auth, listener())
 
 
-        twitterStream.filter(track=["@realDonaldTrump"], languages=["en"])
-
-        time.sleep(runtime)
-
-        twitterStream.filter(track=["@realDonaldTrump"], languages=["en"])
+        twitterStream.filter(track=["@realDonaldTrump"], languages=["en"]) #stream.filter function calls listener.on_data()
+        #twitterStream.filter(locations=["LA"]) #TODO figure out what this does and how to use
+        #GoogleMaps API to extract long and lat from location ??? look into TODO
+        #
+        # time.sleep(runtime)
+        #
+        # twitterStream.filter(track=["@realDonaldTrump"], languages=["en"])
 
         twitterStream.disconnect()
     except Exception as e:
