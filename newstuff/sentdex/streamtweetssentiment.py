@@ -1,6 +1,12 @@
 from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
+import gmaps
+import gmaps.datasets
+
+import googlemaps
+from datetime import datetime
+
 #json library to load data
 import json
 #CONNECTING SQLITE DATABASE
@@ -67,6 +73,12 @@ def main():
         twitterStream.filter(track=["@realDonaldTrump"], languages=["en"]) #stream.filter function calls listener.on_data()
         #twitterStream.filter(locations=["LA"]) #TODO figure out what this does and how to use
         #GoogleMaps API to extract long and lat from location ??? look into TODO
+        #gmaps = googlemaps.Client(key='Add Your Key here')
+        gmaps.configure(api_key='AIzaSyBkLGEGM59jEMlOhJGZcr4ZJLjhKHuKSs0')
+        marker_location = (34.0522, 118.2437)
+        fig = gmaps.figure()
+        marker = gmaps.marker_layer(marker_location)
+        fig.add_layer(marker)
         #
         # time.sleep(runtime)
         #
