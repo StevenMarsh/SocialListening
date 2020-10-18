@@ -44,7 +44,9 @@ class listener(StreamListener):
             data = json.loads(data)
             tweet = data["extended_tweet"]["full_text"] #grab tweets in JSON format
 
-            url = re.search("https://t.co/\w\w\w\w\w\w\w\w\w\w", tweet) #TODO removes URLs from Tweets
+            old_url = re.search("https://t.co/\w\w\w\w\w\w\w\w\w\w", tweet) #TODO removes URLs from Tweets
+            url = re.sub(r"(?:\@|https?\://)\S+", "", old_url)
+
             if url:
                 tweet = re.sub(url.group(), " ", tweet) #remove url from tweet-- not working
 
