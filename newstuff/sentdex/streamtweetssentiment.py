@@ -44,14 +44,13 @@ class listener(StreamListener):
             data = json.loads(data)
             tweet = data["extended_tweet"]["full_text"] #grab tweets in JSON format
 
-            old_url = re.search("https://t.co/\w\w\w\w\w\w\w\w\w\w", tweet) #TODO removes URLs from Tweets
-            url = re.sub(r"(?:\@|https?\://)\S+", "", old_url)
+            url_found = re.search("https://t.co/\w\w\w\w\w\w\w\w\w\w", tweet)
 
-            if url:
-                tweet = re.sub(url.group(), " ", tweet) #remove url from tweet-- not working
+            if url_found:
+                tweet = re.sub(r"(?:\@|https?\://)\S+", "", tweet)
 
             time_ms = data['timestamp_ms']
-
+            print(tweet)
             c.execute("INSERT INTO sentiment (unix, tweet) VALUES (?, ?)",
                   (time_ms, tweet))
             conn.commit()
@@ -73,14 +72,16 @@ def main():
 
 
         twitterStream.filter(track=["@realDonaldTrump"], languages=["en"]) #stream.filter function calls listener.on_data()
-        #twitterStream.filter(locations=["LA"]) #TODO figure out what this does and how to use
-        #GoogleMaps API to extract long and lat from location ??? look into TODO
+        #twitterStream.filter(locations=["LA"])
+        #so this takes 4 coordinates: a bounding box
+
+        #GoogleMaps API to extract long and lat from location
         #gmaps = googlemaps.Client(key='Add Your Key here')
-        gmaps.configure(api_key='AIzaSyBkLGEGM59jEMlOhJGZcr4ZJLjhKHuKSs0')
-        marker_location = (34.0522, 118.2437)
-        fig = gmaps.figure()
-        marker = gmaps.marker_layer(marker_location)
-        fig.add_layer(marker)
+        #gmaps.configure(api_key='AIzaSyBkLGEGM59jEMlOhJGZcr4ZJLjhKHuKSs0')
+        #marker_location = (34.0522, 118.2437)
+        #fig = gmaps.figure()
+        #marker = gmaps.marker_layer(marker_location)
+        #fig.add_layer(marker)
         #
         # time.sleep(runtime)
         #
