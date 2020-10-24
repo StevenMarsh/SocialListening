@@ -50,7 +50,7 @@ class listener(StreamListener):
                 tweet = re.sub(r"(?:\@|https?\://)\S+", "", tweet)
 
             time_ms = data['timestamp_ms']
-            print(tweet)
+
             c.execute("INSERT INTO sentiment (unix, tweet) VALUES (?, ?)",
                   (time_ms, tweet))
             conn.commit()
