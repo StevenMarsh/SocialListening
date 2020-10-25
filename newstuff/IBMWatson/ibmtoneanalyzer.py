@@ -18,7 +18,12 @@ def main():
         tweets = c.fetchall()  #tailor size
 
         for tweet in tweets:
-            text += str(tweet[0] + "\n") #tweets array possible TODO changing delimitter
+            tweetContent=str(tweet[0])
+            tweetContent=tweetContent.replace(".",";")
+            tweetContent=tweetContent.replace("!", ";")
+            tweetContent=tweetContent.replace("?", ";")
+            tweetContent=tweetContent.replace("\n","")
+            text += str(tweetContent + "\n") #tweets array possible TODO changing delimitter
 
 
     except Exception as e:
