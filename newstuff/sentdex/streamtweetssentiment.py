@@ -1,4 +1,5 @@
 from tweepy import Stream
+import tweepy
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 import gmaps
@@ -33,6 +34,7 @@ auth = OAuthHandler("vFutoJoPIDaF8O3U3ifJUnrFw",
 auth.set_access_token("855588527039422465-BirmEI78Vvugvm44y5cJzNoMjPiF8B8",
         "RjZhI9lCoptKipRcKnPV6Uu4mIa4L0CGk9FoBXJ7GJNnB")
 
+
 class listener(StreamListener):
 
 
@@ -55,6 +57,7 @@ class listener(StreamListener):
                   (time_ms, tweet))
             conn.commit()
 
+
             if time.time() > self.__endTime:
                 return False
         except KeyError as e:
@@ -67,6 +70,7 @@ class listener(StreamListener):
 
 
 def main():
+
     try:
         twitterStream = Stream(auth, listener())
 
@@ -91,6 +95,31 @@ def main():
     except Exception as e:
         print(str(e))
         time.sleep(5)
+
+
+    api = tweepy.API(auth) #historic tweets
+    for tweet in tweepy.Cursor(api.search, q='yeet').items(3000): #number of tweets to return
+        print(tweet.user) #could be super useful to get demographics
+        print(tweet.text)
+
+
+    # try:
+    #     twitterStream = Stream(auth, listener())
+    #
+    #
+    #     twitterStream.filter(track=["@realDonaldTrump"], languages=["en"]) #stream.filter function calls listener.on_data()
+    #     #twitterStream.filter(locations=["LA"]) #TODO figure out what this does and how to use
+    #     #GoogleMaps API to extract long and lat from location ??? look into TODO
+    #     #
+    #     # time.sleep(runtime)
+    #     #
+    #     # twitterStream.filter(track=["@realDonaldTrump"], languages=["en"])
+    #
+    #     twitterStream.disconnect()
+    # except Exception as e:
+    #     print(str(e))
+    #     time.sleep(5)
+
 
 
 main()
