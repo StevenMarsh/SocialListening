@@ -1,167 +1,100 @@
 Document Tones
 	Tentative: 0.513009
 
-Individual Sentences with Tone Analysis
-1. @joemaggio9 @realDonaldTrump Hunter, Jim ;;; and Joe Biden are criminals; And they are controlled by CCP;https://t;co/L3e8lts24Y
-2. @realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time;
-	Fear: 0.576902
-	Analytical: 0.574477
-	Tentative: 0.698904
-3. So, it is @realDonaldTrump, and the #GOP, who have made me distrust the election;  Can we report them;1;  Illegal Voter Boxes all over CA, by the GOP;2;  Trumps friend destroying the USPS ability to process mail;3;  GOP put armed voter suppression people in FL;
-	Anger: 0.554266
-4. We love you guys;  Looked for you at the Pensacola rally;  Maybe I’ll get to meet you in President Trump’s 2nd term;;  #FourMoreYears #Trump2020 #VoteRed
-	Joy: 0.720942
-5. @realDonaldTrump SHEIN EUR SITE https://t;co/4LYBBms3h9https://t;co/al29Kg7vDlhttps://t;co/lqIi7KJhbxhttps://t;co/FblVlcMZfDhttps://t;co/kJlKdbDE0Yhttps://t;co/Vaz5KAVtQrhttps://t;co/z0vWTGiVZFfgbfg
-6. @realDonaldTrump You’re corrupt; Corrupt; We, the American Majority, are in the process of firing your incompetent ass; Hire a mover to get your gaudy shit out of the WH;
-	Anger: 0.609025
-7. @anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Anna, don’t waste your time; They are brainwashed and think genocide is the answer;
-	Anger: 0.590987
-	Analytical: 0.801827
-8. @K00l_Gladiator @kbuldakov1 @JeffreyGuterman @realDonaldTrump Again;;; How did the fix it;;; By implementing a new policy of separating children and parents and then loosing the parents;;;;;; Absolutely disgusting and a disgrace to America;;;;
-	Analytical: 0.54839
-	Confident: 0.605143
-9. #TrumpSurrendered If you really love America you’ll just drop out now; Please do it @realDonaldTrump @POTUS you’d finally be doing a service for your country; #TrumpDancesAmericansDie #BidenHarris #RIPGOP #VoteBlue  
-	Joy: 0.789951
-10. Justice Ginsberg said her last wish is to see that she's replaced after the Presidential election; She knew how close it was; @senatemajldr, @GOP, and @realDonaldTrump were waiting for her to drop dead; They had a HEAVILY-vetted ultra-conservative woman set on reversing Roe;;;
-	Sadness: 0.512973
-11. @realDonaldTrump @realDonaldTrump You already posted this numbnuts; We couldn’t hear it the first time;;;; Please once you’re out of office get the help you so desperately need;;;;;
-12. @realDonaldTrump @SecPompeo @WHNSC This is what happened to Azerbaijan 2 minutes after ceasefire; Armenia accuses Azerbaijan but has 0 proof; Here is our proof;  
-	Anger: 0.651179
-	Confident: 0.543112
-13. @realDonaldTrump This guy without his special "I can make it 2 hours on these meds" sounds like this; Remember folks, this is a RECORDED ad, unlimited takes;; Keep that in mind;   
-14. @realDonaldTrump @SeanParnellUSA @TheJusticeDept The bottom is falling out of the GOP smear machine;GOP Chair Forced to Admit to Fox News There's No Evidence of Wrongdoing By Biden 
-15. @Acosta Rounding the corner or falling off the cliff;  Incompetent @realDonaldTrump has no clue what to do so he is doing nothing;  The @GOP deserves to be destroyed for enabling him;@GOPChairwoman @GOPLeader @DNCWarRoom  
-	Anger: 0.600417
-16. @realDonaldTrump Trump and Pence have surrendered to COVID-19; They don't care about groups of people canoodling;They don't care if you or your family get it; They're just using you for the photo op; After that, oh well; 🤷🏻‍♀️ 
-	Tentative: 0.654647
-17. @Katincleveland @CryptoGooby @ObjectiveVoters @DavidShafer @GaRepublicans @JoeBiden @realDonaldTrump @SenateGOP I don't watch CNN, don't have cable TV; I work and try to keep my 2 kids going in school; All I've gotten in terms of help from the Trump administration was one $600 check;;; To then learn that that sleazy scammer only paid $750 in TAXES in recent years was really galling;
-	Analytical: 0.745832
-18. @kayleighmcenany @realDonaldTrump This;;;; while scores of Dems gather where it counts;;;; at the voting booths;  Blue tsunami is on the way;
-19. @Mike_Pence @realDonaldTrump Stop bringing more Covid to our state; You should be in quarantine; You know how irresponsible this is, you are the head of the dang task force;
-	Anger: 0.710269
-20. @redamberblack @philip_bray @sparrow_42 @realDonaldTrump These high-risk folks are real people too, you know; They're just like you; They have lives that are full and complicated; They are moms, dads, roommates, and community members; They are real people who can't just check out of society for a year or two;
-	Tentative: 0.519411
-21. #TrumpCrimeFamily                 It’s not a presidency;  It’s an INTERNATIONAL CRIMINAL ENTERPRISE  
-22. @WhiteHouse @realDonaldTrump Our President is a horse’s ass; For cheap campaign rally entertainment he slanders front line health care workers; Reprehensible; Liar;  
-23. @realDonaldTrump @SecPompeo @WHNSC Lives saved;  You are killing Americans with the tRump virus; Oh and Texas is turning for Biden; Vote blue before he kills you;
-24. @Mike_Pence @realDonaldTrump Breaking News; Watch out; Joe Biden’s son Hunter Biden is actually…-Gnews   https://t;co/IPAIiySTyf
-	Confident: 0.751512
-25. @AlexVickeryHowe @BcrewMark @mednat1949 @charliekirk11 @realDonaldTrump So children were fed properly, never separated from their parents and were only there a short time; Comes trump and makes these illegals a living hell; Oh by the way, the people that came here; We’re legal or illegal; Bad bad orange man;
-	Anger: 0.57401
-26. @DonaldJTrumpJr You’re sticking with @realDonaldTrump because he’ll cut your allowance if you don’t allow him to fill out your ballot; #BidenHarris2020 #TrumpIsPathetic #TrumpIsLosing #TrumpCrimeFamily
-	Analytical: 0.620279
-27. @Mike_Pence @realDonaldTrump Hello North Carolina; I should be in quarantine for 14 days but I don’t care about your health;  Let’s round the corner;;;to the graveyard;
-28. @realDonaldTrump @SecPompeo @WHNSC I defy #President #Trump to find #Azerbaijan and #Armenia on a map;( you can through in #Iran for bonus points) &lt;I’m sure he’d have better luck finding #Moscow&gt;
-	Joy: 0.509015
-29. @CLewandowski_ @realDonaldTrump @JoeBiden Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  🇦🇿🇦🇿
-	Sadness: 0.585769
-30. @gsopoagmle @realDonaldTrump @SecPompeo @WHNSC @60Minutes I have seen his version I think it’s important for America to see @LesleyRStahl ‘s reactions Let’s just see how vicious she was ;;;                       😂😂😂goddamn he’s such a pu$$y ;
-31. @kayleighmcenany @realDonaldTrump A surprise stop with buses; Or did POTUS and staff come in on those buses; I have a hard time imagining Trump riding in a bus;
-32. @NYScanner @Breaking911 @realDonaldTrump @NYPDnews @TrumpWarRoom I do not like trump, but you shouldn't have rocks thrown at you just for showing your support; If you don't like it just ignore it, dont act like a child;
-	Tentative: 0.812219
-33. @realDonaldTrump SHEIN EUR SITE https://t;co/4LYBBms3h9https://t;co/al29Kg7vDlhttps://t;co/lqIi7KJhbxhttps://t;co/FblVlcMZfDhttps://t;co/kJlKdbDE0Yhttps://t;co/Vaz5KAVtQrhttps://t;co/z0vWTGiVZFfgbfbf
-34. @___9275861_btn_ @realDonaldTrump @SecPompeo @WHNSC The CDC released info about how 100,000 deaths reported by hospitals were not actually caused by covid and then there is this bad boy (Attached picture);;; #BringTheTroopsHome#EndForeignWarsI thought hippies were already on bored with this;;; What happened;;;  
-	Sadness: 0.635806
-	Analytical: 0.762356
-35. @realDonaldTrump @SecPompeo @WHNSC Trump the greatest president of all time;;must include him in the Mount Rushmore National Memorial; #Trump2020Landslide
-	Joy: 0.508004
-	Confident: 0.767592
-36. @realDonaldTrump The bottom is falling out of the GOP smear machine;GOP Chair Forced to Admit to Fox News There's No Evidence of Wrongdoing By Biden 
-37. @anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC What about refugees of Karabakh Azerbaijanis; why they don’t live there now; The armenians kicked them out from their homes; Will you deny it;
-	Sadness: 0.50721
-38. @WhiteHouse @realDonaldTrump @FLOTUS Are you kidding @WhiteHouse, @realDonaldTrump has been running a “House of Horrors” for the past 4 years;  Why is Halloween any different;
-	Fear: 0.722041
-39. @realDonaldTrump Trump/Pence are ignoring threat of virus 9 days b4 Election Day, continuing to downplay its risk at packed rallies across  country while endangering  lives of people around them, including their own staff &amp; supporters; #TrumpCovidRallies #TrumpOnlyCaresAboutTrump #WakeUpPeople
-	Sadness: 0.530702
-40. @Mike_Pence @realDonaldTrump The US senate republicans are about to steal the voices of millions of Americans on Monday 10/26/20 when they vote for the next justice  of the SCOTUS by not waiting until after the election;;;;
-41. @BethLynch2020 Maybe an @realDonaldTrump 2020 victory will bury the corrupt @DNC controlled  #DemocraticParty for good; I won’t mind it at all;;;
-42. @KatharinaKoelb1 @realDonaldTrump I do believe since less than 10% of People believe the MSM after their "peaceful protest" lies that you might be projecting your fears;;; It's not that the American's Believe what 1 Person says they just stopped being sheep &amp; research the truth &amp; Fed docs show you are WRONG;
-	Fear: 0.606738
-	Tentative: 0.767279
-43. @WarRoomPandemic @DineshDSouza @DrLiMengYAN1 @realDonaldTrump @WarRoom2020 In liberating fashion, our tactics are sooner, how we liberate our numbers, and in the same fashion effectively decimate theirs, w/ prior concern that many are incapable of defense against these tactics drawn quicker; It's the fact whether or not anyone is capable of inflicting;
-44. @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Besides being ignorant you are also a racist fool; It’s time you learn the meaning of the word respect; Till then shut upDr; Parik Patel, BA, CFA, ACCA 💸 @ParikPatelCFA You are a racist I've been running long short equity since before you were born have some damn respect
-	Anger: 0.663388
-45. @realDonaldTrump @DonaldJTrumpJr @kimguilfoyle  please look at Philadelphia, Pa early ballots 200,000 have been pitched so far; If a person says the sig does not match, the machine says it does, another person says it doesn’t, they pitch it; We need to ck out with different panel
-	Analytical: 0.74948
-46. @jernigan_anita @sherifflamb1 @realDonaldTrump I'm amazed you despicable monsters keep trying to change the subject to coyotes when this criminal administration stole children from THEIR PARENTS;
-	Anger: 0.553798
-47. Just heard both @JoeBiden and @KamalaHarris talking about this today;  'The Big Guy' threw out some date in March;  @realDonaldTrump started the travel ban for #china on 1/31;  At that point there were only 2 deaths outside of China - Philippines and Hong Kong;
-	Tentative: 0.565693
-48. I guess Kam realizes that the Demoncrats will not win; last desperate intent to gain voters; Also, this is voter interference;
-49. @realDonaldTrump David Limbaugh@DavidLimbaughThis is in the category of Surreal on Steroids; Who could write a movie this bizarre; The presidential candidate has announced he will stop in person campaigning NINE DAYS BEFORE THE ELECTION;
-50. @SpacemanYoung put Me on in 2016 I was mind blown I'm not Gon lie @PHARAOH_ATEN_ because I was thinking SIMILAR but was lacking certain expressions I couldn't figure out @sun @bmoorewya
-	Anger: 0.570123
-	Analytical: 0.806276
-51. Rampant hate crimes and anti semitism thank you @realDonaldTrump for this atmosphere of name calling, intolerance, and hate;
-	Anger: 0.797843
-52. @realDonaldTrump @SecPompeo @WHNSC We want our motherlands, we want our #Karabagh ; Armenians occupies our motherland; if they won’t give it by civil way we will take it by war; we will death but will take all ours;;; #KarabakhisAzerbaijan #StopArmenianTerror
-53. @realDonaldTrump Just in case you forgot about Stormy Daniels &amp; Karen McDougal because many women &amp; I haven’t forgot $130K in hush money for @realDonaldTrump infidelities adulteress affairs which is an abomination &amp; a sin in the eyes of God to cheat on 3 of 3 wives; @FLOTUS  
-	Analytical: 0.672133
-54. @thejtlewis @longislandtea12 He quit; He's Done; He Lied For Months; Biden/Harris a Fraud that didn't work; Biden knows he's done; America knows its over; The 47 years of failed politics now criminal investigation &amp; China has him by the short hairs; Biden/Harris ticket is Finished; @realDonaldTrump
-	Sadness: 0.599956
-55. @joshscampbell Then why is Putin being mean to @realDonaldTrump about Hunter Biden; Just to play with him; Show the overfed slave boy who’s boss;
-	Analytical: 0.702145
-	Tentative: 0.615352
-56. @heinko00906861 @realDonaldTrump @SecPompeo @WHNSC #VoteBidenHarris2020tRump cut pandemic team/Gave china U;S; PPE/Hid #COVID19 2nd wave;Jan-Mar: golf 6/rallies 9tRump incompetence caused #TrumpRecession/HIGHEST #TrumpVirus cases &amp; deaths of any country;U;S; Today: OVER 8,640,000/225,000 dead &amp; RISING; 
-	Sadness: 0.60594
-57. @MillerinDc @realDonaldTrump @SecPompeo @WHNSC Wait, so there's a man in the sky controlling everything - like murdering children - but you believe Trump is the problem;😂😂😂
-	Tentative: 0.615352
-58. @ObjectiveVoters @DavidShafer @GaRepublicans @JoeBiden @realDonaldTrump @SenateGOP A clean Bill of pandemic relief was passed in the Senate;Pelosi killed it to get hundreds of billions of dollars worth of federal tax (SALT) deductions for the ultra rich in Blue States;
-59. #TreworgyFamilyOrchards is a great place; So nice of #realDonaldTrump to go there—with a few thousand others;; #GoTrump2020
-	Joy: 0.9038
-60. @pjsecluded @BelieveIt__2020 @Tzedek_Assoc @realDonaldTrump What's the connection;  There are orthodox Rabbis both for biden and Trump; Is there any diversity of thought in the Reform regarding this;
-	Analytical: 0.574477
-	Tentative: 0.5538
-61. @markbotsford @TeamTrump @realDonaldTrump Trump hasn't killed anyone; Democrats &amp; their Marxist BLM &amp; ANTIFA have though; Also democrats think they have the right to;
-62. @realDonaldTrump AMERICANS REALLY LOOK AT THIS LETTER IT WAS MADE IN JUNE AN NOW NOW 9 DAYS BEFORE ELECTION TRUMP DECIDED TO SHOW YOU TRUMP CALLED BIDEN A POLITICIAN BUT EVERYTHING TRUMP IS DOING ON TWITTER IS BEING A POLITICIAN
-	Anger: 0.547556
-	Analytical: 0.834409
-63. @WhiteHouse @realDonaldTrump @FLOTUS Cowards they have let the virus defeat them;; Not me I’m an American and I will keep fighting; Vote Trump and the GOP out;;
-64. @CoreysDigs I'd like to add;;;Since 75% of new registered voters are Republican, this should equate to an unquestionable win for @realDonaldTrump  
-65. Hopefully #Azerbaijan will not break this cease fire just like the previous two ones‼️ Dear @realDonaldTrump, Mr; President, it’s just the right time to #RecognizeArtsakh to #StopTurkishTerrorism and #StopAzerbaijaniAggression‼️ #ArtsakhStrong ✊🇦🇲   #PeaceForArmenia
-	Analytical: 0.519491
-	Tentative: 0.861422
-66. @atrupar The paid clowns behind the imbecile @realDonaldTrump have no idea what’s going on; #TrumpIsAnIdiot #TrumpIsANationalDisgrace #BidenHarris2020
-	Anger: 0.528978
-67. @realDonaldTrump @SecPompeo @WHNSC Thank you Mr President; 3rd time lucky perhaps; Hope you're able to keep these two war criminals in check; #StopAzerbaijaniAggression #StopTurkey  
-	Joy: 0.510665
-	Tentative: 0.88939
-68. @realDonaldTrump @SeanParnellUSA The bottom is falling out of the GOP smear machine;GOP Chair Forced to Admit to Fox News There's No Evidence of Wrongdoing By Biden 
-69. @JasonMillerinDC @KellyannePolls @Mike_Pence @realDonaldTrump "Mike Pence is a badass" is a phrase only a toad like Jason Miller would say; No one with a brain would ever put that sentence together 🤣🤣🤣🤣
-70. @realDonaldTrump @realDonaldTrump scripts the Senate Talking Points:CONCEAL the- Beneficiaries of the Tax Bill- Unredacted Mueller Report- Personal Tax Returns- Deadly Health Risk of Covid-19- Repeal of the Affordable Care Act- Repeal of DACA- DOT Funds &amp; the Nat'l Debt;Vote @JoeBiden
-71. @Mike_Pence @realDonaldTrump The US senate republicans are about to steal the voices of millions of Americans on Monday 10/26/20 when they vote for the next justice  of the SCOTUS by not waiting until after the election;;;;;
-72. @thunderf00t @navcenter77 @realDonaldTrump Population is exploding as we speak; Natural selection is how that population is controlled; As you know when a population reach a certain amount a virus/bacteria will appear; Overpopulation is very bad; Lack of land area and resources will lead to war; I very much dislike war;
-	Analytical: 0.601699
-	Confident: 0.61043
-73. @realDonaldTrump Donald Trumps track record for 4 yearsNo healthcare plan, higher middle lower class taxes, Rich people pay no taxes, 225,000 dead Americans, 12,580,000 unemployed Americans, 8,000,000 more Americans in Poverty, while Donald Trump used well over 100,000,000 in tax money for golf
-74. @TeamTrump @realDonaldTrump Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  🇦🇿🇦🇿
-	Sadness: 0.585769
-75. Bold strategy right before the election, ⁦@realDonaldTrump⁩; ⁦@MarkMeadows⁩ says 'we're not going to control the pandemic’ #TrumpLied225KDied #TrumpVirus   
-76. @BamaGeorgia @hodgetwins @realDonaldTrump I'm not his lawyer or no him personally so you'd need them ask them that, but if they where able to make up a big treasonous lie like that, wouldn't they of went after him for the thing you said about; Why didn't they; Why wasn't that on the fake news 24/7 instead of the lie;
-	Sadness: 0.616561
-77. @realDonaldTrump you got our votes today; #Trump2020 #Trump2020LandslideVictory #VoteForTrump #VoteEarlyDay #Republicans  
-78. @WarRoomPandemic @DineshDSouza @DrLiMengYAN1 @realDonaldTrump @WarRoom2020 Hahahahaha;;;;;;not very long ago President Windbag was singing President Xi’s praises and proclaiming his great leadership;
-	Joy: 0.831597
-79. @dvillella @realDonaldTrump Pence is the Head of the Virus Task Force;5 (min) of his staff have tested positive including his Chief of Staff; Why is he not under quarantine;Great messaging Mike;Imagine, we now have a President &amp; VP promoting the spread of a deadly virus; Can we move the vote to Oct 26;
-80. @irina86304829 @Artak_Beglaryan @realDonaldTrump First u havent any info about our history, then by ur logic Roman Empire currently Italy should occupy Middle east, anatolia, europe and north africa because of they were first;
-81. @GOPChairwoman @realDonaldTrump Let me say what the video cut off: Joe Biden is saying (quoting someone else) that "dark days are ahead" REGARDING COVID-19;  And he's right; our numbers are getting worse and worse;In addition, he WILL raise taxes;;;on those making OVER $400,000; That's not most of us;
-	Sadness: 0.61175
-	Analytical: 0.632275
-82. @Vee93244846 @merci171 @realDonaldTrump I get that sincerely as a person who never stopped going to work; Is your employer doing anything to test employees; Wether it’s an election rally or wedding people have to weigh the risks and keep living; Lockdowns statistically do more harm then good; Be Vigilant not scared; 🙏
-83. @connorestafan @NYScanner @realDonaldTrump @TrumpWarRoom That's a racist statement; But we expect nothing but that from leftist haters of America🥴
-	Anger: 0.530468
-	Analytical: 0.705784
-84. @realDonaldTrump Kamala don't need joe; People going around like parrots spouting party lines about joe; WE beat his azz back to SLEEP; Snake ain't dead yet;
-	Tentative: 0.716301
-85. @Druzzer55 @GlobalVarkey @thehill @realDonaldTrump What normal; He gave black Americans the lowest unemployment and highest wages ever recorded;  You want Bidens normal back; Tens of thousands sent to prison and separated from their families; What normal do you prefer;
-	Analytical: 0.69672
-86. @realDonaldTrump @SecPompeo @WHNSC Thank you Mr; President; Looking for another 4 awesome years from you and your cabinet; #Trump2020 #RecognizeArtsakh #Armenia
-	Joy: 0.88035
-87. THIS IS DISGUSTING;; If you're in VA, PLEASE VOTE for @QasimRashid ;; They shot at his sign and posted @realDonaldTrump signs up on top; Muslims are "terrorists"; Who REALLY are the terrorists; Intimidating people like this; Pathetic, disgusting behavior #homeandgrown #terrorism
-88. @realDonaldTrump @DonaldJTrumpJr @RudyGiuliani @TuckerCarlson @IngrahamAngle @seanhannity Some light Reading for your pleasure this fine, lovely Fall Sunday evening;💋 
-	Joy: 0.944757
-	Tentative: 0.5538
-89. Hell of a public relations campaign;@KatieDaviscourt @jasonrantz@realDonaldTrump They burn, loot, and destroy hundreds of peoples lives in Seattle/Olympia and now they want us to think that they've been transformed into better citizens because they didn't riot yesterday;  
-	Anger: 0.58111
-90. Look Trump has thousands on a last minute stop with a blowhorn and Obama had like what 6 at his scheduled stop; Lol; Trump 2020
-91. @realDonaldTrump My American brothers, here France in 2020 the government taxes its people to feed our Muslim immigrant enemies, women and men are assaulted, raped or slaughtered, no go zones prosper ;;;
+Overall Tones
+
+Major Themes:
+Fear (5.56%)
+Tentative (19.44%)
+Analytical (25.0%)
+Anger (22.22%)
+Joy (13.89%)
+Confident (8.33%)
+Sadness (15.28%)
+
+Fear
+@realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time;
+@WhiteHouse @realDonaldTrump @FLOTUS Are you kidding @WhiteHouse, @realDonaldTrump has been running a “House of Horrors” for the past 4 years;  Why is Halloween any different;
+@KatharinaKoelb1 @realDonaldTrump I do believe since less than 10% of People believe the MSM after their "peaceful protest" lies that you might be projecting your fears;;; It's not that the American's Believe what 1 Person says they just stopped being sheep &amp; research the truth &amp; Fed docs show you are WRONG;
+
+Tentative
+@realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time;
+@realDonaldTrump Trump and Pence have surrendered to COVID-19; They don't care about groups of people canoodling;They don't care if you or your family get it; They're just using you for the photo op; After that, oh well; 🤷🏻‍♀️ 
+@redamberblack @philip_bray @sparrow_42 @realDonaldTrump These high-risk folks are real people too, you know; They're just like you; They have lives that are full and complicated; They are moms, dads, roommates, and community members; They are real people who can't just check out of society for a year or two;
+@NYScanner @Breaking911 @realDonaldTrump @NYPDnews @TrumpWarRoom I do not like trump, but you shouldn't have rocks thrown at you just for showing your support; If you don't like it just ignore it, dont act like a child;
+@KatharinaKoelb1 @realDonaldTrump I do believe since less than 10% of People believe the MSM after their "peaceful protest" lies that you might be projecting your fears;;; It's not that the American's Believe what 1 Person says they just stopped being sheep &amp; research the truth &amp; Fed docs show you are WRONG;
+Just heard both @JoeBiden and @KamalaHarris talking about this today;  'The Big Guy' threw out some date in March;  @realDonaldTrump started the travel ban for #china on 1/31;  At that point there were only 2 deaths outside of China - Philippines and Hong Kong;
+@joshscampbell Then why is Putin being mean to @realDonaldTrump about Hunter Biden; Just to play with him; Show the overfed slave boy who’s boss;
+@MillerinDc @realDonaldTrump @SecPompeo @WHNSC Wait, so there's a man in the sky controlling everything - like murdering children - but you believe Trump is the problem;😂😂😂
+@pjsecluded @BelieveIt__2020 @Tzedek_Assoc @realDonaldTrump What's the connection;  There are orthodox Rabbis both for biden and Trump; Is there any diversity of thought in the Reform regarding this;
+Hopefully #Azerbaijan will not break this cease fire just like the previous two ones‼️ Dear @realDonaldTrump, Mr; President, it’s just the right time to #RecognizeArtsakh to #StopTurkishTerrorism and #StopAzerbaijaniAggression‼️ #ArtsakhStrong ✊🇦🇲   #PeaceForArmenia
+@realDonaldTrump @SecPompeo @WHNSC Thank you Mr President; 3rd time lucky perhaps; Hope you're able to keep these two war criminals in check; #StopAzerbaijaniAggression #StopTurkey  
+@realDonaldTrump Kamala don't need joe; People going around like parrots spouting party lines about joe; WE beat his azz back to SLEEP; Snake ain't dead yet;
+@realDonaldTrump @DonaldJTrumpJr @RudyGiuliani @TuckerCarlson @IngrahamAngle @seanhannity Some light Reading for your pleasure this fine, lovely Fall Sunday evening;💋 
+
+Analytical
+@realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time;
+@anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Anna, don’t waste your time; They are brainwashed and think genocide is the answer;
+@K00l_Gladiator @kbuldakov1 @JeffreyGuterman @realDonaldTrump Again;;; How did the fix it;;; By implementing a new policy of separating children and parents and then loosing the parents;;;;;; Absolutely disgusting and a disgrace to America;;;;
+@Katincleveland @CryptoGooby @ObjectiveVoters @DavidShafer @GaRepublicans @JoeBiden @realDonaldTrump @SenateGOP I don't watch CNN, don't have cable TV; I work and try to keep my 2 kids going in school; All I've gotten in terms of help from the Trump administration was one $600 check;;; To then learn that that sleazy scammer only paid $750 in TAXES in recent years was really galling;
+@DonaldJTrumpJr You’re sticking with @realDonaldTrump because he’ll cut your allowance if you don’t allow him to fill out your ballot; #BidenHarris2020 #TrumpIsPathetic #TrumpIsLosing #TrumpCrimeFamily
+@___9275861_btn_ @realDonaldTrump @SecPompeo @WHNSC The CDC released info about how 100,000 deaths reported by hospitals were not actually caused by covid and then there is this bad boy (Attached picture);;; #BringTheTroopsHome#EndForeignWarsI thought hippies were already on bored with this;;; What happened;;;  
+@realDonaldTrump @DonaldJTrumpJr @kimguilfoyle  please look at Philadelphia, Pa early ballots 200,000 have been pitched so far; If a person says the sig does not match, the machine says it does, another person says it doesn’t, they pitch it; We need to ck out with different panel
+@SpacemanYoung put Me on in 2016 I was mind blown I'm not Gon lie @PHARAOH_ATEN_ because I was thinking SIMILAR but was lacking certain expressions I couldn't figure out @sun @bmoorewya
+@realDonaldTrump Just in case you forgot about Stormy Daniels &amp; Karen McDougal because many women &amp; I haven’t forgot $130K in hush money for @realDonaldTrump infidelities adulteress affairs which is an abomination &amp; a sin in the eyes of God to cheat on 3 of 3 wives; @FLOTUS  
+@joshscampbell Then why is Putin being mean to @realDonaldTrump about Hunter Biden; Just to play with him; Show the overfed slave boy who’s boss;
+@pjsecluded @BelieveIt__2020 @Tzedek_Assoc @realDonaldTrump What's the connection;  There are orthodox Rabbis both for biden and Trump; Is there any diversity of thought in the Reform regarding this;
+@realDonaldTrump AMERICANS REALLY LOOK AT THIS LETTER IT WAS MADE IN JUNE AN NOW NOW 9 DAYS BEFORE ELECTION TRUMP DECIDED TO SHOW YOU TRUMP CALLED BIDEN A POLITICIAN BUT EVERYTHING TRUMP IS DOING ON TWITTER IS BEING A POLITICIAN
+Hopefully #Azerbaijan will not break this cease fire just like the previous two ones‼️ Dear @realDonaldTrump, Mr; President, it’s just the right time to #RecognizeArtsakh to #StopTurkishTerrorism and #StopAzerbaijaniAggression‼️ #ArtsakhStrong ✊🇦🇲   #PeaceForArmenia
+@thunderf00t @navcenter77 @realDonaldTrump Population is exploding as we speak; Natural selection is how that population is controlled; As you know when a population reach a certain amount a virus/bacteria will appear; Overpopulation is very bad; Lack of land area and resources will lead to war; I very much dislike war;
+@GOPChairwoman @realDonaldTrump Let me say what the video cut off: Joe Biden is saying (quoting someone else) that "dark days are ahead" REGARDING COVID-19;  And he's right; our numbers are getting worse and worse;In addition, he WILL raise taxes;;;on those making OVER $400,000; That's not most of us;
+@connorestafan @NYScanner @realDonaldTrump @TrumpWarRoom That's a racist statement; But we expect nothing but that from leftist haters of America🥴
+@Druzzer55 @GlobalVarkey @thehill @realDonaldTrump What normal; He gave black Americans the lowest unemployment and highest wages ever recorded;  You want Bidens normal back; Tens of thousands sent to prison and separated from their families; What normal do you prefer;
+
+Anger
+So, it is @realDonaldTrump, and the #GOP, who have made me distrust the election;  Can we report them;1;  Illegal Voter Boxes all over CA, by the GOP;2;  Trumps friend destroying the USPS ability to process mail;3;  GOP put armed voter suppression people in FL;
+@realDonaldTrump You’re corrupt; Corrupt; We, the American Majority, are in the process of firing your incompetent ass; Hire a mover to get your gaudy shit out of the WH;
+@anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Anna, don’t waste your time; They are brainwashed and think genocide is the answer;
+@realDonaldTrump @SecPompeo @WHNSC This is what happened to Azerbaijan 2 minutes after ceasefire; Armenia accuses Azerbaijan but has 0 proof; Here is our proof;  
+@Acosta Rounding the corner or falling off the cliff;  Incompetent @realDonaldTrump has no clue what to do so he is doing nothing;  The @GOP deserves to be destroyed for enabling him;@GOPChairwoman @GOPLeader @DNCWarRoom  
+@Mike_Pence @realDonaldTrump Stop bringing more Covid to our state; You should be in quarantine; You know how irresponsible this is, you are the head of the dang task force;
+@AlexVickeryHowe @BcrewMark @mednat1949 @charliekirk11 @realDonaldTrump So children were fed properly, never separated from their parents and were only there a short time; Comes trump and makes these illegals a living hell; Oh by the way, the people that came here; We’re legal or illegal; Bad bad orange man;
+@ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Besides being ignorant you are also a racist fool; It’s time you learn the meaning of the word respect; Till then shut upDr; Parik Patel, BA, CFA, ACCA 💸 @ParikPatelCFA You are a racist I've been running long short equity since before you were born have some damn respect
+@jernigan_anita @sherifflamb1 @realDonaldTrump I'm amazed you despicable monsters keep trying to change the subject to coyotes when this criminal administration stole children from THEIR PARENTS;
+@SpacemanYoung put Me on in 2016 I was mind blown I'm not Gon lie @PHARAOH_ATEN_ because I was thinking SIMILAR but was lacking certain expressions I couldn't figure out @sun @bmoorewya
+Rampant hate crimes and anti semitism thank you @realDonaldTrump for this atmosphere of name calling, intolerance, and hate;
+@realDonaldTrump AMERICANS REALLY LOOK AT THIS LETTER IT WAS MADE IN JUNE AN NOW NOW 9 DAYS BEFORE ELECTION TRUMP DECIDED TO SHOW YOU TRUMP CALLED BIDEN A POLITICIAN BUT EVERYTHING TRUMP IS DOING ON TWITTER IS BEING A POLITICIAN
+@atrupar The paid clowns behind the imbecile @realDonaldTrump have no idea what’s going on; #TrumpIsAnIdiot #TrumpIsANationalDisgrace #BidenHarris2020
+@connorestafan @NYScanner @realDonaldTrump @TrumpWarRoom That's a racist statement; But we expect nothing but that from leftist haters of America🥴
+Hell of a public relations campaign;@KatieDaviscourt @jasonrantz@realDonaldTrump They burn, loot, and destroy hundreds of peoples lives in Seattle/Olympia and now they want us to think that they've been transformed into better citizens because they didn't riot yesterday;  
+
+Joy
+We love you guys;  Looked for you at the Pensacola rally;  Maybe I’ll get to meet you in President Trump’s 2nd term;;  #FourMoreYears #Trump2020 #VoteRed
+#TrumpSurrendered If you really love America you’ll just drop out now; Please do it @realDonaldTrump @POTUS you’d finally be doing a service for your country; #TrumpDancesAmericansDie #BidenHarris #RIPGOP #VoteBlue  
+@realDonaldTrump @SecPompeo @WHNSC I defy #President #Trump to find #Azerbaijan and #Armenia on a map;( you can through in #Iran for bonus points) &lt;I’m sure he’d have better luck finding #Moscow&gt;
+@realDonaldTrump @SecPompeo @WHNSC Trump the greatest president of all time;;must include him in the Mount Rushmore National Memorial; #Trump2020Landslide
+#TreworgyFamilyOrchards is a great place; So nice of #realDonaldTrump to go there—with a few thousand others;; #GoTrump2020
+@realDonaldTrump @SecPompeo @WHNSC Thank you Mr President; 3rd time lucky perhaps; Hope you're able to keep these two war criminals in check; #StopAzerbaijaniAggression #StopTurkey  
+@WarRoomPandemic @DineshDSouza @DrLiMengYAN1 @realDonaldTrump @WarRoom2020 Hahahahaha;;;;;;not very long ago President Windbag was singing President Xi’s praises and proclaiming his great leadership;
+@realDonaldTrump @SecPompeo @WHNSC Thank you Mr; President; Looking for another 4 awesome years from you and your cabinet; #Trump2020 #RecognizeArtsakh #Armenia
+@realDonaldTrump @DonaldJTrumpJr @RudyGiuliani @TuckerCarlson @IngrahamAngle @seanhannity Some light Reading for your pleasure this fine, lovely Fall Sunday evening;💋 
+
+Confident
+@K00l_Gladiator @kbuldakov1 @JeffreyGuterman @realDonaldTrump Again;;; How did the fix it;;; By implementing a new policy of separating children and parents and then loosing the parents;;;;;; Absolutely disgusting and a disgrace to America;;;;
+@realDonaldTrump @SecPompeo @WHNSC This is what happened to Azerbaijan 2 minutes after ceasefire; Armenia accuses Azerbaijan but has 0 proof; Here is our proof;  
+@Mike_Pence @realDonaldTrump Breaking News; Watch out; Joe Biden’s son Hunter Biden is actually…-Gnews   https://t;co/IPAIiySTyf
+@realDonaldTrump @SecPompeo @WHNSC Trump the greatest president of all time;;must include him in the Mount Rushmore National Memorial; #Trump2020Landslide
+@thunderf00t @navcenter77 @realDonaldTrump Population is exploding as we speak; Natural selection is how that population is controlled; As you know when a population reach a certain amount a virus/bacteria will appear; Overpopulation is very bad; Lack of land area and resources will lead to war; I very much dislike war;
+
+Sadness
+Justice Ginsberg said her last wish is to see that she's replaced after the Presidential election; She knew how close it was; @senatemajldr, @GOP, and @realDonaldTrump were waiting for her to drop dead; They had a HEAVILY-vetted ultra-conservative woman set on reversing Roe;;;
+@CLewandowski_ @realDonaldTrump @JoeBiden Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  🇦🇿🇦🇿
+@___9275861_btn_ @realDonaldTrump @SecPompeo @WHNSC The CDC released info about how 100,000 deaths reported by hospitals were not actually caused by covid and then there is this bad boy (Attached picture);;; #BringTheTroopsHome#EndForeignWarsI thought hippies were already on bored with this;;; What happened;;;  
+@anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC What about refugees of Karabakh Azerbaijanis; why they don’t live there now; The armenians kicked them out from their homes; Will you deny it;
+@realDonaldTrump Trump/Pence are ignoring threat of virus 9 days b4 Election Day, continuing to downplay its risk at packed rallies across  country while endangering  lives of people around them, including their own staff &amp; supporters; #TrumpCovidRallies #TrumpOnlyCaresAboutTrump #WakeUpPeople
+@thejtlewis @longislandtea12 He quit; He's Done; He Lied For Months; Biden/Harris a Fraud that didn't work; Biden knows he's done; America knows its over; The 47 years of failed politics now criminal investigation &amp; China has him by the short hairs; Biden/Harris ticket is Finished; @realDonaldTrump
+@heinko00906861 @realDonaldTrump @SecPompeo @WHNSC #VoteBidenHarris2020tRump cut pandemic team/Gave china U;S; PPE/Hid #COVID19 2nd wave;Jan-Mar: golf 6/rallies 9tRump incompetence caused #TrumpRecession/HIGHEST #TrumpVirus cases &amp; deaths of any country;U;S; Today: OVER 8,640,000/225,000 dead &amp; RISING; 
+@TeamTrump @realDonaldTrump Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  🇦🇿🇦🇿
+@BamaGeorgia @hodgetwins @realDonaldTrump I'm not his lawyer or no him personally so you'd need them ask them that, but if they where able to make up a big treasonous lie like that, wouldn't they of went after him for the thing you said about; Why didn't they; Why wasn't that on the fake news 24/7 instead of the lie;
+@GOPChairwoman @realDonaldTrump Let me say what the video cut off: Joe Biden is saying (quoting someone else) that "dark days are ahead" REGARDING COVID-19;  And he's right; our numbers are getting worse and worse;In addition, he WILL raise taxes;;;on those making OVER $400,000; That's not most of us;
+

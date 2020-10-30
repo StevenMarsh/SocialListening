@@ -16,5 +16,5 @@ def cleanJSON(outputFile): # json derulo a.k.a name of json file inpout
         output.write(str(y["sentence_id"] + 1) + ". " + y["text"] + "\n")
         for n in y["tones"]:
             output.write("\t" + n["tone_name"] + ": " + str(n["score"]) + "\n")
-
+tuple
 
