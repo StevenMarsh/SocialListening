@@ -1,882 +1,882 @@
 {
-  "sentences_tone": [
-    {
-      "tones": [],
-      "text": "@joemaggio9 @realDonaldTrump Hunter, Jim ;;; and Joe Biden are criminals; And they are controlled by CCP;https://t;co/L3e8lts24Y",
-      "sentence_id": 0
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Fear",
-          "score": 0.576902,
-          "tone_id": "fear"
-        },
-        {
-          "tone_name": "Tentative",
-          "score": 0.698904,
-          "tone_id": "tentative"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.574477,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time;",
-      "sentence_id": 1
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.554266,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "So, it is @realDonaldTrump, and the #GOP, who have made me distrust the election;  Can we report them;1;  Illegal Voter Boxes all over CA, by the GOP;2;  Trumps friend destroying the USPS ability to process mail;3;  GOP put armed voter suppression people in FL;",
-      "sentence_id": 2
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Joy",
-          "score": 0.720942,
-          "tone_id": "joy"
-        }
-      ],
-      "text": "We love you guys;  Looked for you at the Pensacola rally;  Maybe I\u2019ll get to meet you in President Trump\u2019s 2nd term;;  #FourMoreYears #Trump2020 #VoteRed",
-      "sentence_id": 3
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump SHEIN EUR SITE https://t;co/4LYBBms3h9https://t;co/al29Kg7vDlhttps://t;co/lqIi7KJhbxhttps://t;co/FblVlcMZfDhttps://t;co/kJlKdbDE0Yhttps://t;co/Vaz5KAVtQrhttps://t;co/z0vWTGiVZFfgbfg",
-      "sentence_id": 4
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.609025,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "@realDonaldTrump You\u2019re corrupt; Corrupt; We, the American Majority, are in the process of firing your incompetent ass; Hire a mover to get your gaudy shit out of the WH;",
-      "sentence_id": 5
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.590987,
-          "tone_id": "anger"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.801827,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Anna, don\u2019t waste your time; They are brainwashed and think genocide is the answer;",
-      "sentence_id": 6
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Analytical",
-          "score": 0.54839,
-          "tone_id": "analytical"
-        },
-        {
-          "tone_name": "Confident",
-          "score": 0.605143,
-          "tone_id": "confident"
-        }
-      ],
-      "text": "@K00l_Gladiator @kbuldakov1 @JeffreyGuterman @realDonaldTrump Again;;; How did the fix it;;; By implementing a new policy of separating children and parents and then loosing the parents;;;;;; Absolutely disgusting and a disgrace to America;;;;",
-      "sentence_id": 7
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Joy",
-          "score": 0.789951,
-          "tone_id": "joy"
-        }
-      ],
-      "text": "#TrumpSurrendered If you really love America you\u2019ll just drop out now; Please do it @realDonaldTrump @POTUS you\u2019d finally be doing a service for your country; #TrumpDancesAmericansDie #BidenHarris #RIPGOP #VoteBlue  ",
-      "sentence_id": 8
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.512973,
-          "tone_id": "sadness"
-        }
-      ],
-      "text": "Justice Ginsberg said her last wish is to see that she's replaced after the Presidential election; She knew how close it was; @senatemajldr, @GOP, and @realDonaldTrump were waiting for her to drop dead; They had a HEAVILY-vetted ultra-conservative woman set on reversing Roe;;;",
-      "sentence_id": 9
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump @realDonaldTrump You already posted this numbnuts; We couldn\u2019t hear it the first time;;;; Please once you\u2019re out of office get the help you so desperately need;;;;;",
-      "sentence_id": 10
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.651179,
-          "tone_id": "anger"
-        },
-        {
-          "tone_name": "Confident",
-          "score": 0.543112,
-          "tone_id": "confident"
-        }
-      ],
-      "text": "@realDonaldTrump @SecPompeo @WHNSC This is what happened to Azerbaijan 2 minutes after ceasefire; Armenia accuses Azerbaijan but has 0 proof; Here is our proof;  ",
-      "sentence_id": 11
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump This guy without his special \"I can make it 2 hours on these meds\" sounds like this; Remember folks, this is a RECORDED ad, unlimited takes;; Keep that in mind;   ",
-      "sentence_id": 12
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump @SeanParnellUSA @TheJusticeDept The bottom is falling out of the GOP smear machine;GOP Chair Forced to Admit to Fox News There's No Evidence of Wrongdoing By Biden ",
-      "sentence_id": 13
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.600417,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "@Acosta Rounding the corner or falling off the cliff;  Incompetent @realDonaldTrump has no clue what to do so he is doing nothing;  The @GOP deserves to be destroyed for enabling him;@GOPChairwoman @GOPLeader @DNCWarRoom  ",
-      "sentence_id": 14
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Tentative",
-          "score": 0.654647,
-          "tone_id": "tentative"
-        }
-      ],
-      "text": "@realDonaldTrump Trump and Pence have surrendered to COVID-19; They don't care about groups of people canoodling;They don't care if you or your family get it; They're just using you for the photo op; After that, oh well; \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f ",
-      "sentence_id": 15
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Analytical",
-          "score": 0.745832,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@Katincleveland @CryptoGooby @ObjectiveVoters @DavidShafer @GaRepublicans @JoeBiden @realDonaldTrump @SenateGOP I don't watch CNN, don't have cable TV; I work and try to keep my 2 kids going in school; All I've gotten in terms of help from the Trump administration was one $600 check;;; To then learn that that sleazy scammer only paid $750 in TAXES in recent years was really galling;",
-      "sentence_id": 16
-    },
-    {
-      "tones": [],
-      "text": "@kayleighmcenany @realDonaldTrump This;;;; while scores of Dems gather where it counts;;;; at the voting booths;  Blue tsunami is on the way;",
-      "sentence_id": 17
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.710269,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "@Mike_Pence @realDonaldTrump Stop bringing more Covid to our state; You should be in quarantine; You know how irresponsible this is, you are the head of the dang task force;",
-      "sentence_id": 18
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Tentative",
-          "score": 0.519411,
-          "tone_id": "tentative"
-        }
-      ],
-      "text": "@redamberblack @philip_bray @sparrow_42 @realDonaldTrump These high-risk folks are real people too, you know; They're just like you; They have lives that are full and complicated; They are moms, dads, roommates, and community members; They are real people who can't just check out of society for a year or two;",
-      "sentence_id": 19
-    },
-    {
-      "tones": [],
-      "text": "#TrumpCrimeFamily                 It\u2019s not a presidency;  It\u2019s an INTERNATIONAL CRIMINAL ENTERPRISE  ",
-      "sentence_id": 20
-    },
-    {
-      "tones": [],
-      "text": "@WhiteHouse @realDonaldTrump Our President is a horse\u2019s ass; For cheap campaign rally entertainment he slanders front line health care workers; Reprehensible; Liar;  ",
-      "sentence_id": 21
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump @SecPompeo @WHNSC Lives saved;  You are killing Americans with the tRump virus; Oh and Texas is turning for Biden; Vote blue before he kills you;",
-      "sentence_id": 22
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Confident",
-          "score": 0.751512,
-          "tone_id": "confident"
-        }
-      ],
-      "text": "@Mike_Pence @realDonaldTrump Breaking News; Watch out; Joe Biden\u2019s son Hunter Biden is actually\u2026-Gnews   https://t;co/IPAIiySTyf",
-      "sentence_id": 23
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.57401,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "@AlexVickeryHowe @BcrewMark @mednat1949 @charliekirk11 @realDonaldTrump So children were fed properly, never separated from their parents and were only there a short time; Comes trump and makes these illegals a living hell; Oh by the way, the people that came here; We\u2019re legal or illegal; Bad bad orange man;",
-      "sentence_id": 24
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Analytical",
-          "score": 0.620279,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@DonaldJTrumpJr You\u2019re sticking with @realDonaldTrump because he\u2019ll cut your allowance if you don\u2019t allow him to fill out your ballot; #BidenHarris2020 #TrumpIsPathetic #TrumpIsLosing #TrumpCrimeFamily",
-      "sentence_id": 25
-    },
-    {
-      "tones": [],
-      "text": "@Mike_Pence @realDonaldTrump Hello North Carolina; I should be in quarantine for 14 days but I don\u2019t care about your health;  Let\u2019s round the corner;;;to the graveyard;",
-      "sentence_id": 26
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Joy",
-          "score": 0.509015,
-          "tone_id": "joy"
-        }
-      ],
-      "text": "@realDonaldTrump @SecPompeo @WHNSC I defy #President #Trump to find #Azerbaijan and #Armenia on a map;( you can through in #Iran for bonus points) &lt;I\u2019m sure he\u2019d have better luck finding #Moscow&gt;",
-      "sentence_id": 27
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.585769,
-          "tone_id": "sadness"
-        }
-      ],
-      "text": "@CLewandowski_ @realDonaldTrump @JoeBiden Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  \ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff",
-      "sentence_id": 28
-    },
-    {
-      "tones": [],
-      "text": "@gsopoagmle @realDonaldTrump @SecPompeo @WHNSC @60Minutes I have seen his version I think it\u2019s important for America to see @LesleyRStahl \u2018s reactions Let\u2019s just see how vicious she was ;;;                       \ud83d\ude02\ud83d\ude02\ud83d\ude02goddamn he\u2019s such a pu$$y ;",
-      "sentence_id": 29
-    },
-    {
-      "tones": [],
-      "text": "@kayleighmcenany @realDonaldTrump A surprise stop with buses; Or did POTUS and staff come in on those buses; I have a hard time imagining Trump riding in a bus;",
-      "sentence_id": 30
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Tentative",
-          "score": 0.812219,
-          "tone_id": "tentative"
-        }
-      ],
-      "text": "@NYScanner @Breaking911 @realDonaldTrump @NYPDnews @TrumpWarRoom I do not like trump, but you shouldn't have rocks thrown at you just for showing your support; If you don't like it just ignore it, dont act like a child;",
-      "sentence_id": 31
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump SHEIN EUR SITE https://t;co/4LYBBms3h9https://t;co/al29Kg7vDlhttps://t;co/lqIi7KJhbxhttps://t;co/FblVlcMZfDhttps://t;co/kJlKdbDE0Yhttps://t;co/Vaz5KAVtQrhttps://t;co/z0vWTGiVZFfgbfbf",
-      "sentence_id": 32
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.635806,
-          "tone_id": "sadness"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.762356,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@___9275861_btn_ @realDonaldTrump @SecPompeo @WHNSC The CDC released info about how 100,000 deaths reported by hospitals were not actually caused by covid and then there is this bad boy (Attached picture);;; #BringTheTroopsHome#EndForeignWarsI thought hippies were already on bored with this;;; What happened;;;  ",
-      "sentence_id": 33
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Joy",
-          "score": 0.508004,
-          "tone_id": "joy"
-        },
-        {
-          "tone_name": "Confident",
-          "score": 0.767592,
-          "tone_id": "confident"
-        }
-      ],
-      "text": "@realDonaldTrump @SecPompeo @WHNSC Trump the greatest president of all time;;must include him in the Mount Rushmore National Memorial; #Trump2020Landslide",
-      "sentence_id": 34
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump The bottom is falling out of the GOP smear machine;GOP Chair Forced to Admit to Fox News There's No Evidence of Wrongdoing By Biden ",
-      "sentence_id": 35
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.50721,
-          "tone_id": "sadness"
-        }
-      ],
-      "text": "@anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC What about refugees of Karabakh Azerbaijanis; why they don\u2019t live there now; The armenians kicked them out from their homes; Will you deny it;",
-      "sentence_id": 36
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Fear",
-          "score": 0.722041,
-          "tone_id": "fear"
-        }
-      ],
-      "text": "@WhiteHouse @realDonaldTrump @FLOTUS Are you kidding @WhiteHouse, @realDonaldTrump has been running a \u201cHouse of Horrors\u201d for the past 4 years;  Why is Halloween any different;",
-      "sentence_id": 37
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.530702,
-          "tone_id": "sadness"
-        }
-      ],
-      "text": "@realDonaldTrump Trump/Pence are ignoring threat of virus 9 days b4 Election Day, continuing to downplay its risk at packed rallies across  country while endangering  lives of people around them, including their own staff &amp; supporters; #TrumpCovidRallies #TrumpOnlyCaresAboutTrump #WakeUpPeople",
-      "sentence_id": 38
-    },
-    {
-      "tones": [],
-      "text": "@Mike_Pence @realDonaldTrump The US senate republicans are about to steal the voices of millions of Americans on Monday 10/26/20 when they vote for the next justice  of the SCOTUS by not waiting until after the election;;;;",
-      "sentence_id": 39
-    },
-    {
-      "tones": [],
-      "text": "@BethLynch2020 Maybe an @realDonaldTrump 2020 victory will bury the corrupt @DNC controlled  #DemocraticParty for good; I won\u2019t mind it at all;;;",
-      "sentence_id": 40
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Fear",
-          "score": 0.606738,
-          "tone_id": "fear"
-        },
-        {
-          "tone_name": "Tentative",
-          "score": 0.767279,
-          "tone_id": "tentative"
-        }
-      ],
-      "text": "@KatharinaKoelb1 @realDonaldTrump I do believe since less than 10% of People believe the MSM after their \"peaceful protest\" lies that you might be projecting your fears;;; It's not that the American's Believe what 1 Person says they just stopped being sheep &amp; research the truth &amp; Fed docs show you are WRONG;",
-      "sentence_id": 41
-    },
-    {
-      "tones": [],
-      "text": "@WarRoomPandemic @DineshDSouza @DrLiMengYAN1 @realDonaldTrump @WarRoom2020 In liberating fashion, our tactics are sooner, how we liberate our numbers, and in the same fashion effectively decimate theirs, w/ prior concern that many are incapable of defense against these tactics drawn quicker; It's the fact whether or not anyone is capable of inflicting;",
-      "sentence_id": 42
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.663388,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "@ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Besides being ignorant you are also a racist fool; It\u2019s time you learn the meaning of the word respect; Till then shut upDr; Parik Patel, BA, CFA, ACCA \ud83d\udcb8 @ParikPatelCFA You are a racist I've been running long short equity since before you were born have some damn respect",
-      "sentence_id": 43
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Analytical",
-          "score": 0.74948,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@realDonaldTrump @DonaldJTrumpJr @kimguilfoyle  please look at Philadelphia, Pa early ballots 200,000 have been pitched so far; If a person says the sig does not match, the machine says it does, another person says it doesn\u2019t, they pitch it; We need to ck out with different panel",
-      "sentence_id": 44
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.553798,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "@jernigan_anita @sherifflamb1 @realDonaldTrump I'm amazed you despicable monsters keep trying to change the subject to coyotes when this criminal administration stole children from THEIR PARENTS;",
-      "sentence_id": 45
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Tentative",
-          "score": 0.565693,
-          "tone_id": "tentative"
-        }
-      ],
-      "text": "Just heard both @JoeBiden and @KamalaHarris talking about this today;  'The Big Guy' threw out some date in March;  @realDonaldTrump started the travel ban for #china on 1/31;  At that point there were only 2 deaths outside of China - Philippines and Hong Kong;",
-      "sentence_id": 46
-    },
-    {
-      "tones": [],
-      "text": "I guess Kam realizes that the Demoncrats will not win; last desperate intent to gain voters; Also, this is voter interference;",
-      "sentence_id": 47
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump David Limbaugh@DavidLimbaughThis is in the category of Surreal on Steroids; Who could write a movie this bizarre; The presidential candidate has announced he will stop in person campaigning NINE DAYS BEFORE THE ELECTION;",
-      "sentence_id": 48
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.570123,
-          "tone_id": "anger"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.806276,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@SpacemanYoung put Me on in 2016 I was mind blown I'm not Gon lie @PHARAOH_ATEN_ because I was thinking SIMILAR but was lacking certain expressions I couldn't figure out @sun @bmoorewya",
-      "sentence_id": 49
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.797843,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "Rampant hate crimes and anti semitism thank you @realDonaldTrump for this atmosphere of name calling, intolerance, and hate;",
-      "sentence_id": 50
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump @SecPompeo @WHNSC We want our motherlands, we want our #Karabagh ; Armenians occupies our motherland; if they won\u2019t give it by civil way we will take it by war; we will death but will take all ours;;; #KarabakhisAzerbaijan #StopArmenianTerror",
-      "sentence_id": 51
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Analytical",
-          "score": 0.672133,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@realDonaldTrump Just in case you forgot about Stormy Daniels &amp; Karen McDougal because many women &amp; I haven\u2019t forgot $130K in hush money for @realDonaldTrump infidelities adulteress affairs which is an abomination &amp; a sin in the eyes of God to cheat on 3 of 3 wives; @FLOTUS  ",
-      "sentence_id": 52
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.599956,
-          "tone_id": "sadness"
-        }
-      ],
-      "text": "@thejtlewis @longislandtea12 He quit; He's Done; He Lied For Months; Biden/Harris a Fraud that didn't work; Biden knows he's done; America knows its over; The 47 years of failed politics now criminal investigation &amp; China has him by the short hairs; Biden/Harris ticket is Finished; @realDonaldTrump",
-      "sentence_id": 53
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Tentative",
-          "score": 0.615352,
-          "tone_id": "tentative"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.702145,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@joshscampbell Then why is Putin being mean to @realDonaldTrump about Hunter Biden; Just to play with him; Show the overfed slave boy who\u2019s boss;",
-      "sentence_id": 54
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.60594,
-          "tone_id": "sadness"
-        }
-      ],
-      "text": "@heinko00906861 @realDonaldTrump @SecPompeo @WHNSC #VoteBidenHarris2020tRump cut pandemic team/Gave china U;S; PPE/Hid #COVID19 2nd wave;Jan-Mar: golf 6/rallies 9tRump incompetence caused #TrumpRecession/HIGHEST #TrumpVirus cases &amp; deaths of any country;U;S; Today: OVER 8,640,000/225,000 dead &amp; RISING; ",
-      "sentence_id": 55
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Tentative",
-          "score": 0.615352,
-          "tone_id": "tentative"
-        }
-      ],
-      "text": "@MillerinDc @realDonaldTrump @SecPompeo @WHNSC Wait, so there's a man in the sky controlling everything - like murdering children - but you believe Trump is the problem;\ud83d\ude02\ud83d\ude02\ud83d\ude02",
-      "sentence_id": 56
-    },
-    {
-      "tones": [],
-      "text": "@ObjectiveVoters @DavidShafer @GaRepublicans @JoeBiden @realDonaldTrump @SenateGOP A clean Bill of pandemic relief was passed in the Senate;Pelosi killed it to get hundreds of billions of dollars worth of federal tax (SALT) deductions for the ultra rich in Blue States;",
-      "sentence_id": 57
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Joy",
-          "score": 0.9038,
-          "tone_id": "joy"
-        }
-      ],
-      "text": "#TreworgyFamilyOrchards is a great place; So nice of #realDonaldTrump to go there\u2014with a few thousand others;; #GoTrump2020",
-      "sentence_id": 58
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Tentative",
-          "score": 0.5538,
-          "tone_id": "tentative"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.574477,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@pjsecluded @BelieveIt__2020 @Tzedek_Assoc @realDonaldTrump What's the connection;  There are orthodox Rabbis both for biden and Trump; Is there any diversity of thought in the Reform regarding this;",
-      "sentence_id": 59
-    },
-    {
-      "tones": [],
-      "text": "@markbotsford @TeamTrump @realDonaldTrump Trump hasn't killed anyone; Democrats &amp; their Marxist BLM &amp; ANTIFA have though; Also democrats think they have the right to;",
-      "sentence_id": 60
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.547556,
-          "tone_id": "anger"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.834409,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@realDonaldTrump AMERICANS REALLY LOOK AT THIS LETTER IT WAS MADE IN JUNE AN NOW NOW 9 DAYS BEFORE ELECTION TRUMP DECIDED TO SHOW YOU TRUMP CALLED BIDEN A POLITICIAN BUT EVERYTHING TRUMP IS DOING ON TWITTER IS BEING A POLITICIAN",
-      "sentence_id": 61
-    },
-    {
-      "tones": [],
-      "text": "@WhiteHouse @realDonaldTrump @FLOTUS Cowards they have let the virus defeat them;; Not me I\u2019m an American and I will keep fighting; Vote Trump and the GOP out;;",
-      "sentence_id": 62
-    },
-    {
-      "tones": [],
-      "text": "@CoreysDigs I'd like to add;;;Since 75% of new registered voters are Republican, this should equate to an unquestionable win for @realDonaldTrump  ",
-      "sentence_id": 63
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Tentative",
-          "score": 0.861422,
-          "tone_id": "tentative"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.519491,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "Hopefully #Azerbaijan will not break this cease fire just like the previous two ones\u203c\ufe0f Dear @realDonaldTrump, Mr; President, it\u2019s just the right time to #RecognizeArtsakh to #StopTurkishTerrorism and #StopAzerbaijaniAggression\u203c\ufe0f #ArtsakhStrong \u270a\ud83c\udde6\ud83c\uddf2   #PeaceForArmenia",
-      "sentence_id": 64
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.528978,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "@atrupar The paid clowns behind the imbecile @realDonaldTrump have no idea what\u2019s going on; #TrumpIsAnIdiot #TrumpIsANationalDisgrace #BidenHarris2020",
-      "sentence_id": 65
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Joy",
-          "score": 0.510665,
-          "tone_id": "joy"
-        },
-        {
-          "tone_name": "Tentative",
-          "score": 0.88939,
-          "tone_id": "tentative"
-        }
-      ],
-      "text": "@realDonaldTrump @SecPompeo @WHNSC Thank you Mr President; 3rd time lucky perhaps; Hope you're able to keep these two war criminals in check; #StopAzerbaijaniAggression #StopTurkey  ",
-      "sentence_id": 66
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump @SeanParnellUSA The bottom is falling out of the GOP smear machine;GOP Chair Forced to Admit to Fox News There's No Evidence of Wrongdoing By Biden ",
-      "sentence_id": 67
-    },
-    {
-      "tones": [],
-      "text": "@JasonMillerinDC @KellyannePolls @Mike_Pence @realDonaldTrump \"Mike Pence is a badass\" is a phrase only a toad like Jason Miller would say; No one with a brain would ever put that sentence together \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
-      "sentence_id": 68
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump @realDonaldTrump scripts the Senate Talking Points:CONCEAL the- Beneficiaries of the Tax Bill- Unredacted Mueller Report- Personal Tax Returns- Deadly Health Risk of Covid-19- Repeal of the Affordable Care Act- Repeal of DACA- DOT Funds &amp; the Nat'l Debt;Vote @JoeBiden",
-      "sentence_id": 69
-    },
-    {
-      "tones": [],
-      "text": "@Mike_Pence @realDonaldTrump The US senate republicans are about to steal the voices of millions of Americans on Monday 10/26/20 when they vote for the next justice  of the SCOTUS by not waiting until after the election;;;;;",
-      "sentence_id": 70
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Analytical",
-          "score": 0.601699,
-          "tone_id": "analytical"
-        },
-        {
-          "tone_name": "Confident",
-          "score": 0.61043,
-          "tone_id": "confident"
-        }
-      ],
-      "text": "@thunderf00t @navcenter77 @realDonaldTrump Population is exploding as we speak; Natural selection is how that population is controlled; As you know when a population reach a certain amount a virus/bacteria will appear; Overpopulation is very bad; Lack of land area and resources will lead to war; I very much dislike war;",
-      "sentence_id": 71
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump Donald Trumps track record for 4 yearsNo healthcare plan, higher middle lower class taxes, Rich people pay no taxes, 225,000 dead Americans, 12,580,000 unemployed Americans, 8,000,000 more Americans in Poverty, while Donald Trump used well over 100,000,000 in tax money for golf",
-      "sentence_id": 72
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.585769,
-          "tone_id": "sadness"
-        }
-      ],
-      "text": "@TeamTrump @realDonaldTrump Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  \ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff",
-      "sentence_id": 73
-    },
-    {
-      "tones": [],
-      "text": "Bold strategy right before the election, \u2066@realDonaldTrump\u2069; \u2066@MarkMeadows\u2069 says 'we're not going to control the pandemic\u2019 #TrumpLied225KDied #TrumpVirus   ",
-      "sentence_id": 74
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.616561,
-          "tone_id": "sadness"
-        }
-      ],
-      "text": "@BamaGeorgia @hodgetwins @realDonaldTrump I'm not his lawyer or no him personally so you'd need them ask them that, but if they where able to make up a big treasonous lie like that, wouldn't they of went after him for the thing you said about; Why didn't they; Why wasn't that on the fake news 24/7 instead of the lie;",
-      "sentence_id": 75
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump you got our votes today; #Trump2020 #Trump2020LandslideVictory #VoteForTrump #VoteEarlyDay #Republicans  ",
-      "sentence_id": 76
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Joy",
-          "score": 0.831597,
-          "tone_id": "joy"
-        }
-      ],
-      "text": "@WarRoomPandemic @DineshDSouza @DrLiMengYAN1 @realDonaldTrump @WarRoom2020 Hahahahaha;;;;;;not very long ago President Windbag was singing President Xi\u2019s praises and proclaiming his great leadership;",
-      "sentence_id": 77
-    },
-    {
-      "tones": [],
-      "text": "@dvillella @realDonaldTrump Pence is the Head of the Virus Task Force;5 (min) of his staff have tested positive including his Chief of Staff; Why is he not under quarantine;Great messaging Mike;Imagine, we now have a President &amp; VP promoting the spread of a deadly virus; Can we move the vote to Oct 26;",
-      "sentence_id": 78
-    },
-    {
-      "tones": [],
-      "text": "@irina86304829 @Artak_Beglaryan @realDonaldTrump First u havent any info about our history, then by ur logic Roman Empire currently Italy should occupy Middle east, anatolia, europe and north africa because of they were first;",
-      "sentence_id": 79
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Sadness",
-          "score": 0.61175,
-          "tone_id": "sadness"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.632275,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@GOPChairwoman @realDonaldTrump Let me say what the video cut off: Joe Biden is saying (quoting someone else) that \"dark days are ahead\" REGARDING COVID-19;  And he's right; our numbers are getting worse and worse;In addition, he WILL raise taxes;;;on those making OVER $400,000; That's not most of us;",
-      "sentence_id": 80
-    },
-    {
-      "tones": [],
-      "text": "@Vee93244846 @merci171 @realDonaldTrump I get that sincerely as a person who never stopped going to work; Is your employer doing anything to test employees; Wether it\u2019s an election rally or wedding people have to weigh the risks and keep living; Lockdowns statistically do more harm then good; Be Vigilant not scared; \ud83d\ude4f",
-      "sentence_id": 81
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.530468,
-          "tone_id": "anger"
-        },
-        {
-          "tone_name": "Analytical",
-          "score": 0.705784,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@connorestafan @NYScanner @realDonaldTrump @TrumpWarRoom That's a racist statement; But we expect nothing but that from leftist haters of America\ud83e\udd74",
-      "sentence_id": 82
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Tentative",
-          "score": 0.716301,
-          "tone_id": "tentative"
-        }
-      ],
-      "text": "@realDonaldTrump Kamala don't need joe; People going around like parrots spouting party lines about joe; WE beat his azz back to SLEEP; Snake ain't dead yet;",
-      "sentence_id": 83
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Analytical",
-          "score": 0.69672,
-          "tone_id": "analytical"
-        }
-      ],
-      "text": "@Druzzer55 @GlobalVarkey @thehill @realDonaldTrump What normal; He gave black Americans the lowest unemployment and highest wages ever recorded;  You want Bidens normal back; Tens of thousands sent to prison and separated from their families; What normal do you prefer;",
-      "sentence_id": 84
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Joy",
-          "score": 0.88035,
-          "tone_id": "joy"
-        }
-      ],
-      "text": "@realDonaldTrump @SecPompeo @WHNSC Thank you Mr; President; Looking for another 4 awesome years from you and your cabinet; #Trump2020 #RecognizeArtsakh #Armenia",
-      "sentence_id": 85
-    },
-    {
-      "tones": [],
-      "text": "THIS IS DISGUSTING;; If you're in VA, PLEASE VOTE for @QasimRashid ;; They shot at his sign and posted @realDonaldTrump signs up on top; Muslims are \"terrorists\"; Who REALLY are the terrorists; Intimidating people like this; Pathetic, disgusting behavior #homeandgrown #terrorism",
-      "sentence_id": 86
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Joy",
-          "score": 0.944757,
-          "tone_id": "joy"
-        },
-        {
-          "tone_name": "Tentative",
-          "score": 0.5538,
-          "tone_id": "tentative"
-        }
-      ],
-      "text": "@realDonaldTrump @DonaldJTrumpJr @RudyGiuliani @TuckerCarlson @IngrahamAngle @seanhannity Some light Reading for your pleasure this fine, lovely Fall Sunday evening;\ud83d\udc8b ",
-      "sentence_id": 87
-    },
-    {
-      "tones": [
-        {
-          "tone_name": "Anger",
-          "score": 0.58111,
-          "tone_id": "anger"
-        }
-      ],
-      "text": "Hell of a public relations campaign;@KatieDaviscourt @jasonrantz@realDonaldTrump They burn, loot, and destroy hundreds of peoples lives in Seattle/Olympia and now they want us to think that they've been transformed into better citizens because they didn't riot yesterday;  ",
-      "sentence_id": 88
-    },
-    {
-      "tones": [],
-      "text": "Look Trump has thousands on a last minute stop with a blowhorn and Obama had like what 6 at his scheduled stop; Lol; Trump 2020",
-      "sentence_id": 89
-    },
-    {
-      "tones": [],
-      "text": "@realDonaldTrump My American brothers, here France in 2020 the government taxes its people to feed our Muslim immigrant enemies, women and men are assaulted, raped or slaughtered, no go zones prosper ;;;",
-      "sentence_id": 90
-    }
-  ],
   "document_tone": {
     "tones": [
       {
-        "tone_name": "Tentative",
+        "tone_id": "tentative",
         "score": 0.513009,
-        "tone_id": "tentative"
+        "tone_name": "Tentative"
       }
     ]
-  }
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "@joemaggio9 @realDonaldTrump Hunter, Jim ;;; and Joe Biden are criminals; And they are controlled by CCP;https://t;co/L3e8lts24Y",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "@realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time;",
+      "tones": [
+        {
+          "tone_id": "fear",
+          "score": 0.576902,
+          "tone_name": "Fear"
+        },
+        {
+          "tone_id": "analytical",
+          "score": 0.574477,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.698904,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "So, it is @realDonaldTrump, and the #GOP, who have made me distrust the election;  Can we report them;1;  Illegal Voter Boxes all over CA, by the GOP;2;  Trumps friend destroying the USPS ability to process mail;3;  GOP put armed voter suppression people in FL;",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.554266,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "We love you guys;  Looked for you at the Pensacola rally;  Maybe I\u2019ll get to meet you in President Trump\u2019s 2nd term;;  #FourMoreYears #Trump2020 #VoteRed",
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.720942,
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 4,
+      "text": "@realDonaldTrump SHEIN EUR SITE https://t;co/4LYBBms3h9https://t;co/al29Kg7vDlhttps://t;co/lqIi7KJhbxhttps://t;co/FblVlcMZfDhttps://t;co/kJlKdbDE0Yhttps://t;co/Vaz5KAVtQrhttps://t;co/z0vWTGiVZFfgbfg",
+      "tones": []
+    },
+    {
+      "sentence_id": 5,
+      "text": "@realDonaldTrump You\u2019re corrupt; Corrupt; We, the American Majority, are in the process of firing your incompetent ass; Hire a mover to get your gaudy shit out of the WH;",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.609025,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "@anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Anna, don\u2019t waste your time; They are brainwashed and think genocide is the answer;",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.590987,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "analytical",
+          "score": 0.801827,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "@K00l_Gladiator @kbuldakov1 @JeffreyGuterman @realDonaldTrump Again;;; How did the fix it;;; By implementing a new policy of separating children and parents and then loosing the parents;;;;;; Absolutely disgusting and a disgrace to America;;;;",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.54839,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "confident",
+          "score": 0.605143,
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 8,
+      "text": "#TrumpSurrendered If you really love America you\u2019ll just drop out now; Please do it @realDonaldTrump @POTUS you\u2019d finally be doing a service for your country; #TrumpDancesAmericansDie #BidenHarris #RIPGOP #VoteBlue  ",
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.789951,
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 9,
+      "text": "Justice Ginsberg said her last wish is to see that she's replaced after the Presidential election; She knew how close it was; @senatemajldr, @GOP, and @realDonaldTrump were waiting for her to drop dead; They had a HEAVILY-vetted ultra-conservative woman set on reversing Roe;;;",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.512973,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "@realDonaldTrump @realDonaldTrump You already posted this numbnuts; We couldn\u2019t hear it the first time;;;; Please once you\u2019re out of office get the help you so desperately need;;;;;",
+      "tones": []
+    },
+    {
+      "sentence_id": 11,
+      "text": "@realDonaldTrump @SecPompeo @WHNSC This is what happened to Azerbaijan 2 minutes after ceasefire; Armenia accuses Azerbaijan but has 0 proof; Here is our proof;  ",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.651179,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "confident",
+          "score": 0.543112,
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "@realDonaldTrump This guy without his special \"I can make it 2 hours on these meds\" sounds like this; Remember folks, this is a RECORDED ad, unlimited takes;; Keep that in mind;   ",
+      "tones": []
+    },
+    {
+      "sentence_id": 13,
+      "text": "@realDonaldTrump @SeanParnellUSA @TheJusticeDept The bottom is falling out of the GOP smear machine;GOP Chair Forced to Admit to Fox News There's No Evidence of Wrongdoing By Biden ",
+      "tones": []
+    },
+    {
+      "sentence_id": 14,
+      "text": "@Acosta Rounding the corner or falling off the cliff;  Incompetent @realDonaldTrump has no clue what to do so he is doing nothing;  The @GOP deserves to be destroyed for enabling him;@GOPChairwoman @GOPLeader @DNCWarRoom  ",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.600417,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "@realDonaldTrump Trump and Pence have surrendered to COVID-19; They don't care about groups of people canoodling;They don't care if you or your family get it; They're just using you for the photo op; After that, oh well; \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f ",
+      "tones": [
+        {
+          "tone_id": "tentative",
+          "score": 0.654647,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 16,
+      "text": "@Katincleveland @CryptoGooby @ObjectiveVoters @DavidShafer @GaRepublicans @JoeBiden @realDonaldTrump @SenateGOP I don't watch CNN, don't have cable TV; I work and try to keep my 2 kids going in school; All I've gotten in terms of help from the Trump administration was one $600 check;;; To then learn that that sleazy scammer only paid $750 in TAXES in recent years was really galling;",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.745832,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 17,
+      "text": "@kayleighmcenany @realDonaldTrump This;;;; while scores of Dems gather where it counts;;;; at the voting booths;  Blue tsunami is on the way;",
+      "tones": []
+    },
+    {
+      "sentence_id": 18,
+      "text": "@Mike_Pence @realDonaldTrump Stop bringing more Covid to our state; You should be in quarantine; You know how irresponsible this is, you are the head of the dang task force;",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.710269,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "@redamberblack @philip_bray @sparrow_42 @realDonaldTrump These high-risk folks are real people too, you know; They're just like you; They have lives that are full and complicated; They are moms, dads, roommates, and community members; They are real people who can't just check out of society for a year or two;",
+      "tones": [
+        {
+          "tone_id": "tentative",
+          "score": 0.519411,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "#TrumpCrimeFamily                 It\u2019s not a presidency;  It\u2019s an INTERNATIONAL CRIMINAL ENTERPRISE  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 21,
+      "text": "@WhiteHouse @realDonaldTrump Our President is a horse\u2019s ass; For cheap campaign rally entertainment he slanders front line health care workers; Reprehensible; Liar;  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 22,
+      "text": "@realDonaldTrump @SecPompeo @WHNSC Lives saved;  You are killing Americans with the tRump virus; Oh and Texas is turning for Biden; Vote blue before he kills you;",
+      "tones": []
+    },
+    {
+      "sentence_id": 23,
+      "text": "@Mike_Pence @realDonaldTrump Breaking News; Watch out; Joe Biden\u2019s son Hunter Biden is actually\u2026-Gnews   https://t;co/IPAIiySTyf",
+      "tones": [
+        {
+          "tone_id": "confident",
+          "score": 0.751512,
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "@AlexVickeryHowe @BcrewMark @mednat1949 @charliekirk11 @realDonaldTrump So children were fed properly, never separated from their parents and were only there a short time; Comes trump and makes these illegals a living hell; Oh by the way, the people that came here; We\u2019re legal or illegal; Bad bad orange man;",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.57401,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "@DonaldJTrumpJr You\u2019re sticking with @realDonaldTrump because he\u2019ll cut your allowance if you don\u2019t allow him to fill out your ballot; #BidenHarris2020 #TrumpIsPathetic #TrumpIsLosing #TrumpCrimeFamily",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.620279,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "@Mike_Pence @realDonaldTrump Hello North Carolina; I should be in quarantine for 14 days but I don\u2019t care about your health;  Let\u2019s round the corner;;;to the graveyard;",
+      "tones": []
+    },
+    {
+      "sentence_id": 27,
+      "text": "@realDonaldTrump @SecPompeo @WHNSC I defy #President #Trump to find #Azerbaijan and #Armenia on a map;( you can through in #Iran for bonus points) &lt;I\u2019m sure he\u2019d have better luck finding #Moscow&gt;",
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.509015,
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 28,
+      "text": "@CLewandowski_ @realDonaldTrump @JoeBiden Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  \ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.585769,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "text": "@gsopoagmle @realDonaldTrump @SecPompeo @WHNSC @60Minutes I have seen his version I think it\u2019s important for America to see @LesleyRStahl \u2018s reactions Let\u2019s just see how vicious she was ;;;                       \ud83d\ude02\ud83d\ude02\ud83d\ude02goddamn he\u2019s such a pu$$y ;",
+      "tones": []
+    },
+    {
+      "sentence_id": 30,
+      "text": "@kayleighmcenany @realDonaldTrump A surprise stop with buses; Or did POTUS and staff come in on those buses; I have a hard time imagining Trump riding in a bus;",
+      "tones": []
+    },
+    {
+      "sentence_id": 31,
+      "text": "@NYScanner @Breaking911 @realDonaldTrump @NYPDnews @TrumpWarRoom I do not like trump, but you shouldn't have rocks thrown at you just for showing your support; If you don't like it just ignore it, dont act like a child;",
+      "tones": [
+        {
+          "tone_id": "tentative",
+          "score": 0.812219,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "text": "@realDonaldTrump SHEIN EUR SITE https://t;co/4LYBBms3h9https://t;co/al29Kg7vDlhttps://t;co/lqIi7KJhbxhttps://t;co/FblVlcMZfDhttps://t;co/kJlKdbDE0Yhttps://t;co/Vaz5KAVtQrhttps://t;co/z0vWTGiVZFfgbfbf",
+      "tones": []
+    },
+    {
+      "sentence_id": 33,
+      "text": "@___9275861_btn_ @realDonaldTrump @SecPompeo @WHNSC The CDC released info about how 100,000 deaths reported by hospitals were not actually caused by covid and then there is this bad boy (Attached picture);;; #BringTheTroopsHome#EndForeignWarsI thought hippies were already on bored with this;;; What happened;;;  ",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.635806,
+          "tone_name": "Sadness"
+        },
+        {
+          "tone_id": "analytical",
+          "score": 0.762356,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 34,
+      "text": "@realDonaldTrump @SecPompeo @WHNSC Trump the greatest president of all time;;must include him in the Mount Rushmore National Memorial; #Trump2020Landslide",
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.508004,
+          "tone_name": "Joy"
+        },
+        {
+          "tone_id": "confident",
+          "score": 0.767592,
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 35,
+      "text": "@realDonaldTrump The bottom is falling out of the GOP smear machine;GOP Chair Forced to Admit to Fox News There's No Evidence of Wrongdoing By Biden ",
+      "tones": []
+    },
+    {
+      "sentence_id": 36,
+      "text": "@anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC What about refugees of Karabakh Azerbaijanis; why they don\u2019t live there now; The armenians kicked them out from their homes; Will you deny it;",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.50721,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 37,
+      "text": "@WhiteHouse @realDonaldTrump @FLOTUS Are you kidding @WhiteHouse, @realDonaldTrump has been running a \u201cHouse of Horrors\u201d for the past 4 years;  Why is Halloween any different;",
+      "tones": [
+        {
+          "tone_id": "fear",
+          "score": 0.722041,
+          "tone_name": "Fear"
+        }
+      ]
+    },
+    {
+      "sentence_id": 38,
+      "text": "@realDonaldTrump Trump/Pence are ignoring threat of virus 9 days b4 Election Day, continuing to downplay its risk at packed rallies across  country while endangering  lives of people around them, including their own staff &amp; supporters; #TrumpCovidRallies #TrumpOnlyCaresAboutTrump #WakeUpPeople",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.530702,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "text": "@Mike_Pence @realDonaldTrump The US senate republicans are about to steal the voices of millions of Americans on Monday 10/26/20 when they vote for the next justice  of the SCOTUS by not waiting until after the election;;;;",
+      "tones": []
+    },
+    {
+      "sentence_id": 40,
+      "text": "@BethLynch2020 Maybe an @realDonaldTrump 2020 victory will bury the corrupt @DNC controlled  #DemocraticParty for good; I won\u2019t mind it at all;;;",
+      "tones": []
+    },
+    {
+      "sentence_id": 41,
+      "text": "@KatharinaKoelb1 @realDonaldTrump I do believe since less than 10% of People believe the MSM after their \"peaceful protest\" lies that you might be projecting your fears;;; It's not that the American's Believe what 1 Person says they just stopped being sheep &amp; research the truth &amp; Fed docs show you are WRONG;",
+      "tones": [
+        {
+          "tone_id": "fear",
+          "score": 0.606738,
+          "tone_name": "Fear"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.767279,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "text": "@WarRoomPandemic @DineshDSouza @DrLiMengYAN1 @realDonaldTrump @WarRoom2020 In liberating fashion, our tactics are sooner, how we liberate our numbers, and in the same fashion effectively decimate theirs, w/ prior concern that many are incapable of defense against these tactics drawn quicker; It's the fact whether or not anyone is capable of inflicting;",
+      "tones": []
+    },
+    {
+      "sentence_id": 43,
+      "text": "@ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Besides being ignorant you are also a racist fool; It\u2019s time you learn the meaning of the word respect; Till then shut upDr; Parik Patel, BA, CFA, ACCA \ud83d\udcb8 @ParikPatelCFA You are a racist I've been running long short equity since before you were born have some damn respect",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.663388,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 44,
+      "text": "@realDonaldTrump @DonaldJTrumpJr @kimguilfoyle  please look at Philadelphia, Pa early ballots 200,000 have been pitched so far; If a person says the sig does not match, the machine says it does, another person says it doesn\u2019t, they pitch it; We need to ck out with different panel",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.74948,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 45,
+      "text": "@jernigan_anita @sherifflamb1 @realDonaldTrump I'm amazed you despicable monsters keep trying to change the subject to coyotes when this criminal administration stole children from THEIR PARENTS;",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.553798,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 46,
+      "text": "Just heard both @JoeBiden and @KamalaHarris talking about this today;  'The Big Guy' threw out some date in March;  @realDonaldTrump started the travel ban for #china on 1/31;  At that point there were only 2 deaths outside of China - Philippines and Hong Kong;",
+      "tones": [
+        {
+          "tone_id": "tentative",
+          "score": 0.565693,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "I guess Kam realizes that the Demoncrats will not win; last desperate intent to gain voters; Also, this is voter interference;",
+      "tones": []
+    },
+    {
+      "sentence_id": 48,
+      "text": "@realDonaldTrump David Limbaugh@DavidLimbaughThis is in the category of Surreal on Steroids; Who could write a movie this bizarre; The presidential candidate has announced he will stop in person campaigning NINE DAYS BEFORE THE ELECTION;",
+      "tones": []
+    },
+    {
+      "sentence_id": 49,
+      "text": "@SpacemanYoung put Me on in 2016 I was mind blown I'm not Gon lie @PHARAOH_ATEN_ because I was thinking SIMILAR but was lacking certain expressions I couldn't figure out @sun @bmoorewya",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.570123,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "analytical",
+          "score": 0.806276,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "text": "Rampant hate crimes and anti semitism thank you @realDonaldTrump for this atmosphere of name calling, intolerance, and hate;",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.797843,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "text": "@realDonaldTrump @SecPompeo @WHNSC We want our motherlands, we want our #Karabagh ; Armenians occupies our motherland; if they won\u2019t give it by civil way we will take it by war; we will death but will take all ours;;; #KarabakhisAzerbaijan #StopArmenianTerror",
+      "tones": []
+    },
+    {
+      "sentence_id": 52,
+      "text": "@realDonaldTrump Just in case you forgot about Stormy Daniels &amp; Karen McDougal because many women &amp; I haven\u2019t forgot $130K in hush money for @realDonaldTrump infidelities adulteress affairs which is an abomination &amp; a sin in the eyes of God to cheat on 3 of 3 wives; @FLOTUS  ",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.672133,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "text": "@thejtlewis @longislandtea12 He quit; He's Done; He Lied For Months; Biden/Harris a Fraud that didn't work; Biden knows he's done; America knows its over; The 47 years of failed politics now criminal investigation &amp; China has him by the short hairs; Biden/Harris ticket is Finished; @realDonaldTrump",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.599956,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "text": "@joshscampbell Then why is Putin being mean to @realDonaldTrump about Hunter Biden; Just to play with him; Show the overfed slave boy who\u2019s boss;",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.702145,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.615352,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "text": "@heinko00906861 @realDonaldTrump @SecPompeo @WHNSC #VoteBidenHarris2020tRump cut pandemic team/Gave china U;S; PPE/Hid #COVID19 2nd wave;Jan-Mar: golf 6/rallies 9tRump incompetence caused #TrumpRecession/HIGHEST #TrumpVirus cases &amp; deaths of any country;U;S; Today: OVER 8,640,000/225,000 dead &amp; RISING; ",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.60594,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "text": "@MillerinDc @realDonaldTrump @SecPompeo @WHNSC Wait, so there's a man in the sky controlling everything - like murdering children - but you believe Trump is the problem;\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+      "tones": [
+        {
+          "tone_id": "tentative",
+          "score": 0.615352,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "@ObjectiveVoters @DavidShafer @GaRepublicans @JoeBiden @realDonaldTrump @SenateGOP A clean Bill of pandemic relief was passed in the Senate;Pelosi killed it to get hundreds of billions of dollars worth of federal tax (SALT) deductions for the ultra rich in Blue States;",
+      "tones": []
+    },
+    {
+      "sentence_id": 58,
+      "text": "#TreworgyFamilyOrchards is a great place; So nice of #realDonaldTrump to go there\u2014with a few thousand others;; #GoTrump2020",
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.9038,
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 59,
+      "text": "@pjsecluded @BelieveIt__2020 @Tzedek_Assoc @realDonaldTrump What's the connection;  There are orthodox Rabbis both for biden and Trump; Is there any diversity of thought in the Reform regarding this;",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.574477,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.5538,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 60,
+      "text": "@markbotsford @TeamTrump @realDonaldTrump Trump hasn't killed anyone; Democrats &amp; their Marxist BLM &amp; ANTIFA have though; Also democrats think they have the right to;",
+      "tones": []
+    },
+    {
+      "sentence_id": 61,
+      "text": "@realDonaldTrump AMERICANS REALLY LOOK AT THIS LETTER IT WAS MADE IN JUNE AN NOW NOW 9 DAYS BEFORE ELECTION TRUMP DECIDED TO SHOW YOU TRUMP CALLED BIDEN A POLITICIAN BUT EVERYTHING TRUMP IS DOING ON TWITTER IS BEING A POLITICIAN",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.547556,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "analytical",
+          "score": 0.834409,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 62,
+      "text": "@WhiteHouse @realDonaldTrump @FLOTUS Cowards they have let the virus defeat them;; Not me I\u2019m an American and I will keep fighting; Vote Trump and the GOP out;;",
+      "tones": []
+    },
+    {
+      "sentence_id": 63,
+      "text": "@CoreysDigs I'd like to add;;;Since 75% of new registered voters are Republican, this should equate to an unquestionable win for @realDonaldTrump  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 64,
+      "text": "Hopefully #Azerbaijan will not break this cease fire just like the previous two ones\u203c\ufe0f Dear @realDonaldTrump, Mr; President, it\u2019s just the right time to #RecognizeArtsakh to #StopTurkishTerrorism and #StopAzerbaijaniAggression\u203c\ufe0f #ArtsakhStrong \u270a\ud83c\udde6\ud83c\uddf2   #PeaceForArmenia",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.519491,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.861422,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 65,
+      "text": "@atrupar The paid clowns behind the imbecile @realDonaldTrump have no idea what\u2019s going on; #TrumpIsAnIdiot #TrumpIsANationalDisgrace #BidenHarris2020",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.528978,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 66,
+      "text": "@realDonaldTrump @SecPompeo @WHNSC Thank you Mr President; 3rd time lucky perhaps; Hope you're able to keep these two war criminals in check; #StopAzerbaijaniAggression #StopTurkey  ",
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.510665,
+          "tone_name": "Joy"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.88939,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 67,
+      "text": "@realDonaldTrump @SeanParnellUSA The bottom is falling out of the GOP smear machine;GOP Chair Forced to Admit to Fox News There's No Evidence of Wrongdoing By Biden ",
+      "tones": []
+    },
+    {
+      "sentence_id": 68,
+      "text": "@JasonMillerinDC @KellyannePolls @Mike_Pence @realDonaldTrump \"Mike Pence is a badass\" is a phrase only a toad like Jason Miller would say; No one with a brain would ever put that sentence together \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+      "tones": []
+    },
+    {
+      "sentence_id": 69,
+      "text": "@realDonaldTrump @realDonaldTrump scripts the Senate Talking Points:CONCEAL the- Beneficiaries of the Tax Bill- Unredacted Mueller Report- Personal Tax Returns- Deadly Health Risk of Covid-19- Repeal of the Affordable Care Act- Repeal of DACA- DOT Funds &amp; the Nat'l Debt;Vote @JoeBiden",
+      "tones": []
+    },
+    {
+      "sentence_id": 70,
+      "text": "@Mike_Pence @realDonaldTrump The US senate republicans are about to steal the voices of millions of Americans on Monday 10/26/20 when they vote for the next justice  of the SCOTUS by not waiting until after the election;;;;;",
+      "tones": []
+    },
+    {
+      "sentence_id": 71,
+      "text": "@thunderf00t @navcenter77 @realDonaldTrump Population is exploding as we speak; Natural selection is how that population is controlled; As you know when a population reach a certain amount a virus/bacteria will appear; Overpopulation is very bad; Lack of land area and resources will lead to war; I very much dislike war;",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.601699,
+          "tone_name": "Analytical"
+        },
+        {
+          "tone_id": "confident",
+          "score": 0.61043,
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 72,
+      "text": "@realDonaldTrump Donald Trumps track record for 4 yearsNo healthcare plan, higher middle lower class taxes, Rich people pay no taxes, 225,000 dead Americans, 12,580,000 unemployed Americans, 8,000,000 more Americans in Poverty, while Donald Trump used well over 100,000,000 in tax money for golf",
+      "tones": []
+    },
+    {
+      "sentence_id": 73,
+      "text": "@TeamTrump @realDonaldTrump Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  \ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddff",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.585769,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 74,
+      "text": "Bold strategy right before the election, \u2066@realDonaldTrump\u2069; \u2066@MarkMeadows\u2069 says 'we're not going to control the pandemic\u2019 #TrumpLied225KDied #TrumpVirus   ",
+      "tones": []
+    },
+    {
+      "sentence_id": 75,
+      "text": "@BamaGeorgia @hodgetwins @realDonaldTrump I'm not his lawyer or no him personally so you'd need them ask them that, but if they where able to make up a big treasonous lie like that, wouldn't they of went after him for the thing you said about; Why didn't they; Why wasn't that on the fake news 24/7 instead of the lie;",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.616561,
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 76,
+      "text": "@realDonaldTrump you got our votes today; #Trump2020 #Trump2020LandslideVictory #VoteForTrump #VoteEarlyDay #Republicans  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 77,
+      "text": "@WarRoomPandemic @DineshDSouza @DrLiMengYAN1 @realDonaldTrump @WarRoom2020 Hahahahaha;;;;;;not very long ago President Windbag was singing President Xi\u2019s praises and proclaiming his great leadership;",
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.831597,
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 78,
+      "text": "@dvillella @realDonaldTrump Pence is the Head of the Virus Task Force;5 (min) of his staff have tested positive including his Chief of Staff; Why is he not under quarantine;Great messaging Mike;Imagine, we now have a President &amp; VP promoting the spread of a deadly virus; Can we move the vote to Oct 26;",
+      "tones": []
+    },
+    {
+      "sentence_id": 79,
+      "text": "@irina86304829 @Artak_Beglaryan @realDonaldTrump First u havent any info about our history, then by ur logic Roman Empire currently Italy should occupy Middle east, anatolia, europe and north africa because of they were first;",
+      "tones": []
+    },
+    {
+      "sentence_id": 80,
+      "text": "@GOPChairwoman @realDonaldTrump Let me say what the video cut off: Joe Biden is saying (quoting someone else) that \"dark days are ahead\" REGARDING COVID-19;  And he's right; our numbers are getting worse and worse;In addition, he WILL raise taxes;;;on those making OVER $400,000; That's not most of us;",
+      "tones": [
+        {
+          "tone_id": "sadness",
+          "score": 0.61175,
+          "tone_name": "Sadness"
+        },
+        {
+          "tone_id": "analytical",
+          "score": 0.632275,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 81,
+      "text": "@Vee93244846 @merci171 @realDonaldTrump I get that sincerely as a person who never stopped going to work; Is your employer doing anything to test employees; Wether it\u2019s an election rally or wedding people have to weigh the risks and keep living; Lockdowns statistically do more harm then good; Be Vigilant not scared; \ud83d\ude4f",
+      "tones": []
+    },
+    {
+      "sentence_id": 82,
+      "text": "@connorestafan @NYScanner @realDonaldTrump @TrumpWarRoom That's a racist statement; But we expect nothing but that from leftist haters of America\ud83e\udd74",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.530468,
+          "tone_name": "Anger"
+        },
+        {
+          "tone_id": "analytical",
+          "score": 0.705784,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 83,
+      "text": "@realDonaldTrump Kamala don't need joe; People going around like parrots spouting party lines about joe; WE beat his azz back to SLEEP; Snake ain't dead yet;",
+      "tones": [
+        {
+          "tone_id": "tentative",
+          "score": 0.716301,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 84,
+      "text": "@Druzzer55 @GlobalVarkey @thehill @realDonaldTrump What normal; He gave black Americans the lowest unemployment and highest wages ever recorded;  You want Bidens normal back; Tens of thousands sent to prison and separated from their families; What normal do you prefer;",
+      "tones": [
+        {
+          "tone_id": "analytical",
+          "score": 0.69672,
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 85,
+      "text": "@realDonaldTrump @SecPompeo @WHNSC Thank you Mr; President; Looking for another 4 awesome years from you and your cabinet; #Trump2020 #RecognizeArtsakh #Armenia",
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.88035,
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 86,
+      "text": "THIS IS DISGUSTING;; If you're in VA, PLEASE VOTE for @QasimRashid ;; They shot at his sign and posted @realDonaldTrump signs up on top; Muslims are \"terrorists\"; Who REALLY are the terrorists; Intimidating people like this; Pathetic, disgusting behavior #homeandgrown #terrorism",
+      "tones": []
+    },
+    {
+      "sentence_id": 87,
+      "text": "@realDonaldTrump @DonaldJTrumpJr @RudyGiuliani @TuckerCarlson @IngrahamAngle @seanhannity Some light Reading for your pleasure this fine, lovely Fall Sunday evening;\ud83d\udc8b ",
+      "tones": [
+        {
+          "tone_id": "joy",
+          "score": 0.944757,
+          "tone_name": "Joy"
+        },
+        {
+          "tone_id": "tentative",
+          "score": 0.5538,
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 88,
+      "text": "Hell of a public relations campaign;@KatieDaviscourt @jasonrantz@realDonaldTrump They burn, loot, and destroy hundreds of peoples lives in Seattle/Olympia and now they want us to think that they've been transformed into better citizens because they didn't riot yesterday;  ",
+      "tones": [
+        {
+          "tone_id": "anger",
+          "score": 0.58111,
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 89,
+      "text": "Look Trump has thousands on a last minute stop with a blowhorn and Obama had like what 6 at his scheduled stop; Lol; Trump 2020",
+      "tones": []
+    },
+    {
+      "sentence_id": 90,
+      "text": "@realDonaldTrump My American brothers, here France in 2020 the government taxes its people to feed our Muslim immigrant enemies, women and men are assaulted, raped or slaughtered, no go zones prosper ;;;",
+      "tones": []
+    }
+  ]
 }
