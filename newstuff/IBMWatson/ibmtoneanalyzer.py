@@ -4,7 +4,14 @@ import simplejson as json
 # import JSONtoTXT
 import sqlite3
 
-def main():
+def IBMToneAnalysis(twitter,reddit,custom):
+    if twitter:
+        twitterAnalysis()
+    if reddit:
+        redditAnalysis()
+    if custom !="":
+        customAnalysis(custom)
+def twitterAnalysis():
     tone_analyzer = ToneAnalyzerV3(
         version='2017-09-21',
         iam_apikey='oMsOr-VXaaNU9V5D9Pg0AXrC99jK1gJ4t1DGtgjfuKu7',
@@ -12,7 +19,7 @@ def main():
     )
     text = ""
     try:
-        conn = sqlite3.connect("../sentdex/twitter.db") #relative path to twitter database
+        conn = sqlite3.connect("../sentdex/twitter.db") #relative path to twitter database #TODO correct?
         c = conn.cursor()
         c.execute("SELECT tweet FROM sentiment")
         tweets = c.fetchall()  #tailor size
@@ -36,18 +43,93 @@ def main():
     ).get_result()
 
     # jsonDict = json.dumps(tone_analysis, indent=2)
-    with open("IBM.json", "w") as outfile: #writing data to IBM.json
+    with open("twitter.json", "w") as outfile: #writing data to twitter.json
         json.dump(tone_analysis, outfile, indent=2)
 
-    cleanJSON("text.txt")
+    cleanJSON("text.txt","Twitter","twitter.json")
+    # print(json.dumps(tone_analysis, indent=2))
+
+def redditAnalysis():
+    tone_analyzer = ToneAnalyzerV3(
+        version='2017-09-21',
+        iam_apikey='oMsOr-VXaaNU9V5D9Pg0AXrC99jK1gJ4t1DGtgjfuKu7',
+        url='https://gateway.watsonplatform.net/tone-analyzer/api'
+    )
+    text = ""
+    try:
+        conn = sqlite3.connect("reddit.db") #relative path to twitter database #TODO correct?
+        c = conn.cursor()
+        c.execute("SELECT tweet FROM sentiment") #TODO change
+        posts = c.fetchall()  #tailor size
+        for post in posts:
+            postContent=str(tweet[0])
+            postContent=postContent.replace(".",";") #replacing punctuation with a semicolon
+            postContent=postContent.replace("!", ";")
+            postContent=postContent.replace("?", ";")
+            postContent=postContent.replace("\n","")
+            text += str(postContent + "\n") #adding to text file
+
+    except Exception as e:
+        print(str(e))
+
+    print("printing text")
+    print(text)
+
+    tone_analysis = tone_analyzer.tone(
+        {'text': text},
+        'application/json'
+    ).get_result()
+
+    # jsonDict = json.dumps(tone_analysis, indent=2)
+    with open("reddit.json", "w") as outfile: #writing data to reddit.json
+        json.dump(tone_analysis, outfile, indent=2)
+
+    cleanJSON("findings.txt","Reddit","reddit.json")
+    # print(json.dumps(tone_analysis, indent=2))
+
+def customAnalysis(filename):
+    tone_analyzer = ToneAnalyzerV3(
+        version='2017-09-21',
+        iam_apikey='oMsOr-VXaaNU9V5D9Pg0AXrC99jK1gJ4t1DGtgjfuKu7',
+        url='https://gateway.watsonplatform.net/tone-analyzer/api'
+    )
+    text = ""
+    try:
+        c=open(filename,"r")
+        lines = c.fetchall()  # tailor size #TODO change
+        for line in lines:
+            lineContent = str(tweet[0])
+            lineContent = lineContent.replace(".", ";")  # replacing punctuation with a semicolon
+            lineContent = lineContent.replace("!", ";")
+            lineContent = lineContent.replace("?", ";")
+            lineContent = lineContent.replace("\n", "")
+            text += str(lineContent + "\n")  # adding to text file
+
+    except Exception as e:
+        print(str(e))
+
+    print("printing text")
+    print(text)
+
+    tone_analysis = tone_analyzer.tone(
+        {'text': text},
+        'application/json'
+    ).get_result()
+
+    # jsonDict = json.dumps(tone_analysis, indent=2)
+    with open("custom.json", "w") as outfile:  # writing data to custom.json
+        json.dump(tone_analysis, outfile, indent=2)
+
+    cleanJSON("text.txt", "Reddit", "reddit.json")
     # print(json.dumps(tone_analysis, indent=2))
 
 
-def cleanJSON(outputFile): # json derulo a.k.a name of json file inpout
-    with open("IBM.json") as data_file:
+def cleanJSON(outputFile,platform,filename): # json derulo a.k.a name of json file inpout
+    with open(filename) as data_file:
         data = json.load(data_file)
 
-    output = open(outputFile, "w")
+    output = open(outputFile, "a") #TODO how to do new output file at beginning
+    output.write(platform+":\n")
     output.write("Document Tones\n")
     overallTones=[] #instantiating index of sentiments
     tones=[] #instantiating list of each tweet sentiment
@@ -110,4 +192,3 @@ def cleanJSON(outputFile): # json derulo a.k.a name of json file inpout
 
 
 
-main()

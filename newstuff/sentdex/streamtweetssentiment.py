@@ -30,8 +30,8 @@ auth.set_access_token("855588527039422465-BirmEI78Vvugvm44y5cJzNoMjPiF8B8",
 class listener(StreamListener):
 
 
-    def __init__(self):
-        self.__endTime = time.time() + 20 #20 represents time that class will be streaming tweets into DB (live feed)
+    def __init__(self,inputTime):
+        self.__endTime = time.time() + inputTime #20 represents time that class will be streaming tweets into DB (live feed)
 
     def on_data(self, data): #always include self on class methods
         try:
@@ -59,12 +59,12 @@ class listener(StreamListener):
         print(status)
 
 
-def main():
+def streamTweets(keyword,location,inputTime):
     try:
-        twitterStream = Stream(auth, listener())
+        twitterStream = Stream(auth, listener(inputTime))
 
-
-        twitterStream.filter(track=["@realDonaldTrump"], languages=["en"]) #stream.filter function calls listener.on_data()
+        twitterStream.filter(track=[keyword], locations=[-122.75,36.8,-121.75,37.8], languages=["en"]) #stream.filter function calls listener.on_data()
+        #TODO find out if location works
         #twitterStream.filter(locations=["LA"]) #TODO figure out what this does and how to use
         #GoogleMaps API to extract long and lat from location ??? look into TODO
         #
@@ -78,4 +78,3 @@ def main():
         time.sleep(5)
 
 
-main()

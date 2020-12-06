@@ -1,0 +1,1021 @@
+{
+  "document_tone": {
+    "tones": []
+  },
+  "sentences_tone": [
+    {
+      "sentence_id": 0,
+      "text": "President Trump Returns To Campaign Trail Ahead Of Critical #Senate Runoffs | #NBC Nightly News -   - #Digital #DonaldTrump #Georgia #Governor #Republican #Science",
+      "tones": []
+    },
+    {
+      "sentence_id": 1,
+      "text": "@ColumbiaBugle how she dares speaks like that to anyone, not mentioning the President of the United States of America; And they say Trump is a despot;;; He is the nicest person around them, I don't understand how he can be so patient with them, they are so unprofessional, stupid, arrogant, rude",
+      "tones": [
+        {
+          "score": 0.572462,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 2,
+      "text": "Get ready for God\u2019s reset, it will Trump the Great Reset bigly;Our founding fathers told us this time would come; It is our duty to stand up to tyranny; God bless you all in this, our greatest hour",
+      "tones": [
+        {
+          "score": 0.85952,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 3,
+      "text": "@MichaelRapaport @KaitMarieox @realDonaldTrump Sorry 2018 executive order signed by Trump; Foreign election interference brainwashing the masses &amp; hiding the truth; Yes you are brainwashed;\ud83d\udc47\ud83d\udc47 ",
+      "tones": []
+    },
+    {
+      "sentence_id": 4,
+      "text": "Never forget the GOP hating on Trump running, and then winning; They treated our President horrible for many months and some still do; They found out that Trump was smarter than they, and has more go power than all of the democrats and the republicans party together; Trump 2020;",
+      "tones": [
+        {
+          "score": 0.584783,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 5,
+      "text": "@JennaEllisEsq @TeamTrump @schatzjoe @realDonaldTrump The only election fraud is being committed by Donald Trump and his enablers;  Trump and his enablers will be remembers as sore losers, peddlers of conspiracy theories and lies, bilking followers out of money, corruption &amp; fraud;  And losing dozens of election lawsuits &amp; recounts;",
+      "tones": [
+        {
+          "score": 0.535461,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 6,
+      "text": "@TheLeoTerrell we will not have a republic in 2024;THE FIGHT FOR TRUMP IS NOW;We will cancel our membership in the @gop RNC if trump loses;I HOPE THE GET THE MESSAGE &amp; FIGHT FOR TRUMP",
+      "tones": [
+        {
+          "score": 0.562687,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 7,
+      "text": "I want to see the narcissistic pain eat him up alive; I want to see him foam at the mouth and drool all over himself; Fifty pounds of Ka ka in His unchanged diaper; I want to see them throw a straight jacket on him and take him to the looney bin;",
+      "tones": []
+    },
+    {
+      "sentence_id": 8,
+      "text": "@Mattoilbot @chickiesinger @nywolverine95 @OnlythePeople @AP Yes, but also meant fraudios, as in adios, see ya, so long, bye bye;Oh you think Trump won the election; I'll just file that lack of evidence under 'R', for arrivederci;",
+      "tones": []
+    },
+    {
+      "sentence_id": 9,
+      "text": "#TrumpRally After all the election chatter is said and done more is said than done;In the words of the APPRENTICE:Mr; Donald J; TRUMP you were the team leader,Your team finished second,YOU ARE FIRED;;;",
+      "tones": [
+        {
+          "score": 0.724236,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 10,
+      "text": "@karyymefloress @RealCandaceO Spoiled brat;; She didn't grow up like Trump and his kids; She worked to get where she is, how is she a spoiled brat;;",
+      "tones": []
+    },
+    {
+      "sentence_id": 11,
+      "text": "@JoeConchaTV you better check the tape on the elementary interviews fox gave trump for 4 years; It\u2019s kind of hilarious watching you moan about special treatment for biden, after hannity and Dobbs literally gave trump a BJ during their interviews with him;",
+      "tones": [
+        {
+          "score": 0.6148,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 12,
+      "text": "@iipiakaate @CT_Bergstrom Trump is the embodiment of postmodernism;   He, without reflection opposes dominate discourses;  His achievements are a result of exposing the hegemonic systems claim to truth as nothing more than a system devised to protect the power of people who benefit from it;",
+      "tones": [
+        {
+          "score": 0.841001,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 13,
+      "text": "Damn; Really thought I was gonna hit a home run with that Trump/MyPillow mashup; Guess I just wasted another 20 minutes of the most wasted year ever \ud83e\udd37\u200d\u2642\ufe0f",
+      "tones": [
+        {
+          "score": 0.501848,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.779898,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 14,
+      "text": "Nancy Pelosi purposely held back from passing any stimulus package before the election in order to harm president Trump;@SpeakerPelosi does not care or work for the American ppl; Her goal is to destroy @realDonaldTrump at all &amp; any cost regardless of the harm to the citizenry;",
+      "tones": [
+        {
+          "score": 0.602352,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 15,
+      "text": "#BGLM How many ginger african americans have you seen in your life; Very few because, they are being killed in a mass genocide; Both Trump and Biden have killed many African American gingers and the only presidential candidate that hasn\u2019t is Kanye West; 1/2",
+      "tones": []
+    },
+    {
+      "sentence_id": 16,
+      "text": "In a fully functional democracy, this should be grounds for *immediate* dismissal from office, along with charges filed at the federal level;Just straight fucking treason, man;",
+      "tones": []
+    },
+    {
+      "sentence_id": 17,
+      "text": "@tappedthru @Immortantrump20 Take the senate, Trump wins, 2-4 years this man must be protected and will be one of the most important people in American First history; Fact; Like most great people, he is ahead of his time;;;literally the spark that will light the fire of our future; In time my friends;",
+      "tones": [
+        {
+          "score": 0.63151,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.627413,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 18,
+      "text": "@jbradye4344 @BrunoAmato_1 Just think if all the folks that couldn't vote because of covid; Trump was thinking that it would be good for him and covid had made lots of money for the rich;",
+      "tones": [
+        {
+          "score": 0.52972,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.867677,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 19,
+      "text": "@MSNBC The group that is most responsible for the damage trump is inflicting on the country are the evangelical extremists political cults masquerading as Christian churches;",
+      "tones": [
+        {
+          "score": 0.523263,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 20,
+      "text": "@realDonaldTrump Lots of LIES; Just a mind boggling amount of DISINFORMATION; Is Trump delusional; No it's just classic PROPAGANDA that would make Putin jealous;  ",
+      "tones": [
+        {
+          "score": 0.554752,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 21,
+      "text": "Mr; @cvpayne, I have a question;I have always been told that stocks hate uncertainty;I would there is great uncertainty over the election status today;Have the markets accepted Biden as the winner;Or are they confident that Trump will remain in office;And why;",
+      "tones": []
+    },
+    {
+      "sentence_id": 22,
+      "text": "@biesecker_laura @lqualman @DonnaSulligan @JoeBiden Also, your good man Trump, never entered a church in his life before politics except for a friends wedding or funeral; Maybe  for a politician when trying to impress them; He only got \u201creligion\u201d when he realized there was a huge base of them he could easily use to get into power;",
+      "tones": [
+        {
+          "score": 0.640154,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.534455,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 23,
+      "text": "VOTER- FRAUD;  CROOKED DEMOCRATS KNOW HOW TO DO VOTE-FRAUD like @HillaryClinton KNOWS HOW TO HAVE PEOPLE COMMIT SUICIDE just before testifying against her; dems are crooked, liars &amp; corrupt; Trump kept all\u00a0 PROMISES, EXCEPT sending\u00a0 @hillaryclinton toJAIL;",
+      "tones": [
+        {
+          "score": 0.575806,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 24,
+      "text": "yewwWHAT @NDpendentPDX: 'Fight breaks out between Portland/ Washington protesters and counter protesters for Back The Blue and President Trump #Portland #PortlandProtests #Washington #antifa #fight '  , see more https://t;co/v8suWI9Fhs",
+      "tones": [
+        {
+          "score": 0.55322,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 25,
+      "text": "Hey @RepDanCrenshaw I see you were in GA tonight, unmasked attending the tragic Trump \u201crally\u201d; Do the people of Houston a favor, stay the hell away; Quarantine for 14 days before returning to this city; We don\u2019t need you or your germs; Your ability to be worthless is remarkable;",
+      "tones": [
+        {
+          "score": 0.794226,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 26,
+      "text": "@realDonaldTrump @tickelsurfancy You don\u2019t know,how we interested winning President Trump; Seems it is our election &amp;he is our president; Iranians love USA&amp; Americans, but they don\u2019t have voice;We are with you to save USA&amp; freedom for world; World  watching you;Fight for us; Be our voice please;",
+      "tones": [
+        {
+          "score": 0.66143,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 27,
+      "text": "\"President Donald Trump on Saturday called Georgia Gov; Brian Kemp, pushing him to convince state legislators to overturn President-elect Joe Biden's win in the state;;;\" ",
+      "tones": []
+    },
+    {
+      "sentence_id": 28,
+      "text": "@kylenabecker I told myself the night of the election when those States stopped counting at the same time: \u201cSelf \u2014 AG Barr must immediately send in Agents to take over the precincts because something egregiously nefarious is going down;\u201d It\u2019s not about Trump vs Biden;cc: @TheJusticeDept",
+      "tones": [
+        {
+          "score": 0.571964,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 29,
+      "text": "@lifeisgood1616 Do you mean the 81,000,000 that voted for Biden or the 74,000,00 that voted for Trump; I\u2019d spit on him, just not to put out a fire; He put us through a shitfest 4 years &amp; he deserves the worst of any &amp; everything;",
+      "tones": [
+        {
+          "score": 0.615352,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 30,
+      "text": "@realDonaldTrump Trump skillfully separates those he perceives as fools from their money; Donating money to a bazillionare con artist;; Trump is happy to keep telling supporters \"we're going to win\" and \"we won\" for as long as they're willing to keep sending money to his fundraising scam;",
+      "tones": [
+        {
+          "score": 0.631548,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 31,
+      "text": "Don\u2019t mean to be haughty, but who\u2019s the one person you can\u2019t wait to rub in their face after Trump wins second term; I have several including @Acosta , @JedediahBila and every host on @TheView Who is yours;",
+      "tones": [
+        {
+          "score": 0.656644,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 32,
+      "text": "@Rothbard1776 @JennaEllisEsq Do they allow curing of votes in AZ; If so, then they have to get those spoiled overvotes and call each of those voters and get their real votes in; It's possible for Trump to win on that alone if say, a miscreant worker(s) took 11K Trump ballots and filled in Biden;",
+      "tones": [
+        {
+          "score": 0.541191,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 33,
+      "text": "@urbanartshop @MisterBlackPill The cult are angry at the GOP &amp; that Governor in GA for not \"fighting for Trump;\" The GOP wants to take stopthesteal as far as it raises funds for the RNC &amp; then dump it; The cult is catching on that they are being played for chumps as usual; This crackpot meltdown is hilarious;",
+      "tones": []
+    },
+    {
+      "sentence_id": 34,
+      "text": "@realDonaldTrump In this apocalyptic war, God over the devil, light over the darkness, good over the evil, dear President Trump over the globalists, a little patience is the end of the night of white darkness;",
+      "tones": []
+    },
+    {
+      "sentence_id": 35,
+      "text": "@Jo_anneJohns59 @SidneyPowell1 I am very thankful they are doing it that way; It took me a while 2 actually believe of this level of corruption; I even believed the fake news and thought Trump was the worst president ever; Not anymore; I apologize to all Patriots for voting for Biden; Now I\u2019m a Patriot now too",
+      "tones": []
+    },
+    {
+      "sentence_id": 36,
+      "text": "@RSBNetwork President Trump is way to nice giving credit to Fox News ppl, they don\u2019t deserve it; Hannity and others should stand up and resign from that sellout network if they have any decency left;",
+      "tones": []
+    },
+    {
+      "sentence_id": 37,
+      "text": "I love these patriots, we keep this up , ANTIFA will never be able to do another crime on streets; It\u2019s the patriots who control the streets",
+      "tones": []
+    },
+    {
+      "sentence_id": 38,
+      "text": "@EricVictorino @TheRickWilson That was, perhaps, the craziest 100 minutes in American presidential history;This was probably the craziest 100 minutes in American presidential history; ",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 39,
+      "text": "Tired of Trump only calling out antifa; Blm is &amp; has always been the greatest threat to weakest, elderly,women, whites; Long before Trump; Obama, prop media birthed blm; #1 researcher @colinflaherty; Books-DON'T MAKE THE BLACK KIDS ANGRY; WHITE GIRL BLEED A LOT; tw, YT;",
+      "tones": [
+        {
+          "score": 0.521176,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 40,
+      "text": "@GOP @Perduesenate @KLoeffler @realDonaldTrump If Loeffler &amp; Perdue get more votes than Trump, what message does that send; That Georgia rejected Trump, but not these two Biden lovers; That the election isn\u2019t rigged &amp; voting is perfectly safe;; You\u2019re making Trump look like a loser &amp; a fool; Boycotting supports Trump; BOYCOTT",
+      "tones": []
+    },
+    {
+      "sentence_id": 41,
+      "text": "@realDonaldTrump @JennaEllisEsq The only election fraud is being committed by Donald Trump and his enablers;  Trump and his enablers will be remembers as sore losers, peddlers of conspiracy theories and lies, bilking followers out of money, corruption &amp; fraud;  And losing dozens of election lawsuits &amp; recounts;",
+      "tones": [
+        {
+          "score": 0.535461,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 42,
+      "text": "@kylenabecker @KurtSchlichter @DineshDSouza @SharylAttkisson @jsolomonReports @horowitz39 @peterschweizer I tweeted several authors to ask why they only list amazon when they're promoting their books; At least offer other alternatives; Bezo's hates Trump, and I will never support amazon and conservatives should consider their choice too#BoycottAmazon",
+      "tones": []
+    },
+    {
+      "sentence_id": 43,
+      "text": "@LauraMagdalene4 You really are quite full of yourself;  Do you think trump is a savior or something;  Where have you been all your life;  Have you not seen the worst of humanity rising with his divisive rants;  His time has passed;  The people woke up;  Now his swamp people must go;",
+      "tones": []
+    },
+    {
+      "sentence_id": 44,
+      "text": "@JudgeJeanine How many Trump pardons for family members and friends that supposedly committed no crimes whatsoever; Liars and criminals, and the pardons help to prove it; Do Perdue and Loeffler in GA get pardons for their illegal insider trading; Crime is ok;",
+      "tones": []
+    },
+    {
+      "sentence_id": 45,
+      "text": "THE MOST POWERFUL MOMENT IN THE GEORGIA TRUMP RALLY: \u201cFight for Trump; Fight for Trump;\u201dThe battle lines have been drawn in #Georgia; Are you listening Gov; @BrianKempGA;How about you @GaSecOfState Brad Raffensperger;#TrumpRally  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 46,
+      "text": "@wmmII88 If they win their seats it will protect President Trump from being impeached and removed and Pence as well so we don't end up with Pelosi as President;",
+      "tones": [
+        {
+          "score": 0.532124,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.646387,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 47,
+      "text": "@iamjumpingin @jmorgssss Disgusting; I can see why Loeffler gets no traction; DJT comes in and talks about them for 2hrs, introduces them and they say nothing about stop the steal; Crowd drowns them out while speaking, shouting \"fight for Trump\"; They will lose by fraud no matter who votes; Ass holes",
+      "tones": []
+    },
+    {
+      "sentence_id": 48,
+      "text": "I used to blame ignorance &amp; stupidity; Now it is just plain meanness, stating \u201cI Don\u2019t give a fuck about the virus or who gets it and I don\u2019t care about all the suffering and death, or the exhausted health care workers; Basically these non wearing maskers don\u2019 care about others;",
+      "tones": [
+        {
+          "score": 0.602429,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.53521,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.72506,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 49,
+      "text": "THAT'S THE WAY TO DO IT , BEAT THE SHIT OUT OF THESE LITTLE BASSTURDS ; YEA BUDDY ; TIME TO FIGHT BACK AGAINST ANTIFA AND THE DEMOCRATS ;",
+      "tones": [
+        {
+          "score": 0.740059,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 50,
+      "text": "@jessieopie I'm Jack Dorsey president elect and I hate people but love myself can't speak for myself on Joe Rogan a woman has to speak because I'm fucken retarded and I hate Trump because he won't kiss my bass with hiss ugh policies;",
+      "tones": [
+        {
+          "score": 0.731865,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 51,
+      "text": "@alicetweet Ok Trump WonCNN SucksTrump Won CNN is Fake NewsTrump WonCNN has lousy reportersTrump WonCNN is as incompetent as BidenTrump WonCNN couldn\u2019t Report a coin tossTrump WonCNN will be BankruptTrump WokCNN is part of the CoupeTrump WonCNN is communistTrump WonF CNN",
+      "tones": [
+        {
+          "score": 0.593648,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 52,
+      "text": "@nbcwashington Because Biden behaves more as a Christian than Trump does; Biden actually  walks the walk; Trump can\u2019t even name his favorite Bible verse or Book;",
+      "tones": [
+        {
+          "score": 0.503889,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 53,
+      "text": "@RealAmVoice @RealDrGina @realMikeLindell Romans 13:1 Let every soul be subject to governing authorities; For there is no authority except from God and authorities that exist are appointed by God;   Please Lord reappoint Trump as president Thx you in Jesus name Amen \ud83d\ude4f\ud83c\udffb",
+      "tones": [
+        {
+          "score": 0.677799,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 54,
+      "text": "@thehill @TheHillOpinion Years of groundless leftist Democrat harrassment could not find Trump 'guilty'; The same cannot be said for Hildebeast, Hussein, or Billion$Biden;;",
+      "tones": [
+        {
+          "score": 0.581847,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 55,
+      "text": "@DomNsfwYG @GregRetallack @Hattusili3789 @JennaEllisEsq Two things you are missing; One is that poll watchers are a courtesy not a requirement; Two is that a former campaign staffer of Trump organized an Army of Trump poll watchers who were trained to harass election workers so of course they got kicked out; That was by Trump\u2019s design",
+      "tones": [
+        {
+          "score": 0.520424,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 56,
+      "text": "Looks like I am going to lose my gentleman's bet that Trump would fire Barr my December 8th;  Kudlow, Navarro, Miller should be packing up now, nothing left to do but leave the WH with the heads hanging down;",
+      "tones": [
+        {
+          "score": 0.573429,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 57,
+      "text": "@jen_rummler @MichaelSkadoosh @JoeBiden Recounts don\u2019t do anything, it\u2019s the hand audits that the trump administration is looking for; Recounts don\u2019t look at the ballots and also aren\u2019t going to change the amount of votes per side; Hand audits look for voter irregularities and forged fraudulent votes; Which could",
+      "tones": []
+    },
+    {
+      "sentence_id": 58,
+      "text": "@cspan Reviewing Trump's tweets tonight he's telling ppl to:* same day register in GA* get absentee ballots* ignore stay in place ordersDo trumpers NOT understand what a hypocrite is;And that is on top of all the Lies;So basically, just another day in America#WeirdoTrump",
+      "tones": []
+    },
+    {
+      "sentence_id": 59,
+      "text": "@NaomiPatriot @DemsRcommeez @LLinWood @realDonaldTrump @KLoeffler @sendavidperdue @BrianKempGA You\u2019re right; It makes me wonder where Republicans go from here when Trump (or at least his rhetoric) has become so toxic and deluded;  ",
+      "tones": [
+        {
+          "score": 0.631525,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 60,
+      "text": "We must never forget the complicit, spineless enablers that make up the majority of the GOP10%;This is a democracyIn an election, there is a winner &amp; a loserThere is NO proof of fraud &amp; they've lost in courtGive it up boys, YOULOSTTRUMP LOSTBiden WILL be your President",
+      "tones": []
+    },
+    {
+      "sentence_id": 61,
+      "text": "Yea, not only do Republicans take an oath, to defend our constitution; They also are being paid by taxpayers; If I had been this cowardly, in the military, I would have received a dishonorable discharge;#DishonorableRepublicans",
+      "tones": [
+        {
+          "score": 0.756947,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 62,
+      "text": "@mmpadellan I know when Trump dies, a lot of people will be finding his burial site to piss on his grave; That's how hated he's become in America;",
+      "tones": [
+        {
+          "score": 0.53912,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.557461,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 63,
+      "text": "I developed an interest in politics via discussions, debates and arguments with him throughout the years; I wish I could talk to him about electing a Democrat to congress in Utah, my travels across the country and electing Joe Biden and defeating Donald Trump; He would be proud  ",
+      "tones": [
+        {
+          "score": 0.563859,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 64,
+      "text": "@BirdBigbird9112 @GaRepublicans @DavidShafer @Perduesenate @KLoeffler @BubbaPSC @realDonaldTrump @GaSecofState Trump has known; It happened in 2018 midterms; They watched and learned and have been collecting evidence ever since; You have no idea what\u2019s about to happen; Read his 2018 Executive Order for election interference; It\u2019s all happening; Cue the military;  ",
+      "tones": [
+        {
+          "score": 0.554386,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 65,
+      "text": "@JennaEllisEsq The only election fraud is being committed by Donald Trump and his enablers;  Trump and his enablers will be remembers as sore losers, peddlers of conspiracy theories and lies, bilking followers out of money, corruption &amp; fraud;  And losing dozens of election lawsuits &amp; recounts;",
+      "tones": [
+        {
+          "score": 0.535461,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 66,
+      "text": "@BuckForColorado @TrumpWarRoom @realDonaldTrump Will you, though; Or will the GOP return to being the spineless, go along to get along, cowards they were before we elected President Trump; If you don\u2019t have the backbone to fight, then you all  should resign; We are not GOP voters, we are Trump voters; all 74+ million of us;",
+      "tones": []
+    },
+    {
+      "sentence_id": 67,
+      "text": "@JennPellegrino @JasonMillerinDC @realMikeLindell Dear Georgia Trump Voters,You all might have already heard; #GeorgiaSenateRunoff election has already been decided;It has been exhausting, but it is what it is; We like it or not;We must now accept the outcome;Let's regroup in 2 years;Write-inDonald J; Trump &amp; Melania Trump",
+      "tones": [
+        {
+          "score": 0.560875,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 68,
+      "text": "@I_gave_you_powr @FeasterFamine @dankremnitzer @GabrielSterling You know nothing about the court system; You expect a district level judge to rule thousands of votes illegal and overturn the election; Throw out popular vote and rule that Trump wins the state; You would need physical copies of verified fraudulent ballots",
+      "tones": [
+        {
+          "score": 0.773881,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 69,
+      "text": "@JoyAnnReid In fairness, zombies thrive by consuming the brains of their victims, right; If they have only members of the Trump death cult to feed on I think the zombies would starve to death long before they got around to stalking normal people;",
+      "tones": [
+        {
+          "score": 0.703887,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.611241,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 70,
+      "text": "@funder OK THE JOKE IS OVER; YALL LIBERATS CANT HELP BUT LIE ABOUT EVERYTHING; WE THE PPL HAVE PHONES AND COMPUTERS; YOU DONT THINK BY NOW PPL ARE SEEINGFOR THE TRUTH ; AND YOU SIR ARE NOT THE TRUTH;       LIBERATS  TRUMP  WINS",
+      "tones": [
+        {
+          "score": 0.608483,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 71,
+      "text": "Maybe I missed it but did Donald Trump mention anything about the COVID crisis tonight;  He talks about himself but gives no thank you to first responders or empathy to those who have lost their lives; Disgusting@SenateGOP @GovKemp #COVID",
+      "tones": [
+        {
+          "score": 0.616816,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.822231,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 72,
+      "text": "@GOPChairwoman @kayleighmcenany @realDonaldTrump Chew cockroaches slutTrumpers are TraitorsThat's right, you're a traitor; Exclusive: De Niro, @robreiner, @SophiaBush, @StephenKing, @jvn, and more are cutting through the Trump administration\u2019s lies about the Mueller report  ",
+      "tones": []
+    },
+    {
+      "sentence_id": 73,
+      "text": "@jaketapper Meanwhile the current trump admin idiots are busy;;; 1; Trump jerking himself off for the camera in Georgia2; Jared and ivanka shredding evidence of all their crimes against the United States;",
+      "tones": []
+    },
+    {
+      "sentence_id": 74,
+      "text": "What the Fuck does that have to do with election fraud;Are you going to start chanting \u201cTrump is king, trump is king\u201d  in a monotone voice at the next \u201chearing\u201d Such a shameful legacy for your family name;If you don\u2019t have kids;;;DON\u2019T have kids",
+      "tones": []
+    },
+    {
+      "sentence_id": 75,
+      "text": "\ud83d\udce2WE'LL KEEP RTing TILL YOU GET THE MESSAGE;;YOU WORK FOR US &amp; SO WE DEMAND THAT YOU SUPPORT PRESIDENT TRUMP@SenatorCollins @jimdurkin82 @Repshimkus@RepRooney @RepKinzinger @RepPaulMitchell@RepDonBacon @RepJohnCurtis @RepRiggleman@GaSecofState @RepDonYoung @RepShimkus",
+      "tones": []
+    },
+    {
+      "sentence_id": 76,
+      "text": "@jaketapper you still denied there is Fraud in this Election;Stop telling Lies;  Do your Job; Report the Real News; America is Watching;You will be judged by your in Actions;Will history be kind to you for your Fake New Propaganda;",
+      "tones": [
+        {
+          "score": 0.53164,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 77,
+      "text": "@kayleighmcenany @TeamTrump @realDonaldTrump @MELANIATRUMP Shame on every Democrat in the country that treated President Trump the way they did for four years; Shame on all of you; What didn't he do for us especially all of you who Damn him; Now you idiots are going to lose everything unless you are super duper rich and can bribe people;",
+      "tones": [
+        {
+          "score": 0.532067,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.632066,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 78,
+      "text": "Donald J Trump is so ignorant corrupt and stupid he thinks his penis has ears; Trump::: lower your voice my penis has ears Donald Trump continues to lie",
+      "tones": [
+        {
+          "score": 0.64132,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        }
+      ]
+    },
+    {
+      "sentence_id": 79,
+      "text": "The Republican Party is over;Balloons are popped, cake is gone, kegs are dry; Stick a fork in her; The Grand Old Party is done; #trumpism",
+      "tones": [
+        {
+          "score": 0.623025,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 80,
+      "text": "@realDonaldTrump Is this true;;; \u201cTrump seems to acknowledge his time is up as he turns Georgia senate speech into rally for himself : INDEPENDENT \u201c",
+      "tones": [
+        {
+          "score": 0.775384,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 81,
+      "text": "@Jell0wYell0w @maf62maf @4YrsToday Trump wouldn't lend them $100 even if they donated Thousands of dlls to him; But in their minds, they believe he would",
+      "tones": [
+        {
+          "score": 0.702145,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 82,
+      "text": "They\u2019re cheering for news channels; These people;;;;are cheering; For new outlets; I;;;;don\u2019t understand this mentality;",
+      "tones": [
+        {
+          "score": 0.566038,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 83,
+      "text": "Most of Trump's rally was the typical bloviating, lying fare; But 2 things struck me as unbelievably dangerous: 1) Trump feeding upon the lack of intelligence and sophistication of his followers; This is a  CLASSIC fraud technique; Plant words such as, \"irrefutable facts\" w/o;;;",
+      "tones": []
+    },
+    {
+      "sentence_id": 84,
+      "text": "@Right_Sensing @paulbryand @trump_tran @RudyGiuliani What a boneheaded thought; What do you say to the judges appointed by Trump that threw out these cases;You\u2019d rather pack an absurd argument together with a billion twists and turns that needs the cooperation of thousands of people than see the plain simple truth that Trump lost",
+      "tones": [
+        {
+          "score": 0.656107,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.579367,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 85,
+      "text": ";;; sharing what the facts are; I guaran-damn-tee you his followers will quote him DIRECTLY: \"Well the facts are irrefutable;\" 2) Trump getting them to accept their status as, \"victims;\" You're left w/a dangerous combination: angry ppl who are convinced they've been cheated;;;",
+      "tones": [
+        {
+          "score": 0.776087,
+          "tone_id": "anger",
+          "tone_name": "Anger"
+        },
+        {
+          "score": 0.74355,
+          "tone_id": "confident",
+          "tone_name": "Confident"
+        }
+      ]
+    },
+    {
+      "sentence_id": 86,
+      "text": "He seriously needs some mental help; He is sick and needs some help;  Anybody else he would of had an intervention by now;",
+      "tones": [
+        {
+          "score": 0.849846,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 87,
+      "text": "@RBReich @busterronly AGREE; Unfortunately this seems to be lost on tRump &amp; his base; If you recall the Steven Seagal quote, \"What does it take;;;What does it take to change the essence of a man;\" It doesn't matter what happens, nothing will change the Orange Oval Clown as he is not a man, just child;",
+      "tones": [
+        {
+          "score": 0.581742,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 88,
+      "text": "@BeeJaySee When Trump showed the entire video of the guy in charge of the election first saying he\u2019s debunked the footage then admits he hadn\u2019t even watched it kinda brings them down;",
+      "tones": [
+        {
+          "score": 0.508431,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 89,
+      "text": "@GOP @GOPChairwoman  In case you missed this, or misunderstood this;  Americans are fighting for President Trump, not the gop that has sold us down the river for for decades;   @lisamurkowski @MittRomney",
+      "tones": [
+        {
+          "score": 0.627192,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.620279,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 90,
+      "text": "Pillow dude actually said on VIDEO that Kemp needs to do \u201cwhatever\u201d and just \u201chand Trump the election\u201d; They just say anything these days \ud83d\ude02",
+      "tones": [
+        {
+          "score": 0.75152,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 91,
+      "text": "This is Insane; BUT all I kept hearing was fake news for the past 4 years, maybe they figured their news wasn't fake till now, when they can\u2019t accept the results -Insanity I tell you;",
+      "tones": [
+        {
+          "score": 0.695576,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.677381,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 92,
+      "text": "@DolapoBA Honestly maybe because of all his blunders, very BIZARRE comments, and association with the Trump administration lately I\u2019m sympathetic to these families; And I want to believe he wasn\u2019t that great a surgeon after all",
+      "tones": [
+        {
+          "score": 0.646635,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.855572,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 93,
+      "text": "@jaketapper Whenever Trump holds a rally,CNN picks up COVID COVID COVID COVIDchill out Jake,vaccines are ready,hope you will be amongst the first to receive it",
+      "tones": []
+    },
+    {
+      "sentence_id": 94,
+      "text": "@Grossie @twdixon @ChadHartmanShow Trump is a nut; Don't know what I said to make you think that I think otherwise; As far as democracy and the parties only one talks about socialism and socialist idealism;",
+      "tones": [
+        {
+          "score": 0.862286,
+          "tone_id": "analytical",
+          "tone_name": "Analytical"
+        }
+      ]
+    },
+    {
+      "sentence_id": 95,
+      "text": "@realDonaldTrump You guys are in for some great prizes for being so cavalier with your health; Trump won't go near you without a mask;; Why; Because he doesn't wanna catch Corona; Why isn't he concerned you will; Because he doesn't care;",
+      "tones": [
+        {
+          "score": 0.867629,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    {
+      "sentence_id": 96,
+      "text": "@Lochai @Joris_Almayer @tomspettigue @thehill See, the problem is that I really believe that Trump saw how the  politicians were screwing the American people and he just wanted to help us;  You got caught up in the propaganda and voted for the elitist and now WE WILL ALL suffer because of it;  Good luck with those unicorns",
+      "tones": [
+        {
+          "score": 0.622822,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        }
+      ]
+    },
+    {
+      "sentence_id": 97,
+      "text": "@JudgeJeanine And there was, trumps ppl were there; trump lost get over it move on; You should not be on any show or interview with anyone; You have lied to us so many times to defend this con man trump",
+      "tones": [
+        {
+          "score": 0.542727,
+          "tone_id": "sadness",
+          "tone_name": "Sadness"
+        },
+        {
+          "score": 0.704683,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 98,
+      "text": "@MollyJongFast They are crazy; If you're not 100% if and or but Trump you're out; It's like all or nothing at all ( a Cole Porter song, BTW )",
+      "tones": [
+        {
+          "score": 0.533722,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        },
+        {
+          "score": 0.735884,
+          "tone_id": "tentative",
+          "tone_name": "Tentative"
+        }
+      ]
+    },
+    {
+      "sentence_id": 99,
+      "text": "@p0pc0rnflix @Bigglesdaf @Inanna247K @champion477477 @realDonaldTrump Or we could blame the guy who admitted in private how dangerous the virus was, then proceeded to lie to the American people &amp; refuse to do anything to stop it;Yeah, I think that one; Hundreds of thousands of needless deaths on trump\u2019s conscience, if he had one, &amp; more to come;",
+      "tones": []
+    }
+  ]
+}
