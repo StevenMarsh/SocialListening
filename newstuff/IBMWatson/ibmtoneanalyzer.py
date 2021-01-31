@@ -128,64 +128,78 @@ def cleanJSON(outputFile,platform,filename): # json derulo a.k.a name of json fi
     with open(filename) as data_file:
         data = json.load(data_file)
 
-    output = open(outputFile, "a") #TODO how to do new output file at beginning
-    output.write(platform+":\n")
-    output.write("Document Tones\n")
-    overallTones=[] #instantiating index of sentiments
-    tones=[] #instantiating list of each tweet sentiment
-    tweetText=[] #instantiating list of tweet content
-    counter=0 #instantiating counter
-    toneCounter=[]#instantiating list keeping track of how many tweets in each sentiment
-    tonedCounter=0 #instantiating counter of tweets with sentiment
-    toneScores=[] #instantiating list containing scores of each sentiment
+    sentiments=dict()
+    length=0
+    output = open(outputFile, "w")
+    output.write(platform+":\n\n")
+    # output.write("Document Tones\n")
+    # overallTones=[] #instantiating index of sentiments
+    # tones=[] #instantiating list of each tweet sentiment
+    # tweetText=[] #instantiating list of tweet content
+    # counter=0 #instantiating counter
+    # toneCounter=[]#instantiating list keeping track of how many tweets in each sentiment
+    # tonedCounter=0 #instantiating counter of tweets with sentiment
+    # toneScores=[] #instantiating list containing scores of each sentiment
 
-    for x in data["document_tone"]["tones"]:
-        output.write("\t" + x["tone_name"] + ": " + str(x["score"]))
-        output.write("\n")
+    # for x in data["document_tone"]["tones"]:
+    #     output.write("\t" + x["tone_name"] + ": " + str(x["score"]))
+    #     output.write("\n")
 
     # output.write("\nIndividual Sentences with Tone Analysis\n")
     for y in data["sentences_tone"]:
-        tones.append([]) #append a new list to tones for this tweet
-        toneScores.append([])
-        tweetText.append(str(y["text"]))#appending tweet text to list
-        if not y["tones"]: #if no sentiments for this tweet
-            tones[counter].append("NONE") #append NONE to the tones list
-            toneScores[counter].append("NONE")
-        else:#if sentiments attached to tweet
-            tonedCounter = tonedCounter + 1 #add one to the tonedCounter variable
-            for n in y["tones"]:#going through all tones
-                if(not(n["tone_name"] in overallTones)): #if the tone doesn't appear in overallTones
-                    overallTones.append(n["tone_name"])  #appending tone name to overallTones
-                    toneCounter.append(1) #appending 1 to toneCounter list
-
-                tones[counter].append(n["tone_name"]) #appending the tone name to tones list
-                toneScores[counter].append(n["score"]) #appending score to toneScores list
-                toneCounter[overallTones.index(n["tone_name"])]=toneCounter[overallTones.index(n["tone_name"])]+1 #adding one to the appropriate toneCounter list
-
-                # output.write("\t" + n["tone_name"] + ": " + str(n["score"]) + "\n")
-
-        counter+=1#adding one to counter
+        if y["tones"]:
+            length+=1
+        for n in y["tones"]:
+            if n["tone_name"] in sentiments:
+                sentiments[n["tone_name"]][y["text"]]=n["score"]
+            else:
+                sentiments[n["tone_name"]]=dict()
+                sentiments[n["tone_name"]][y["text"]]=n["score"]
+        # tones.append([]) #append a new list to tones for this tweet
+        # toneScores.append([])
+        # tweetText.append(str(y["text"]))#appending tweet text to list
+        # if not y["tones"]: #if no sentiments for this tweet
+        #     tones[counter].append("NONE") #append NONE to the tones list
+        #     toneScores[counter].append("NONE")
+        # else:#if sentiments attached to tweet
+        #     tonedCounter = tonedCounter + 1 #add one to the tonedCounter variable
+        #     for n in y["tones"]:#going through all tones
+        #         if(not(n["tone_name"] in overallTones)): #if the tone doesn't appear in overallTones
+        #             overallTones.append(n["tone_name"])  #appending tone name to overallTones
+        #             toneCounter.append(1) #appending 1 to toneCounter list
+        #
+        #         tones[counter].append(n["tone_name"]) #appending the tone name to tones list
+        #         toneScores[counter].append(n["score"]) #appending score to toneScores list
+        #         toneCounter[overallTones.index(n["tone_name"])]=toneCounter[overallTones.index(n["tone_name"])]+1 #adding one to the appropriate toneCounter list
+        #
+        #         # output.write("\t" + n["tone_name"] + ": " + str(n["score"]) + "\n")
+        #
+        # counter+=1#adding one to counter
 
     #writing to file
-    output.write("Number of tweets: "+str(tonedCounter)) #printing number of tweets
-
-    output.write("\nOverall Tones\n")
+    output.write("Number of tweets: "+str(length)+"\n") #printing number of tweets
 
     output.write("\nMajor Themes:\n") #writing sentiments + ratio related to all tweets
-    for i in range(0,len(overallTones)):
-        output.write(overallTones[i]+" (")
-        output.write(str(round(toneCounter[i]/tonedCounter*100,2))+"%)\n") #printing ratio
+    for i in sentiments.keys():
+        output.write(i +" (")
+        output.write(str(round((len(sentiments[i].keys())/length)*100))+"%)\n") #printing ratio
 
-    output.write("\n")
+    output.write("\n\n")
+    for j in sentiments.keys():
+        output.write(j+":\n")
+        for each in sentiments[j].keys():
+            output.write("- "+each+" ("+str(sentiments[j][each])+")\n\n")
+        output.write("\n")
+
 
     #writing each tweet organized by tone
-    for each in overallTones: #going through each sentiment
-        output.write(each+"\n")
-        for i in range(0,len(tones)):
-            if(each in tones[i]):#if tone in tones
-                output.write("- " +tweetText[i]+ " ") #writing tweet content
-                output.write("("+str(toneScores[i][tones[i].index(each)])+")\n\n") #writing score
-        output.write("\n\n\n")
+    # for each in overallTones: #going through each sentiment
+    #     output.write(each+"\n")
+    #     for i in range(0,len(tones)):
+    #         if(each in tones[i]):#if tone in tones
+    #             output.write("- " +tweetText[i]+ " ") #writing tweet content
+    #             output.write("("+str(toneScores[i][tones[i].index(each)])+")\n\n") #writing score
+    #     output.write("\n\n\n")
 
 
 

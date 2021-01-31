@@ -1,1513 +1,187 @@
 Twitter:
-Document Tones
-	Tentative: 0.513009
-Number of tweets: 54
-Overall Tones
+
+Number of tweets: 57
 
 Major Themes:
-Fear (7.41%)
-Tentative (25.93%)
-Analytical (33.33%)
-Anger (29.63%)
-Joy (18.52%)
-Confident (11.11%)
-Sadness (20.37%)
+Fear (5%)
+Anger (23%)
+Analytical (37%)
+Confident (12%)
+Joy (12%)
+Tentative (21%)
+Sadness (23%)
 
-Fear
-- @realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time; (0.576902)
 
-- @WhiteHouse @realDonaldTrump @FLOTUS Are you kidding @WhiteHouse, @realDonaldTrump has been running a “House of Horrors” for the past 4 years;  Why is Halloween any different; (0.722041)
+Fear:
+- @amanda_fawkes @ScottAdamsSays So there’s NO truth to this;   I mean, the story details plenty of contacts;  Why did Trump never condemn the massive Russian hack on our systems;  Why did Miles Taylor say Trump was never interested in challenging Russia;  Maybe it’s just one big story about money; (0.625682)
 
-- @KatharinaKoelb1 @realDonaldTrump I do believe since less than 10% of People believe the MSM after their "peaceful protest" lies that you might be projecting your fears;;; It's not that the American's Believe what 1 Person says they just stopped being sheep &amp; research the truth &amp; Fed docs show you are WRONG; (0.606738)
+- @kurteichenwald @CheriJacobus @Scaramucci Do you really think Scaramucci, a man who’s from NYC, has known Trump for yrs, seen him operate and is super fucking smart, suddenly realized Trump was a horror show;  I’m glad the guy speaks out, but it’s naive;  Mooch had a shot at a cabinet position, fully aware and took it; (0.620541)
 
+- @ResearchRonin @renegadestyle The power they weild is terrifying;  They flagrantly supressed election news stories, censored newspaers, and put not only their thumb but whole hand on the scale in favor of their chosen candidate;  And as imprudent as Trump was sometimes, they banned a sitting President; (0.568925)
 
 
 
-Tentative
-- @realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time; (0.698904)
+Anger:
+- @politico Freak backing a freak; @RepMTG is perfect for Trump; She is a racist, a liar, and has no real beliefs;;; other than she hates everyone; Neither really do what they do because they are patriotic; They do what they do because they are selfishly trying to push their racist agendas; (0.623067)
 
-- @realDonaldTrump Trump and Pence have surrendered to COVID-19; They don't care about groups of people canoodling;They don't care if you or your family get it; They're just using you for the photo op; After that, oh well; 🤷🏻‍♀️  (0.654647)
+- @JEFFVARNER @teeone34 @Scaramucci @max843 @TiffanyDCross FOH;;;;;; HE'S;;;;;A;;;;;GRIFTER; JUST LIKE COHEN;;;;JUST LIKE THE LINCOLN PROJECT;;;;;THEY ALL WERE TRUMPERS UNTIL TRUMP ATTACKED THEM; PLEASE HAVE SEVERAL SEATS "PUDDIN POP" 🤣 (0.558474)
 
-- @redamberblack @philip_bray @sparrow_42 @realDonaldTrump These high-risk folks are real people too, you know; They're just like you; They have lives that are full and complicated; They are moms, dads, roommates, and community members; They are real people who can't just check out of society for a year or two; (0.519411)
+- Speaker Pelosi is a joke the guy with the horns as a joke and having them being the trial is another joke this is ridiculous ; (0.575742)
 
-- @NYScanner @Breaking911 @realDonaldTrump @NYPDnews @TrumpWarRoom I do not like trump, but you shouldn't have rocks thrown at you just for showing your support; If you don't like it just ignore it, dont act like a child; (0.812219)
+- @B52Malmet @joncoopertweets @AnaCabrera It’s the TRUMPLICANS; You know the ones dividing the Republican Party ; They are all evil- radical conspiracy theorists; @SenTedCruz is a member; Shameful Trump snatched them all in and still controls them by telling he will keep them from re-election; Trump can’t; He lies; (0.501721)
 
-- @KatharinaKoelb1 @realDonaldTrump I do believe since less than 10% of People believe the MSM after their "peaceful protest" lies that you might be projecting your fears;;; It's not that the American's Believe what 1 Person says they just stopped being sheep &amp; research the truth &amp; Fed docs show you are WRONG; (0.767279)
+- Brainwashing complete;;; calls for violence justified by anti-Trump forces for politically motivated reasons; Such a rabid, evil nature is not normal and should concern everyone;   (0.534445)
 
-- Just heard both @JoeBiden and @KamalaHarris talking about this today;  'The Big Guy' threw out some date in March;  @realDonaldTrump started the travel ban for #china on 1/31;  At that point there were only 2 deaths outside of China - Philippines and Hong Kong; (0.565693)
+- @MittRomney “REPUBLICANS” IT’S TIME TO CLEAN UP YOUR PARTY;;; IT’S TIME TO CONVICT TRUMP HE’S NO LONGER THE PRESIDENT HE HAS NO SAY, IT’S DIVISIVE ALLOWING HIM ANY SAY; IT’S TIME TO EXPEL SOME FROM YOUR PARTY; THE PARTY IS BROKEN, FIX IT;; STOP 🛑 ALREADY (0.583045)
 
-- @joshscampbell Then why is Putin being mean to @realDonaldTrump about Hunter Biden; Just to play with him; Show the overfed slave boy who’s boss; (0.615352)
+- @mtgreenee GOP fundraising slot machine:Anger = Cash; Liberal anger = 2x CashCall school shooting fake = Q multiplierTrump phone call = 8 x CashTrump invite:  Jackpot (0.649806)
 
-- @MillerinDc @realDonaldTrump @SecPompeo @WHNSC Wait, so there's a man in the sky controlling everything - like murdering children - but you believe Trump is the problem;😂😂😂 (0.615352)
+- @american2084 Democrats have get way meaner , ruthless and dedicated to offset this wacko doodle shit going on the other side , this shadow Trump shit needs to stop and impeach the MF too (0.705988)
 
-- @pjsecluded @BelieveIt__2020 @Tzedek_Assoc @realDonaldTrump What's the connection;  There are orthodox Rabbis both for biden and Trump; Is there any diversity of thought in the Reform regarding this; (0.5538)
+- @jcputney @CassandraRules @mtgreenee The Jews; She never said that; Post a source; It hurts your case when you have to add to it; Someone said she referenced the Rothchild's, but that is irrelevant; It would be like me saying, "Oh, you just hate Christians because you attack Trump, a nominal Christian; (0.575953)
 
-- Hopefully #Azerbaijan will not break this cease fire just like the previous two ones‼️ Dear @realDonaldTrump, Mr; President, it’s just the right time to #RecognizeArtsakh to #StopTurkishTerrorism and #StopAzerbaijaniAggression‼️ #ArtsakhStrong ✊🇦🇲   #PeaceForArmenia (0.861422)
+- Yeah, what a bunch of cowards; Loosely translated, they rile up people they view as expendable and ruin their lives while they sit back and claim their hands are clean; MAGA, I don’t think you’re expendable; Do you; (0.637452)
 
-- @realDonaldTrump @SecPompeo @WHNSC Thank you Mr President; 3rd time lucky perhaps; Hope you're able to keep these two war criminals in check; #StopAzerbaijaniAggression #StopTurkey   (0.88939)
+- @patti_oreillyca @CrossConnection @TiffanyDCross @Scaramucci that he supported Trump and joined the Trump administration because as a Republican he was "in a dilemma"actually he hung around the Trump circle sucking up to everyone and grifted his way into that job (0.520929)
 
-- @realDonaldTrump Kamala don't need joe; People going around like parrots spouting party lines about joe; WE beat his azz back to SLEEP; Snake ain't dead yet; (0.716301)
+- @MizFrizz @SenTedCruz You must be on drugs; Biden is literally in the process of creating the mess that you inexplicably believe Trump made; Stupid old Joe is certainly not fixing anything; He’s already killed thousands of jobs and he’s just getting started; He’s acting like a rogue regime; (0.528334)
 
-- @realDonaldTrump @DonaldJTrumpJr @RudyGiuliani @TuckerCarlson @IngrahamAngle @seanhannity Some light Reading for your pleasure this fine, lovely Fall Sunday evening;💋  (0.5538)
+- @mtgreenee You are ruining democracy and incentivise lies, violence and mobs like Trump; Step down and go home;  #GreeneResign #TrumpTreason #TrumpInsurrection (0.514731)
 
 
 
+Analytical:
+- @politico Freak backing a freak; @RepMTG is perfect for Trump; She is a racist, a liar, and has no real beliefs;;; other than she hates everyone; Neither really do what they do because they are patriotic; They do what they do because they are selfishly trying to push their racist agendas; (0.654189)
 
-Analytical
-- @realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time; (0.574477)
+- @BonVoyaged_ His SAT scores have never been revealed and so there is no way for Trump's IQ to be determined in the manner that has been publicly asserted; (0.588596)
 
-- @anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Anna, don’t waste your time; They are brainwashed and think genocide is the answer; (0.801827)
+- @Lawdog85 @DevonBaard121 @PCK1013 On social media platforms she can be permanently banned like Trump free speech doesn't apply be clear of how the process works; (0.563256)
 
-- @K00l_Gladiator @kbuldakov1 @JeffreyGuterman @realDonaldTrump Again;;; How did the fix it;;; By implementing a new policy of separating children and parents and then loosing the parents;;;;;; Absolutely disgusting and a disgrace to America;;;; (0.54839)
+- This only confirms that the fight is still far from over; They are playing dirtier than ever; We need to stay alert and vote blue; (0.708196)
 
-- @Katincleveland @CryptoGooby @ObjectiveVoters @DavidShafer @GaRepublicans @JoeBiden @realDonaldTrump @SenateGOP I don't watch CNN, don't have cable TV; I work and try to keep my 2 kids going in school; All I've gotten in terms of help from the Trump administration was one $600 check;;; To then learn that that sleazy scammer only paid $750 in TAXES in recent years was really galling; (0.745832)
+- @funder @MeidasTouch It is my fantasy that Donald Trump would not be able attend one of his many civil trials or impeachment trial because of a scheduling conflict with one of his many criminal trials; (0.641954)
 
-- @DonaldJTrumpJr You’re sticking with @realDonaldTrump because he’ll cut your allowance if you don’t allow him to fill out your ballot; #BidenHarris2020 #TrumpIsPathetic #TrumpIsLosing #TrumpCrimeFamily (0.620279)
+- @SenTedCruz Really;;;;; War; Only war mongers are the Trumplicans Q party;Those are really inflammatory words; I guess you don’t care you have already caused the death of 6; One officer being beaten to death by your Trump mob;   (0.663824)
 
-- @___9275861_btn_ @realDonaldTrump @SecPompeo @WHNSC The CDC released info about how 100,000 deaths reported by hospitals were not actually caused by covid and then there is this bad boy (Attached picture);;; #BringTheTroopsHome#EndForeignWarsI thought hippies were already on bored with this;;; What happened;;;   (0.762356)
+- Brainwashing complete;;; calls for violence justified by anti-Trump forces for politically motivated reasons; Such a rabid, evil nature is not normal and should concern everyone;   (0.918436)
 
-- @realDonaldTrump @DonaldJTrumpJr @kimguilfoyle  please look at Philadelphia, Pa early ballots 200,000 have been pitched so far; If a person says the sig does not match, the machine says it does, another person says it doesn’t, they pitch it; We need to ck out with different panel (0.74948)
+- @BeschlossDC The Trump party and it’s Fuhrer have declared war on the Dems and on the nation; 6 dead;  The Dems don’t seem to know it yet, still thinking it’s politics; Let us not become Neville Chamberlain; (0.72739)
 
-- @SpacemanYoung put Me on in 2016 I was mind blown I'm not Gon lie @PHARAOH_ATEN_ because I was thinking SIMILAR but was lacking certain expressions I couldn't figure out @sun @bmoorewya (0.806276)
+- @RedState It won’t take long for America to see the differences in their lives from the effects of the Biden EO’s and policies compared to Trump’s; We have no loyalty for the existing @GOP; Some we voted for to help Trump and suffered their betrayal; Without Trump, we need a new slate; (0.680688)
 
-- @realDonaldTrump Just in case you forgot about Stormy Daniels &amp; Karen McDougal because many women &amp; I haven’t forgot $130K in hush money for @realDonaldTrump infidelities adulteress affairs which is an abomination &amp; a sin in the eyes of God to cheat on 3 of 3 wives; @FLOTUS   (0.672133)
+- Too right they are;  Look at what he is doing to Tom Rice and Liz Cheney; Trump is a bully who seeks retribution above everything else; Is getting re-elected so important to those in the GOP that they have sold their soul to such a craven lunatic; (0.543321)
 
-- @joshscampbell Then why is Putin being mean to @realDonaldTrump about Hunter Biden; Just to play with him; Show the overfed slave boy who’s boss; (0.702145)
+- @dr_hugh_jass @brownrobin64 @Junebagio That's belligerent occupation; Keep in mind, that was set up before inauguration; Trump had to approve it; Our troops are occupying territory that foreign entities are illegally inhabiting; (0.503988)
 
-- @pjsecluded @BelieveIt__2020 @Tzedek_Assoc @realDonaldTrump What's the connection;  There are orthodox Rabbis both for biden and Trump; Is there any diversity of thought in the Reform regarding this; (0.574477)
+- @StevenBeschloss Ignore McCarthy; He has no leadership skills and is unable to keep up without conferring with Trump at Mar-a-Lago; Does America not see that Trump is still leading the pack;      i;e; pack of white domestic terrorists; Are we going to allow him to lead another shocking disaster; (0.612362)
 
-- @realDonaldTrump AMERICANS REALLY LOOK AT THIS LETTER IT WAS MADE IN JUNE AN NOW NOW 9 DAYS BEFORE ELECTION TRUMP DECIDED TO SHOW YOU TRUMP CALLED BIDEN A POLITICIAN BUT EVERYTHING TRUMP IS DOING ON TWITTER IS BEING A POLITICIAN (0.834409)
+- @Roni4488 @lackboys3 @Ibutterfly34 Exactly; I said when Trump was elected that he was a symptom of a problem and I think he did the best he could under the circumstances; This has now been brewing since well before the past 10 years; (0.670204)
 
-- Hopefully #Azerbaijan will not break this cease fire just like the previous two ones‼️ Dear @realDonaldTrump, Mr; President, it’s just the right time to #RecognizeArtsakh to #StopTurkishTerrorism and #StopAzerbaijaniAggression‼️ #ArtsakhStrong ✊🇦🇲   #PeaceForArmenia (0.519491)
+- @TiffanyDCross @CrossConnection If you wanted to create more sensationalized tension then you succeeded; Nothing in this interview was to “understand “; Sad 😢; I’d rather see if we could have a dialogue with Biden voters and change the narrative- all the news is trump voters this/ that; 81mil matter (0.593017)
 
-- @thunderf00t @navcenter77 @realDonaldTrump Population is exploding as we speak; Natural selection is how that population is controlled; As you know when a population reach a certain amount a virus/bacteria will appear; Overpopulation is very bad; Lack of land area and resources will lead to war; I very much dislike war; (0.601699)
+- Are President Trump's pardons really the worst in modern history;  Are they even as bad as President Clinton's;  This video explores the subject;    https://t;co/JYhWKzzOED (0.789807)
 
-- @GOPChairwoman @realDonaldTrump Let me say what the video cut off: Joe Biden is saying (quoting someone else) that "dark days are ahead" REGARDING COVID-19;  And he's right; our numbers are getting worse and worse;In addition, he WILL raise taxes;;;on those making OVER $400,000; That's not most of us; (0.632275)
+- @Danny_van_Eijk @TruthSlayer02 @ProjectLincoln Say what; Are you slamming the Trump kids; All@of which have lead productive lives, successful marriages, children with their spouses and they are not drug addicted pedos; (0.519491)
 
-- @connorestafan @NYScanner @realDonaldTrump @TrumpWarRoom That's a racist statement; But we expect nothing but that from leftist haters of America🥴 (0.705784)
+- It’s been almost a year since this virus was discovered;  In the first year trump spent the whole time either patting China on the back or blaming them;  At this point the only thing I know is our govt didn’t do anything right;   As a result we’re dying by the thousands; SMH SAD (0.791489)
 
-- @Druzzer55 @GlobalVarkey @thehill @realDonaldTrump What normal; He gave black Americans the lowest unemployment and highest wages ever recorded;  You want Bidens normal back; Tens of thousands sent to prison and separated from their families; What normal do you prefer; (0.69672)
+- @mtgreenee you do know those folks are starting to bend like a twig; Soon;;; very soon the world will know who were the lead planners to a failed coup; Resign dirtbag; (0.704382)
 
+- Wouldn't it have been easier for Trump to start a megachurch than to run for President; It's right up his alley; Talk for hours on end one day a week and then take everyone's money in exchange for nothing; (0.527318)
 
+- No, you got McCain/Cheney for a 10th term;You didn't really think they were going to let little things like ethics or dead bodies get in the way of making bank for their cronies, did you; (0.662462)
 
+- @CatyUpATree Absolutely;;;;;; but, btw, he is NOT a leader; He is just a rather awful, ignorant, mendacious, flawed man holding tight to a leadership post that he never should have been granted; "UK-Trump", fitted well really; (0.548904)
 
-Anger
-- So, it is @realDonaldTrump, and the #GOP, who have made me distrust the election;  Can we report them;1;  Illegal Voter Boxes all over CA, by the GOP;2;  Trumps friend destroying the USPS ability to process mail;3;  GOP put armed voter suppression people in FL; (0.554266)
 
-- @realDonaldTrump You’re corrupt; Corrupt; We, the American Majority, are in the process of firing your incompetent ass; Hire a mover to get your gaudy shit out of the WH; (0.609025)
 
-- @anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Anna, don’t waste your time; They are brainwashed and think genocide is the answer; (0.590987)
+Confident:
+- @BonVoyaged_ His SAT scores have never been revealed and so there is no way for Trump's IQ to be determined in the manner that has been publicly asserted; (0.645985)
 
-- @realDonaldTrump @SecPompeo @WHNSC This is what happened to Azerbaijan 2 minutes after ceasefire; Armenia accuses Azerbaijan but has 0 proof; Here is our proof;   (0.651179)
+- ‘The perfect target’: #Russia cultivated #Trump as asset for 40 years – ex-KGB spy   Of course ;; #donniedollhands is an easy mark ;; if he's a private citizen now, charge him (0.829999)
 
-- @Acosta Rounding the corner or falling off the cliff;  Incompetent @realDonaldTrump has no clue what to do so he is doing nothing;  The @GOP deserves to be destroyed for enabling him;@GOPChairwoman @GOPLeader @DNCWarRoom   (0.600417)
+- @Jim_Jordan It is time to negotiate; We Need the Keystone Pipeline; Contact Trump ; The businessman ; The Keystone Pipe line must become talk among “all countries “affected by the catastrophic plunder of PoisonPen Biden; This is USA Business not government ;; (0.52996)
 
-- @Mike_Pence @realDonaldTrump Stop bringing more Covid to our state; You should be in quarantine; You know how irresponsible this is, you are the head of the dang task force; (0.710269)
+- @TOMBILLUSTRATE @CNN Yes and since the election was stolen, he had nothing to do with the attack, joe Biden is a senile dictator and Trump was the greatest president of all time;;; he will definitely win again in 2024; (0.628634)
 
-- @AlexVickeryHowe @BcrewMark @mednat1949 @charliekirk11 @realDonaldTrump So children were fed properly, never separated from their parents and were only there a short time; Comes trump and makes these illegals a living hell; Oh by the way, the people that came here; We’re legal or illegal; Bad bad orange man; (0.57401)
+- @Danny_van_Eijk @TruthSlayer02 @ProjectLincoln Say what; Are you slamming the Trump kids; All@of which have lead productive lives, successful marriages, children with their spouses and they are not drug addicted pedos; (0.605143)
 
-- @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Besides being ignorant you are also a racist fool; It’s time you learn the meaning of the word respect; Till then shut upDr; Parik Patel, BA, CFA, ACCA 💸 @ParikPatelCFA You are a racist I've been running long short equity since before you were born have some damn respect (0.663388)
+- @_Theoretical @CNN Yes and since the election was stolen, he had nothing to do with the attack, joe Biden is a senile dictator and Trump was the greatest president of all time;;; he will definitely win again in 2024; (0.628634)
 
-- @jernigan_anita @sherifflamb1 @realDonaldTrump I'm amazed you despicable monsters keep trying to change the subject to coyotes when this criminal administration stole children from THEIR PARENTS; (0.553798)
+- @donwinslow @weaselx86 @MayorOfLA Let’s make sure everyone knows about REALITY WINNER &amp; also commit to FREE AMERICAN HEROS unlawfully incarcerated for defending our Democracy;  (0.704642)
 
-- @SpacemanYoung put Me on in 2016 I was mind blown I'm not Gon lie @PHARAOH_ATEN_ because I was thinking SIMILAR but was lacking certain expressions I couldn't figure out @sun @bmoorewya (0.570123)
 
-- Rampant hate crimes and anti semitism thank you @realDonaldTrump for this atmosphere of name calling, intolerance, and hate; (0.797843)
 
-- @realDonaldTrump AMERICANS REALLY LOOK AT THIS LETTER IT WAS MADE IN JUNE AN NOW NOW 9 DAYS BEFORE ELECTION TRUMP DECIDED TO SHOW YOU TRUMP CALLED BIDEN A POLITICIAN BUT EVERYTHING TRUMP IS DOING ON TWITTER IS BEING A POLITICIAN (0.547556)
+Joy:
+- ‘The perfect target’: #Russia cultivated #Trump as asset for 40 years – ex-KGB spy   Of course ;; #donniedollhands is an easy mark ;; if he's a private citizen now, charge him (0.627549)
 
-- @atrupar The paid clowns behind the imbecile @realDonaldTrump have no idea what’s going on; #TrumpIsAnIdiot #TrumpIsANationalDisgrace #BidenHarris2020 (0.528978)
+- @POTUS 👍🏻It’s Saturday, January 30, 2021: Joe STILL cheated/didn’t legitimately win, Kamala STILL slept her way to the top, and Donald J; Trump is STILL the best President of the United States of my lifetime; #CheatersNeverProsper (0.756869)
 
-- @connorestafan @NYScanner @realDonaldTrump @TrumpWarRoom That's a racist statement; But we expect nothing but that from leftist haters of America🥴 (0.530468)
+- whether to, in defeat, continue embracing Trump and a demagogic style of politics that delights millions on the right but cost Republicans control of the White House and Congress;" (0.601206)
 
-- Hell of a public relations campaign;@KatieDaviscourt @jasonrantz@realDonaldTrump They burn, loot, and destroy hundreds of peoples lives in Seattle/Olympia and now they want us to think that they've been transformed into better citizens because they didn't riot yesterday;   (0.58111)
+- @Danny_van_Eijk @TruthSlayer02 @ProjectLincoln Say what; Are you slamming the Trump kids; All@of which have lead productive lives, successful marriages, children with their spouses and they are not drug addicted pedos; (0.76182)
 
+- There is other magic in other places and that is also awesome;I agree about Yosemite here, entering the valley through the west portal is a religious experience from me; (0.840456)
 
+- Wouldn't it have been easier for Trump to start a megachurch than to run for President; It's right up his alley; Talk for hours on end one day a week and then take everyone's money in exchange for nothing; (0.524836)
 
+- @LuannaSheridan1 @1zzyzyx1 Trust and Believe The only way #NewYorkCity will ever take #Trump back is gonna be on #RikersIsland   (0.539696)
 
-Joy
-- We love you guys;  Looked for you at the Pensacola rally;  Maybe I’ll get to meet you in President Trump’s 2nd term;;  #FourMoreYears #Trump2020 #VoteRed (0.720942)
 
-- #TrumpSurrendered If you really love America you’ll just drop out now; Please do it @realDonaldTrump @POTUS you’d finally be doing a service for your country; #TrumpDancesAmericansDie #BidenHarris #RIPGOP #VoteBlue   (0.789951)
 
-- @realDonaldTrump @SecPompeo @WHNSC I defy #President #Trump to find #Azerbaijan and #Armenia on a map;( you can through in #Iran for bonus points) &lt;I’m sure he’d have better luck finding #Moscow&gt; (0.509015)
+Tentative:
+- @JEFFVARNER @teeone34 @Scaramucci @max843 @TiffanyDCross FOH;;;;;; HE'S;;;;;A;;;;;GRIFTER; JUST LIKE COHEN;;;;JUST LIKE THE LINCOLN PROJECT;;;;;THEY ALL WERE TRUMPERS UNTIL TRUMP ATTACKED THEM; PLEASE HAVE SEVERAL SEATS "PUDDIN POP" 🤣 (0.631525)
 
-- @realDonaldTrump @SecPompeo @WHNSC Trump the greatest president of all time;;must include him in the Mount Rushmore National Memorial; #Trump2020Landslide (0.508004)
+- @funder @MeidasTouch It is my fantasy that Donald Trump would not be able attend one of his many civil trials or impeachment trial because of a scheduling conflict with one of his many criminal trials; (0.58393)
 
-- #TreworgyFamilyOrchards is a great place; So nice of #realDonaldTrump to go there—with a few thousand others;; #GoTrump2020 (0.9038)
+- @JeriLRyan A mental health screening would be a great start; Not ruling out someone with depression or bipolar disorder, but anyone who subscribes to Q Anon and believes that Trump is a messiah needs a straight jacket and not a members only jacket to Congress; (0.778124)
 
-- @realDonaldTrump @SecPompeo @WHNSC Thank you Mr President; 3rd time lucky perhaps; Hope you're able to keep these two war criminals in check; #StopAzerbaijaniAggression #StopTurkey   (0.510665)
+- @kim @MollyJongFast @marcorubio Nah; He’s just trying to show the trump family how much he is fighting for them so trumps little princess does t primary him; (0.5538)
 
-- @WarRoomPandemic @DineshDSouza @DrLiMengYAN1 @realDonaldTrump @WarRoom2020 Hahahahaha;;;;;;not very long ago President Windbag was singing President Xi’s praises and proclaiming his great leadership; (0.831597)
+- @nypost TRUMP ONLY HAD PEACEFUL RALLIES~~&gt;&gt;There Is No Evidence TRUMP Did ANYTHING Wrong AT Any Of His Rallies~&gt;~ No Video Proof;;;;No Audio Proof;;;No Violent Words In Speeches;;; TRUMP RALLIES ARE THE BEST~~;;; VOTE TRUMP 2024~~&gt;&gt;  (0.752161)
 
-- @realDonaldTrump @SecPompeo @WHNSC Thank you Mr; President; Looking for another 4 awesome years from you and your cabinet; #Trump2020 #RecognizeArtsakh #Armenia (0.88035)
+- @Lis_Smith You DO realize, don’t you, that Maxine Walters DID say this;;;but it was in June 2018 and it was about members of the Trump administration; Democrats didn’t seem to have a problem with it at the time; How quickly you forget; Just more Democrat hypocrisy;🙄 (0.530658)
 
-- @realDonaldTrump @DonaldJTrumpJr @RudyGiuliani @TuckerCarlson @IngrahamAngle @seanhannity Some light Reading for your pleasure this fine, lovely Fall Sunday evening;💋  (0.944757)
+- @SenTedCruz Trump signed well over 200 and you didn’t seem to mind; Sit down traitor; #ResignTedCruz #GOPSeditiousTraitors   (0.58393)
 
+- @meghanttucker The diploma or degree doesn’t mean you’re smart or moral or anything except that to either met the criteria or you cheated and paid your way to get the credits;Trump paid America paid (0.91961)
 
+- It’s been almost a year since this virus was discovered;  In the first year trump spent the whole time either patting China on the back or blaming them;  At this point the only thing I know is our govt didn’t do anything right;   As a result we’re dying by the thousands; SMH SAD (0.604739)
 
+- @PamKeithFL TRUMP LIVING RENT FREE IN ALL THE CRAZIES HEADS 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂deep breath😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂 (0.556444)
 
-Confident
-- @K00l_Gladiator @kbuldakov1 @JeffreyGuterman @realDonaldTrump Again;;; How did the fix it;;; By implementing a new policy of separating children and parents and then loosing the parents;;;;;; Absolutely disgusting and a disgrace to America;;;; (0.605143)
+- @MizFrizz @SenTedCruz You must be on drugs; Biden is literally in the process of creating the mess that you inexplicably believe Trump made; Stupid old Joe is certainly not fixing anything; He’s already killed thousands of jobs and he’s just getting started; He’s acting like a rogue regime; (0.71354)
 
-- @realDonaldTrump @SecPompeo @WHNSC This is what happened to Azerbaijan 2 minutes after ceasefire; Armenia accuses Azerbaijan but has 0 proof; Here is our proof;   (0.543112)
+- @MeganGowan1994 🤣🤣🤣🤣This hilarious;;; This hashtag is just Trump supporters and Pro Biden foreigners;;; Not a single American Biden voter;;; maybe there actually aren’t any (0.93238)
 
-- @Mike_Pence @realDonaldTrump Breaking News; Watch out; Joe Biden’s son Hunter Biden is actually…-Gnews   https://t;co/IPAIiySTyf (0.751512)
 
-- @realDonaldTrump @SecPompeo @WHNSC Trump the greatest president of all time;;must include him in the Mount Rushmore National Memorial; #Trump2020Landslide (0.767592)
 
-- @thunderf00t @navcenter77 @realDonaldTrump Population is exploding as we speak; Natural selection is how that population is controlled; As you know when a population reach a certain amount a virus/bacteria will appear; Overpopulation is very bad; Lack of land area and resources will lead to war; I very much dislike war; (0.61043)
+Sadness:
+- @funder @MeidasTouch It is my fantasy that Donald Trump would not be able attend one of his many civil trials or impeachment trial because of a scheduling conflict with one of his many criminal trials; (0.615466)
 
+- @SenTedCruz Really;;;;; War; Only war mongers are the Trumplicans Q party;Those are really inflammatory words; I guess you don’t care you have already caused the death of 6; One officer being beaten to death by your Trump mob;   (0.66014)
 
+- @JeriLRyan A mental health screening would be a great start; Not ruling out someone with depression or bipolar disorder, but anyone who subscribes to Q Anon and believes that Trump is a messiah needs a straight jacket and not a members only jacket to Congress; (0.898849)
 
+- @SenTedCruz But less than Bush and Trump; What's your, hahahaha, point; What have you done in the last six months accept encourage a cop-killing mob of insurrectionists; (0.54352)
 
-Sadness
-- Justice Ginsberg said her last wish is to see that she's replaced after the Presidential election; She knew how close it was; @senatemajldr, @GOP, and @realDonaldTrump were waiting for her to drop dead; They had a HEAVILY-vetted ultra-conservative woman set on reversing Roe;;; (0.512973)
+- @RedState It won’t take long for America to see the differences in their lives from the effects of the Biden EO’s and policies compared to Trump’s; We have no loyalty for the existing @GOP; Some we voted for to help Trump and suffered their betrayal; Without Trump, we need a new slate; (0.547943)
 
-- @CLewandowski_ @realDonaldTrump @JoeBiden Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  🇦🇿🇦🇿 (0.585769)
+- @KRB_2477 @BuckeyeHype @realDonaldTrump fool;  our Politicians, our State capital underwent a failed coup;    policemen DIED;   TRUMP LOST GET OVER IT;  Your the terrorists (0.568178)
 
-- @___9275861_btn_ @realDonaldTrump @SecPompeo @WHNSC The CDC released info about how 100,000 deaths reported by hospitals were not actually caused by covid and then there is this bad boy (Attached picture);;; #BringTheTroopsHome#EndForeignWarsI thought hippies were already on bored with this;;; What happened;;;   (0.635806)
+- @Roni4488 @lackboys3 @Ibutterfly34 Exactly; I said when Trump was elected that he was a symptom of a problem and I think he did the best he could under the circumstances; This has now been brewing since well before the past 10 years; (0.523611)
 
-- @anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC What about refugees of Karabakh Azerbaijanis; why they don’t live there now; The armenians kicked them out from their homes; Will you deny it; (0.50721)
+- @TiffanyDCross @CrossConnection If you wanted to create more sensationalized tension then you succeeded; Nothing in this interview was to “understand “; Sad 😢; I’d rather see if we could have a dialogue with Biden voters and change the narrative- all the news is trump voters this/ that; 81mil matter (0.616819)
 
-- @realDonaldTrump Trump/Pence are ignoring threat of virus 9 days b4 Election Day, continuing to downplay its risk at packed rallies across  country while endangering  lives of people around them, including their own staff &amp; supporters; #TrumpCovidRallies #TrumpOnlyCaresAboutTrump #WakeUpPeople (0.530702)
+- @Lis_Smith You DO realize, don’t you, that Maxine Walters DID say this;;;but it was in June 2018 and it was about members of the Trump administration; Democrats didn’t seem to have a problem with it at the time; How quickly you forget; Just more Democrat hypocrisy;🙄 (0.692063)
 
-- @thejtlewis @longislandtea12 He quit; He's Done; He Lied For Months; Biden/Harris a Fraud that didn't work; Biden knows he's done; America knows its over; The 47 years of failed politics now criminal investigation &amp; China has him by the short hairs; Biden/Harris ticket is Finished; @realDonaldTrump (0.599956)
+- Marjorie Taylor Greene warned before the election that Americans would have to shed blood to 'get your freedoms back' if Trump lost   via @Yahoo How about we start with yours; Kill yourself to prove your point; (0.599794)
 
-- @heinko00906861 @realDonaldTrump @SecPompeo @WHNSC #VoteBidenHarris2020tRump cut pandemic team/Gave china U;S; PPE/Hid #COVID19 2nd wave;Jan-Mar: golf 6/rallies 9tRump incompetence caused #TrumpRecession/HIGHEST #TrumpVirus cases &amp; deaths of any country;U;S; Today: OVER 8,640,000/225,000 dead &amp; RISING;  (0.60594)
+- It’s been almost a year since this virus was discovered;  In the first year trump spent the whole time either patting China on the back or blaming them;  At this point the only thing I know is our govt didn’t do anything right;   As a result we’re dying by the thousands; SMH SAD (0.819941)
 
-- @TeamTrump @realDonaldTrump Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  🇦🇿🇦🇿 (0.585769)
+- @Scaramucci Your feelings got hurt; She isn’t unprofessional, sanctimonious, or bitter; She pointed out to you who you were/are you choose to move on without looking back; You didn’t leave trump you were fired &amp; it made you bitter &amp; embarrassed or you would still be his shill; (0.701834)
 
-- @BamaGeorgia @hodgetwins @realDonaldTrump I'm not his lawyer or no him personally so you'd need them ask them that, but if they where able to make up a big treasonous lie like that, wouldn't they of went after him for the thing you said about; Why didn't they; Why wasn't that on the fake news 24/7 instead of the lie; (0.616561)
-
-- @GOPChairwoman @realDonaldTrump Let me say what the video cut off: Joe Biden is saying (quoting someone else) that "dark days are ahead" REGARDING COVID-19;  And he's right; our numbers are getting worse and worse;In addition, he WILL raise taxes;;;on those making OVER $400,000; That's not most of us; (0.61175)
-
-
-
-
-Twitter:
-Document Tones
-	Tentative: 0.513009
-Number of tweets: 54
-Overall Tones
-
-Major Themes:
-Fear (7.41%)
-Tentative (25.93%)
-Analytical (33.33%)
-Anger (29.63%)
-Joy (18.52%)
-Confident (11.11%)
-Sadness (20.37%)
-
-Fear
-- @realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time; (0.576902)
-
-- @WhiteHouse @realDonaldTrump @FLOTUS Are you kidding @WhiteHouse, @realDonaldTrump has been running a “House of Horrors” for the past 4 years;  Why is Halloween any different; (0.722041)
-
-- @KatharinaKoelb1 @realDonaldTrump I do believe since less than 10% of People believe the MSM after their "peaceful protest" lies that you might be projecting your fears;;; It's not that the American's Believe what 1 Person says they just stopped being sheep &amp; research the truth &amp; Fed docs show you are WRONG; (0.606738)
-
-
-
-
-Tentative
-- @realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time; (0.698904)
-
-- @realDonaldTrump Trump and Pence have surrendered to COVID-19; They don't care about groups of people canoodling;They don't care if you or your family get it; They're just using you for the photo op; After that, oh well; 🤷🏻‍♀️  (0.654647)
-
-- @redamberblack @philip_bray @sparrow_42 @realDonaldTrump These high-risk folks are real people too, you know; They're just like you; They have lives that are full and complicated; They are moms, dads, roommates, and community members; They are real people who can't just check out of society for a year or two; (0.519411)
-
-- @NYScanner @Breaking911 @realDonaldTrump @NYPDnews @TrumpWarRoom I do not like trump, but you shouldn't have rocks thrown at you just for showing your support; If you don't like it just ignore it, dont act like a child; (0.812219)
-
-- @KatharinaKoelb1 @realDonaldTrump I do believe since less than 10% of People believe the MSM after their "peaceful protest" lies that you might be projecting your fears;;; It's not that the American's Believe what 1 Person says they just stopped being sheep &amp; research the truth &amp; Fed docs show you are WRONG; (0.767279)
-
-- Just heard both @JoeBiden and @KamalaHarris talking about this today;  'The Big Guy' threw out some date in March;  @realDonaldTrump started the travel ban for #china on 1/31;  At that point there were only 2 deaths outside of China - Philippines and Hong Kong; (0.565693)
-
-- @joshscampbell Then why is Putin being mean to @realDonaldTrump about Hunter Biden; Just to play with him; Show the overfed slave boy who’s boss; (0.615352)
-
-- @MillerinDc @realDonaldTrump @SecPompeo @WHNSC Wait, so there's a man in the sky controlling everything - like murdering children - but you believe Trump is the problem;😂😂😂 (0.615352)
-
-- @pjsecluded @BelieveIt__2020 @Tzedek_Assoc @realDonaldTrump What's the connection;  There are orthodox Rabbis both for biden and Trump; Is there any diversity of thought in the Reform regarding this; (0.5538)
-
-- Hopefully #Azerbaijan will not break this cease fire just like the previous two ones‼️ Dear @realDonaldTrump, Mr; President, it’s just the right time to #RecognizeArtsakh to #StopTurkishTerrorism and #StopAzerbaijaniAggression‼️ #ArtsakhStrong ✊🇦🇲   #PeaceForArmenia (0.861422)
-
-- @realDonaldTrump @SecPompeo @WHNSC Thank you Mr President; 3rd time lucky perhaps; Hope you're able to keep these two war criminals in check; #StopAzerbaijaniAggression #StopTurkey   (0.88939)
-
-- @realDonaldTrump Kamala don't need joe; People going around like parrots spouting party lines about joe; WE beat his azz back to SLEEP; Snake ain't dead yet; (0.716301)
-
-- @realDonaldTrump @DonaldJTrumpJr @RudyGiuliani @TuckerCarlson @IngrahamAngle @seanhannity Some light Reading for your pleasure this fine, lovely Fall Sunday evening;💋  (0.5538)
-
-
-
-
-Analytical
-- @realDonaldTrump @SecPompeo @WHNSC Hopefully #Armenia will not launch missile attack against the civilians in #Azerbaijan just a few our after the Ceasefire as it did last time; (0.574477)
-
-- @anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Anna, don’t waste your time; They are brainwashed and think genocide is the answer; (0.801827)
-
-- @K00l_Gladiator @kbuldakov1 @JeffreyGuterman @realDonaldTrump Again;;; How did the fix it;;; By implementing a new policy of separating children and parents and then loosing the parents;;;;;; Absolutely disgusting and a disgrace to America;;;; (0.54839)
-
-- @Katincleveland @CryptoGooby @ObjectiveVoters @DavidShafer @GaRepublicans @JoeBiden @realDonaldTrump @SenateGOP I don't watch CNN, don't have cable TV; I work and try to keep my 2 kids going in school; All I've gotten in terms of help from the Trump administration was one $600 check;;; To then learn that that sleazy scammer only paid $750 in TAXES in recent years was really galling; (0.745832)
-
-- @DonaldJTrumpJr You’re sticking with @realDonaldTrump because he’ll cut your allowance if you don’t allow him to fill out your ballot; #BidenHarris2020 #TrumpIsPathetic #TrumpIsLosing #TrumpCrimeFamily (0.620279)
-
-- @___9275861_btn_ @realDonaldTrump @SecPompeo @WHNSC The CDC released info about how 100,000 deaths reported by hospitals were not actually caused by covid and then there is this bad boy (Attached picture);;; #BringTheTroopsHome#EndForeignWarsI thought hippies were already on bored with this;;; What happened;;;   (0.762356)
-
-- @realDonaldTrump @DonaldJTrumpJr @kimguilfoyle  please look at Philadelphia, Pa early ballots 200,000 have been pitched so far; If a person says the sig does not match, the machine says it does, another person says it doesn’t, they pitch it; We need to ck out with different panel (0.74948)
-
-- @SpacemanYoung put Me on in 2016 I was mind blown I'm not Gon lie @PHARAOH_ATEN_ because I was thinking SIMILAR but was lacking certain expressions I couldn't figure out @sun @bmoorewya (0.806276)
-
-- @realDonaldTrump Just in case you forgot about Stormy Daniels &amp; Karen McDougal because many women &amp; I haven’t forgot $130K in hush money for @realDonaldTrump infidelities adulteress affairs which is an abomination &amp; a sin in the eyes of God to cheat on 3 of 3 wives; @FLOTUS   (0.672133)
-
-- @joshscampbell Then why is Putin being mean to @realDonaldTrump about Hunter Biden; Just to play with him; Show the overfed slave boy who’s boss; (0.702145)
-
-- @pjsecluded @BelieveIt__2020 @Tzedek_Assoc @realDonaldTrump What's the connection;  There are orthodox Rabbis both for biden and Trump; Is there any diversity of thought in the Reform regarding this; (0.574477)
-
-- @realDonaldTrump AMERICANS REALLY LOOK AT THIS LETTER IT WAS MADE IN JUNE AN NOW NOW 9 DAYS BEFORE ELECTION TRUMP DECIDED TO SHOW YOU TRUMP CALLED BIDEN A POLITICIAN BUT EVERYTHING TRUMP IS DOING ON TWITTER IS BEING A POLITICIAN (0.834409)
-
-- Hopefully #Azerbaijan will not break this cease fire just like the previous two ones‼️ Dear @realDonaldTrump, Mr; President, it’s just the right time to #RecognizeArtsakh to #StopTurkishTerrorism and #StopAzerbaijaniAggression‼️ #ArtsakhStrong ✊🇦🇲   #PeaceForArmenia (0.519491)
-
-- @thunderf00t @navcenter77 @realDonaldTrump Population is exploding as we speak; Natural selection is how that population is controlled; As you know when a population reach a certain amount a virus/bacteria will appear; Overpopulation is very bad; Lack of land area and resources will lead to war; I very much dislike war; (0.601699)
-
-- @GOPChairwoman @realDonaldTrump Let me say what the video cut off: Joe Biden is saying (quoting someone else) that "dark days are ahead" REGARDING COVID-19;  And he's right; our numbers are getting worse and worse;In addition, he WILL raise taxes;;;on those making OVER $400,000; That's not most of us; (0.632275)
-
-- @connorestafan @NYScanner @realDonaldTrump @TrumpWarRoom That's a racist statement; But we expect nothing but that from leftist haters of America🥴 (0.705784)
-
-- @Druzzer55 @GlobalVarkey @thehill @realDonaldTrump What normal; He gave black Americans the lowest unemployment and highest wages ever recorded;  You want Bidens normal back; Tens of thousands sent to prison and separated from their families; What normal do you prefer; (0.69672)
-
-
-
-
-Anger
-- So, it is @realDonaldTrump, and the #GOP, who have made me distrust the election;  Can we report them;1;  Illegal Voter Boxes all over CA, by the GOP;2;  Trumps friend destroying the USPS ability to process mail;3;  GOP put armed voter suppression people in FL; (0.554266)
-
-- @realDonaldTrump You’re corrupt; Corrupt; We, the American Majority, are in the process of firing your incompetent ass; Hire a mover to get your gaudy shit out of the WH; (0.609025)
-
-- @anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Anna, don’t waste your time; They are brainwashed and think genocide is the answer; (0.590987)
-
-- @realDonaldTrump @SecPompeo @WHNSC This is what happened to Azerbaijan 2 minutes after ceasefire; Armenia accuses Azerbaijan but has 0 proof; Here is our proof;   (0.651179)
-
-- @Acosta Rounding the corner or falling off the cliff;  Incompetent @realDonaldTrump has no clue what to do so he is doing nothing;  The @GOP deserves to be destroyed for enabling him;@GOPChairwoman @GOPLeader @DNCWarRoom   (0.600417)
-
-- @Mike_Pence @realDonaldTrump Stop bringing more Covid to our state; You should be in quarantine; You know how irresponsible this is, you are the head of the dang task force; (0.710269)
-
-- @AlexVickeryHowe @BcrewMark @mednat1949 @charliekirk11 @realDonaldTrump So children were fed properly, never separated from their parents and were only there a short time; Comes trump and makes these illegals a living hell; Oh by the way, the people that came here; We’re legal or illegal; Bad bad orange man; (0.57401)
-
-- @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC Besides being ignorant you are also a racist fool; It’s time you learn the meaning of the word respect; Till then shut upDr; Parik Patel, BA, CFA, ACCA 💸 @ParikPatelCFA You are a racist I've been running long short equity since before you were born have some damn respect (0.663388)
-
-- @jernigan_anita @sherifflamb1 @realDonaldTrump I'm amazed you despicable monsters keep trying to change the subject to coyotes when this criminal administration stole children from THEIR PARENTS; (0.553798)
-
-- @SpacemanYoung put Me on in 2016 I was mind blown I'm not Gon lie @PHARAOH_ATEN_ because I was thinking SIMILAR but was lacking certain expressions I couldn't figure out @sun @bmoorewya (0.570123)
-
-- Rampant hate crimes and anti semitism thank you @realDonaldTrump for this atmosphere of name calling, intolerance, and hate; (0.797843)
-
-- @realDonaldTrump AMERICANS REALLY LOOK AT THIS LETTER IT WAS MADE IN JUNE AN NOW NOW 9 DAYS BEFORE ELECTION TRUMP DECIDED TO SHOW YOU TRUMP CALLED BIDEN A POLITICIAN BUT EVERYTHING TRUMP IS DOING ON TWITTER IS BEING A POLITICIAN (0.547556)
-
-- @atrupar The paid clowns behind the imbecile @realDonaldTrump have no idea what’s going on; #TrumpIsAnIdiot #TrumpIsANationalDisgrace #BidenHarris2020 (0.528978)
-
-- @connorestafan @NYScanner @realDonaldTrump @TrumpWarRoom That's a racist statement; But we expect nothing but that from leftist haters of America🥴 (0.530468)
-
-- Hell of a public relations campaign;@KatieDaviscourt @jasonrantz@realDonaldTrump They burn, loot, and destroy hundreds of peoples lives in Seattle/Olympia and now they want us to think that they've been transformed into better citizens because they didn't riot yesterday;   (0.58111)
-
-
-
-
-Joy
-- We love you guys;  Looked for you at the Pensacola rally;  Maybe I’ll get to meet you in President Trump’s 2nd term;;  #FourMoreYears #Trump2020 #VoteRed (0.720942)
-
-- #TrumpSurrendered If you really love America you’ll just drop out now; Please do it @realDonaldTrump @POTUS you’d finally be doing a service for your country; #TrumpDancesAmericansDie #BidenHarris #RIPGOP #VoteBlue   (0.789951)
-
-- @realDonaldTrump @SecPompeo @WHNSC I defy #President #Trump to find #Azerbaijan and #Armenia on a map;( you can through in #Iran for bonus points) &lt;I’m sure he’d have better luck finding #Moscow&gt; (0.509015)
-
-- @realDonaldTrump @SecPompeo @WHNSC Trump the greatest president of all time;;must include him in the Mount Rushmore National Memorial; #Trump2020Landslide (0.508004)
-
-- #TreworgyFamilyOrchards is a great place; So nice of #realDonaldTrump to go there—with a few thousand others;; #GoTrump2020 (0.9038)
-
-- @realDonaldTrump @SecPompeo @WHNSC Thank you Mr President; 3rd time lucky perhaps; Hope you're able to keep these two war criminals in check; #StopAzerbaijaniAggression #StopTurkey   (0.510665)
-
-- @WarRoomPandemic @DineshDSouza @DrLiMengYAN1 @realDonaldTrump @WarRoom2020 Hahahahaha;;;;;;not very long ago President Windbag was singing President Xi’s praises and proclaiming his great leadership; (0.831597)
-
-- @realDonaldTrump @SecPompeo @WHNSC Thank you Mr; President; Looking for another 4 awesome years from you and your cabinet; #Trump2020 #RecognizeArtsakh #Armenia (0.88035)
-
-- @realDonaldTrump @DonaldJTrumpJr @RudyGiuliani @TuckerCarlson @IngrahamAngle @seanhannity Some light Reading for your pleasure this fine, lovely Fall Sunday evening;💋  (0.944757)
-
-
-
-
-Confident
-- @K00l_Gladiator @kbuldakov1 @JeffreyGuterman @realDonaldTrump Again;;; How did the fix it;;; By implementing a new policy of separating children and parents and then loosing the parents;;;;;; Absolutely disgusting and a disgrace to America;;;; (0.605143)
-
-- @realDonaldTrump @SecPompeo @WHNSC This is what happened to Azerbaijan 2 minutes after ceasefire; Armenia accuses Azerbaijan but has 0 proof; Here is our proof;   (0.543112)
-
-- @Mike_Pence @realDonaldTrump Breaking News; Watch out; Joe Biden’s son Hunter Biden is actually…-Gnews   https://t;co/IPAIiySTyf (0.751512)
-
-- @realDonaldTrump @SecPompeo @WHNSC Trump the greatest president of all time;;must include him in the Mount Rushmore National Memorial; #Trump2020Landslide (0.767592)
-
-- @thunderf00t @navcenter77 @realDonaldTrump Population is exploding as we speak; Natural selection is how that population is controlled; As you know when a population reach a certain amount a virus/bacteria will appear; Overpopulation is very bad; Lack of land area and resources will lead to war; I very much dislike war; (0.61043)
-
-
-
-
-Sadness
-- Justice Ginsberg said her last wish is to see that she's replaced after the Presidential election; She knew how close it was; @senatemajldr, @GOP, and @realDonaldTrump were waiting for her to drop dead; They had a HEAVILY-vetted ultra-conservative woman set on reversing Roe;;; (0.512973)
-
-- @CLewandowski_ @realDonaldTrump @JoeBiden Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  🇦🇿🇦🇿 (0.585769)
-
-- @___9275861_btn_ @realDonaldTrump @SecPompeo @WHNSC The CDC released info about how 100,000 deaths reported by hospitals were not actually caused by covid and then there is this bad boy (Attached picture);;; #BringTheTroopsHome#EndForeignWarsI thought hippies were already on bored with this;;; What happened;;;   (0.635806)
-
-- @anna_45689 @azimovash @Vick0818 @ParikPatelCFA @realDonaldTrump @SecPompeo @WHNSC What about refugees of Karabakh Azerbaijanis; why they don’t live there now; The armenians kicked them out from their homes; Will you deny it; (0.50721)
-
-- @realDonaldTrump Trump/Pence are ignoring threat of virus 9 days b4 Election Day, continuing to downplay its risk at packed rallies across  country while endangering  lives of people around them, including their own staff &amp; supporters; #TrumpCovidRallies #TrumpOnlyCaresAboutTrump #WakeUpPeople (0.530702)
-
-- @thejtlewis @longislandtea12 He quit; He's Done; He Lied For Months; Biden/Harris a Fraud that didn't work; Biden knows he's done; America knows its over; The 47 years of failed politics now criminal investigation &amp; China has him by the short hairs; Biden/Harris ticket is Finished; @realDonaldTrump (0.599956)
-
-- @heinko00906861 @realDonaldTrump @SecPompeo @WHNSC #VoteBidenHarris2020tRump cut pandemic team/Gave china U;S; PPE/Hid #COVID19 2nd wave;Jan-Mar: golf 6/rallies 9tRump incompetence caused #TrumpRecession/HIGHEST #TrumpVirus cases &amp; deaths of any country;U;S; Today: OVER 8,640,000/225,000 dead &amp; RISING;  (0.60594)
-
-- @TeamTrump @realDonaldTrump Sir,it is clear you and Russia trying to buy time to aggressor to regain his power, do you remind Armenian to respect 4 UN resolution and leave Azerbijan internationally recognized lands, until they continue to occupy our land nothing much will happen  🇦🇿🇦🇿 (0.585769)
-
-- @BamaGeorgia @hodgetwins @realDonaldTrump I'm not his lawyer or no him personally so you'd need them ask them that, but if they where able to make up a big treasonous lie like that, wouldn't they of went after him for the thing you said about; Why didn't they; Why wasn't that on the fake news 24/7 instead of the lie; (0.616561)
-
-- @GOPChairwoman @realDonaldTrump Let me say what the video cut off: Joe Biden is saying (quoting someone else) that "dark days are ahead" REGARDING COVID-19;  And he's right; our numbers are getting worse and worse;In addition, he WILL raise taxes;;;on those making OVER $400,000; That's not most of us; (0.61175)
-
-
-
-
-Twitter:
-Document Tones
-Number of tweets: 65
-Overall Tones
-
-Major Themes:
-Sadness (40.0%)
-Analytical (38.46%)
-Anger (18.46%)
-Joy (20.0%)
-Tentative (16.92%)
-Confident (24.62%)
-
-Sadness
-- @RileyTheRad @stahir359 @BGOnTheScene Theres actually a ton of evidence to the contrary but when Trump loses he just gets his fanbase to fight his battles for him; They dont even understand theyve become his pawns now (0.580556)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- @brokenNotRecord @GalGreyt True, but I mean I feel powerless to do anything about what’s going down right now; Trump and his crew are destroying the place while his supporters guzzle Kool Aid; Sadly the cyanide kills democracy, not those who quaff it (0.680947)
-
-- The My pillow guy thinks the governors of Nevada and Pennsylvania can be convinced to deny the election results @rjashinn Don’t think they are even going to get Georgia to change; (0.529361)
-
-- @19snoopy55 @realDonaldTrump I have shook my head so violently and so many times in the entirety of Trump that it is a wonder it is still on my body; (0.672314)
-
-- @FriedmanGrace @santiagomayer_ I only had 1 trump supporter “friend”; When I tried to discuss trump she would just turn into a floodgate of ranting; Lots of ALL CAPS and way too many exclamation points;;;;; Could never keep her on one topic so it was impossible to get anywhere; (0.614696)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.602483)
-
-- Newsmax turns out they duped all you; Oh yeah we are the new" News" as they cut away from trump speaking; There is still RSB  everyone else go away (0.641208)
-
-- @MaggsBud Lol they’re celebrating that they can rip our country off again now that the compromised senile candidate has been “elected” instead of Trump (0.630116)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- @sherrybb @xoxoPatrioticRN @realDonaldTrump Well, you are half right; Those were actually pelican cases; Pelicans eat their young; That's why the Trump ballots went missing;The end (0.674943)
-
-- @KamalaHarris @JoeBiden Can’t wait; Here’s hoping for transparency to ensure that people stop believing Trump conspiracy theories; Also hoping we continue with interest free student loan payments; (0.62074)
-
-- Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss, and several have yet to fully acknowledge Biden as the winner of the election amid ongoing, unfounded fraud claims by the president;   (0.547909)
-
-- @BruceEllerstein @jonrog1 I believe Trump wants to flip a state, because he doesn't want to leave with the same elector votes Hillary had 4 years ago; (0.596595)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.634064)
-
-- #Trump makes multiple false claims in first campaign rally since #Election2020 #TrumpLost  #ByeDon #ByeByeTrump https://t;co/p7HjSDdACv (0.522877)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.708584)
-
-- @WGAL You have the audacity to state this headline when YOU falsely claimed Trump’s election in 2016 was illegitimate over a FALSE Russian collusion narrative you ran with for 4 years; 😂😂😂😂😂😂; You and your MSM cohorts are a laughingstock with ZERO credibility; (0.558879)
-
-- idk why this reminds me of like voldemort pointlessly monologuing before he attempts and fails to kill harry x10000 times (0.748507)
-
-- @Acyn Got it; Anyone who was loyal but has a pinky toe still dabbling in facts and logic (maybe self preservation) is deep state unless they're willing to risk it all for trump; That's a cult;  Drink the kool aid you horrible fucks; (0.520339)
-
-- TRY TRUMP FOR SEDITIONTrump flew past 25th Amendment years ago, and now has landed in enemy territory, where he should face a firing squad for seditious actions;  Defiant Trump insists election was 'rigged' at rally for Georgia Senate Republicans -   (0.530617)
-
-- @atrupar @gtconway3d It's almost sad to watch (I said ALMOST) Trump as he has devolved into a rambling, nonsensical, blithering idiot during the last days of his presidency; Wait, he was a rambling, nonsensical, blithering idiot the first day of his presidency; (0.761697)
-
-- @Ashley888Avram @littllemel @VincentCrypt46 So far we haven't seen that evidence over AG special counsel; Or do you suppose this is why DOJ is dragging their feet about helping Trump team with investigation; a little blackmail dragging AG Barr down;;;; (0.504814)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-
-
-
-Analytical
-- @RileyTheRad @stahir359 @BGOnTheScene Theres actually a ton of evidence to the contrary but when Trump loses he just gets his fanbase to fight his battles for him; They dont even understand theyve become his pawns now (0.69266)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑MIDNIGHT EXPRESS LEAVING THE STATION NOW;TRUMP SUPPORTERS FOLLOW TRAIN;  THERALLY WAS AWESOME;;;;🛑 Drop handle here and 🛑 Retweet 🛑 Follow all back 🛑 remember me👉 @johnnm53 👈🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑   (0.672469)
-
-- @realMarkLydell @BrianKempGA @KimRick31years How about Kemp acts like a governor and affirms his state's vote; You act like just because Trump wants something, it's right; You know that he thinks any vote against him is "illegal"-- he'll never accept that he lost, but he did; (0.771775)
-
-- He also @realDonaldTrump gave back my beliefs in Human Rights;God bless this man;Down Under🇦🇺 wishes we had the same passion in our leaders; (0.60456)
-
-- @Gislasshaw @jodesiah @MatthewJshow @realDonaldTrump So only the science that reinforces what you already think is true is the “real” science and when it doesn’t that’s when it’s the “fake” science correct; 🤣🤣🤣 I’m just trying to understand Trump supporter logic (0.648297)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.696092)
-
-- @Truthfind3er @LLinWood @GodKnowsBubba First of all i believe in both and especially our president; In has a good point for those senators wannabe but lin also fighting for trump;  You need to stand up and protect our rights and our freedom of speech; (0.8152)
-
-- @VinceRugari I’m neutral on them at best but discovered this recently discovered this and I know I don’t want to be on the side of Trump and Harvey;   (0.864824)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- Trump "[doesnt take responsibility]" for covid;;; as if he takes responsibility for anything wow what a thought Coronavirus Capitalism 1:20 #introgwss (0.653099)
-
-- We really have an untreated mental health crisis in this country; Between the QAnon and the Trump cult generally; These folks are not living in reality; (0.53644)
-
-- Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss, and several have yet to fully acknowledge Biden as the winner of the election amid ongoing, unfounded fraud claims by the president;   (0.579367)
-
-- @BruceEllerstein @jonrog1 I believe Trump wants to flip a state, because he doesn't want to leave with the same elector votes Hillary had 4 years ago; (0.512886)
-
-- @JedediahBila I know;  Did you know the ballots they put through were 98% for Biden; Trump would get more than that at a Black communist lesbian convention; (0.659886)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.819034)
-
-- @IAmSophiaNelson Trump said, "we have made America safe again;" Yes we have made America safer again by electing Biden as President and sending Trump packing on Jan 20, 2021 (0.546148)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.87867)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.771025)
-
-- Basically these conspiracies' go like this: a thing happened, this is fact, we think that fact means x, we have no proof but look at these coincidences; she ends it saying John Trump is the secret father of Julian Assange and might have invented a time machine;; yep seriously; (0.856362)
-
-- The con man must gain the marks’ trust; He must appeal to their sense of grievance, the unfairness of their lives, their victimhood; He must keep them there as long as they assume he is the only one to help them, his success is theirs, etc; (0.69572)
-
-- @realJeffreyLord @newsmax How long are you going to enable Trump;   What he did tonight is not only an embarrassment to our country but to the republican party that stands silent while he spews his lies;   How sad for all of you; (0.579367)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-
-
-
-Anger
-- All this shit has been happening covid wise and donald trump has not done SHIT for you or your family;  But after he lost to BIDEN, hes not even pretending to give a fuck about you fucking ANT motherfuckers to him; (0.913617)
-
-- Trump you are  beginning to  really  piss me off; Quite  relying on the  God damned  lawyers; You are  the  president; Put down this ongoing coup attempt  immediatly; Martial law; You  should be  hopping  mad that people are  trying to  steal America; Robert a Manella (0.711787)
-
-- @GoJackFlynn @LABD71 @realDonaldTrump As Trump supporters we will flood the street’s and throw our masks up in the air in celebration;The antifa pros will probably run out of funds, the remnant will get arrested and the remnant of those will go into hiding (0.571749)
-
-- @Michell48573497 @rushbaby78 @COOLWHIPJIM @scally_lynn @PhilipRucker @GlennKesslerWP Zero fucking evidence; Hence the courts; Your legal vote was counted, but so many more fucking hate trump, one of the least popular presidents of our generation; How is it hard to believe that people do like him; (0.685135)
-
-- Why don’t you ask YOUR SAVIOR TRUMP WHY HE DIDN’T MENTION THE NATL GUARD WAS GOING TI BE INJECTING YOU WITH NEEDLES   KEEP BELIEVING HIS LIES  #scumbag @realDonaldTrump (0.547046)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.509665)
-
-- @briza_alexandra @awcds @PoliticalSloth3 @realDonaldTrump You are so clueless; You should just give Trump all your money, he’ll solve all of your problems 🥴 fucking idiots; (0.844674)
-
-- Are you fucking KIDDING ME; Covid is EXPLODING through communties of color (and everywhere else) in Georgia &amp; this asshole is shaking hands &amp; posing for selfies at the Trump rally;It's called DEPRAVED INDIFFERENCE MURDER; (0.619183)
-
-- @ECMcLaughlin I have an idea; Just stay sober until Trump loses another lawsuit, and then another; That's a sure-fire plan; Hell, Friday you only had to make it a few minutes between each of them; Piece of cake; (0.527356)
-
-- @realDonaldTrump Revenge; Seriously; Sitting President of the United States telling citizens of his country what to do if they want revenge; And his followers continue to support this behavior; All evil dictators have had their followers; Trump followers going down same path; (0.653239)
-
-- This right here;This;The “victim” game; This is the bullshit every butthurt Trumper is going to throw in your face in the months to come;Just ask them, specifically, how this election has “victimized” them;Laugh heartily at their vaporous answers; (0.643825)
-
-
-
-
-Joy
-- This is so true but the great thing is, Biden won’t be whining and rage-tweeting about how mean everyone is to him; 😄 (0.916293)
-
-- #BidenCheated and should admit the #RiggedElection, concede and maybe he won’t be brought before a military tribunal;  Perhaps even Trump will pardon him (and Jill);  Just sing and bring all the traitors to justice; God Bless Trump and fukk Biden #traitor (0.621013)
-
-- @realDonaldTrump Blessings;  Trump &amp; Gop needs to pray Salm 2 (Nations) &amp; Salm 3 (Victory) and Salm 145; He is  chosen by God to continue 4 more years;YES YES YES Patriot President  @realDonaldTrumpTRUMP 2020 (0.593897)
-
-- Pretty sure everyone with a functioning brain knows he's a whacko yet it is fun to say, Trump is out of his fucking mind;Ah, feeling better; :-) (0.775023)
-
-- He also @realDonaldTrump gave back my beliefs in Human Rights;God bless this man;Down Under🇦🇺 wishes we had the same passion in our leaders; (0.732921)
-
-- @mrscorie @dhiggins63 Trump is revitalizing distressed communities through Opportunity Zones, which encourage investment and growth in underserved communities; More than 8,760 communities in all 50 States, the District of Columbia, and 5 Territories have been designated as Opportunity Zones; (0.613871)
-
-- @Truthfind3er @LLinWood @GodKnowsBubba First of all i believe in both and especially our president; In has a good point for those senators wannabe but lin also fighting for trump;  You need to stand up and protect our rights and our freedom of speech; (0.619772)
-
-- @VinceRugari I’m neutral on them at best but discovered this recently discovered this and I know I don’t want to be on the side of Trump and Harvey;   (0.503606)
-
-- @d_kompare They’re not craven cowards; they’re cynical conservatives happy to let Trump become the disposed icon of the anti-democratic ideology they’ve pursued for more than forty years; (0.691952)
-
-- @williamlegate You're following Kayleigh McNinny aka Trump's New Barbie Doll Blow-Up Sex Toy; Kayleigh McTwatty; The Water Buffalo was bad enough; This one reminds me of Iraq's Baghdad Bob who broadcast good news from Baghdad, moving locations when US troops got too close; (0.588307)
-
-- The con man must gain the marks’ trust; He must appeal to their sense of grievance, the unfairness of their lives, their victimhood; He must keep them there as long as they assume he is the only one to help them, his success is theirs, etc; (0.749201)
-
-- Are you listening Mitt Romney;  You and those like you are not the Republican party;  You think you are, but you are not;  If you can't stand with President Trump, we can't stand with you and we won't;;;;; (0.666635)
-
-
-
-
-Tentative
-- #BidenCheated and should admit the #RiggedElection, concede and maybe he won’t be brought before a military tribunal;  Perhaps even Trump will pardon him (and Jill);  Just sing and bring all the traitors to justice; God Bless Trump and fukk Biden #traitor (0.602632)
-
-- @DevinCow I wonder if Target in Minneapolis has pulled his land filling pillows from their shelves yet ; That’s what happens in Minnesota, we don’t play around where we can; tRump got shooed away in Rochester slick as you please;;; (0.511119)
-
-- @realMarkLydell @BrianKempGA @KimRick31years How about Kemp acts like a governor and affirms his state's vote; You act like just because Trump wants something, it's right; You know that he thinks any vote against him is "illegal"-- he'll never accept that he lost, but he did; (0.647986)
-
-- "Loeffler gave some wet noodle soundbites to a tepid audience response;;;;when the ever-entitled;;;;Perdue attempted to address the crowd, well, the patriots were just done listening to the elitist duplicity and started chanting: “Fight For Trump;”    (0.739732)
-
-- Trump "[doesnt take responsibility]" for covid;;; as if he takes responsibility for anything wow what a thought Coronavirus Capitalism 1:20 #introgwss (0.659112)
-
-- @KamalaHarris @JoeBiden Can’t wait; Here’s hoping for transparency to ensure that people stop believing Trump conspiracy theories; Also hoping we continue with interest free student loan payments; (0.898329)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.534455)
-
-- Trump Has 258,000 Watching His Rally on RSBN -- Or 258 Times More Viewers than Joe Biden's Thanksgiving Speech - The Most Popular Democrat In Universal History via @gatewaypundit   (0.534455)
-
-- idk why this reminds me of like voldemort pointlessly monologuing before he attempts and fails to kill harry x10000 times (0.704683)
-
-- @Ashley888Avram @littllemel @VincentCrypt46 So far we haven't seen that evidence over AG special counsel; Or do you suppose this is why DOJ is dragging their feet about helping Trump team with investigation; a little blackmail dragging AG Barr down;;;; (0.615352)
-
-
-
-
-Confident
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑MIDNIGHT EXPRESS LEAVING THE STATION NOW;TRUMP SUPPORTERS FOLLOW TRAIN;  THERALLY WAS AWESOME;;;;🛑 Drop handle here and 🛑 Retweet 🛑 Follow all back 🛑 remember me👉 @johnnm53 👈🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑   (0.543112)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.765006)
-
-- @JasonMillerinDC @KamVTV The pettiness needs to stop for now;  If Trump doesn't win, these 2 seats are the only thing keeping America from being run by socialists and Marxists;  After the election we can revamp the republican party, but until then make sure EVERY republican gets out and votes; (0.534439)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- @sherrybb @xoxoPatrioticRN @realDonaldTrump Well, you are half right; Those were actually pelican cases; Pelicans eat their young; That's why the Trump ballots went missing;The end (0.509368)
-
-- @OlgaNYC1211 Soon be done , a real attorney general will enforce the law , restore faith and never will they try this again, attacks against the Constitution is very chargeable, very convictable , trump and his allies will be charged, Lindsey Graham will be slaughtered for treason and removed (0.783291)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.560944)
-
-- The unlimited power of God is enormous and Trump is powerless; May Trump's disruption continue to proceed; God, Trump is all yours &amp; thank you God for all you do to those of us who are faithful to you &amp; protecting us from the likes of Trump; (0.551946)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.67107)
-
-- @briza_alexandra @awcds @PoliticalSloth3 @realDonaldTrump You are so clueless; You should just give Trump all your money, he’ll solve all of your problems 🥴 fucking idiots; (0.543112)
-
-- @AOC @DanCrenshawTX Stfu you retard, Crenshaw helps ppl of all kinds unlike your racist chicom self;  You want to tax the working class forever keeping them poor; Put your money where your mouth is, donate all your salary like trump #horseface #aoc   (0.686557)
-
-- @realTrumpForce Ruby freeman and her criminal daughter did this in Georgia but who instructed them;  All state shut down at the same time so it was coordinated; I’m sure Trump already knows who it is and has the evidence (0.683408)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-
-
-
-Twitter:
-Document Tones
-Number of tweets: 65
-Overall Tones
-
-Major Themes:
-Sadness (40.0%)
-Analytical (38.46%)
-Anger (18.46%)
-Joy (20.0%)
-Tentative (16.92%)
-Confident (24.62%)
-
-Sadness
-- @RileyTheRad @stahir359 @BGOnTheScene Theres actually a ton of evidence to the contrary but when Trump loses he just gets his fanbase to fight his battles for him; They dont even understand theyve become his pawns now (0.580556)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- @brokenNotRecord @GalGreyt True, but I mean I feel powerless to do anything about what’s going down right now; Trump and his crew are destroying the place while his supporters guzzle Kool Aid; Sadly the cyanide kills democracy, not those who quaff it (0.680947)
-
-- The My pillow guy thinks the governors of Nevada and Pennsylvania can be convinced to deny the election results @rjashinn Don’t think they are even going to get Georgia to change; (0.529361)
-
-- @19snoopy55 @realDonaldTrump I have shook my head so violently and so many times in the entirety of Trump that it is a wonder it is still on my body; (0.672314)
-
-- @FriedmanGrace @santiagomayer_ I only had 1 trump supporter “friend”; When I tried to discuss trump she would just turn into a floodgate of ranting; Lots of ALL CAPS and way too many exclamation points;;;;; Could never keep her on one topic so it was impossible to get anywhere; (0.614696)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.602483)
-
-- Newsmax turns out they duped all you; Oh yeah we are the new" News" as they cut away from trump speaking; There is still RSB  everyone else go away (0.641208)
-
-- @MaggsBud Lol they’re celebrating that they can rip our country off again now that the compromised senile candidate has been “elected” instead of Trump (0.630116)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- @sherrybb @xoxoPatrioticRN @realDonaldTrump Well, you are half right; Those were actually pelican cases; Pelicans eat their young; That's why the Trump ballots went missing;The end (0.674943)
-
-- @KamalaHarris @JoeBiden Can’t wait; Here’s hoping for transparency to ensure that people stop believing Trump conspiracy theories; Also hoping we continue with interest free student loan payments; (0.62074)
-
-- Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss, and several have yet to fully acknowledge Biden as the winner of the election amid ongoing, unfounded fraud claims by the president;   (0.547909)
-
-- @BruceEllerstein @jonrog1 I believe Trump wants to flip a state, because he doesn't want to leave with the same elector votes Hillary had 4 years ago; (0.596595)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.634064)
-
-- #Trump makes multiple false claims in first campaign rally since #Election2020 #TrumpLost  #ByeDon #ByeByeTrump https://t;co/p7HjSDdACv (0.522877)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.708584)
-
-- @WGAL You have the audacity to state this headline when YOU falsely claimed Trump’s election in 2016 was illegitimate over a FALSE Russian collusion narrative you ran with for 4 years; 😂😂😂😂😂😂; You and your MSM cohorts are a laughingstock with ZERO credibility; (0.558879)
-
-- idk why this reminds me of like voldemort pointlessly monologuing before he attempts and fails to kill harry x10000 times (0.748507)
-
-- @Acyn Got it; Anyone who was loyal but has a pinky toe still dabbling in facts and logic (maybe self preservation) is deep state unless they're willing to risk it all for trump; That's a cult;  Drink the kool aid you horrible fucks; (0.520339)
-
-- TRY TRUMP FOR SEDITIONTrump flew past 25th Amendment years ago, and now has landed in enemy territory, where he should face a firing squad for seditious actions;  Defiant Trump insists election was 'rigged' at rally for Georgia Senate Republicans -   (0.530617)
-
-- @atrupar @gtconway3d It's almost sad to watch (I said ALMOST) Trump as he has devolved into a rambling, nonsensical, blithering idiot during the last days of his presidency; Wait, he was a rambling, nonsensical, blithering idiot the first day of his presidency; (0.761697)
-
-- @Ashley888Avram @littllemel @VincentCrypt46 So far we haven't seen that evidence over AG special counsel; Or do you suppose this is why DOJ is dragging their feet about helping Trump team with investigation; a little blackmail dragging AG Barr down;;;; (0.504814)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-
-
-
-Analytical
-- @RileyTheRad @stahir359 @BGOnTheScene Theres actually a ton of evidence to the contrary but when Trump loses he just gets his fanbase to fight his battles for him; They dont even understand theyve become his pawns now (0.69266)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑MIDNIGHT EXPRESS LEAVING THE STATION NOW;TRUMP SUPPORTERS FOLLOW TRAIN;  THERALLY WAS AWESOME;;;;🛑 Drop handle here and 🛑 Retweet 🛑 Follow all back 🛑 remember me👉 @johnnm53 👈🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑   (0.672469)
-
-- @realMarkLydell @BrianKempGA @KimRick31years How about Kemp acts like a governor and affirms his state's vote; You act like just because Trump wants something, it's right; You know that he thinks any vote against him is "illegal"-- he'll never accept that he lost, but he did; (0.771775)
-
-- He also @realDonaldTrump gave back my beliefs in Human Rights;God bless this man;Down Under🇦🇺 wishes we had the same passion in our leaders; (0.60456)
-
-- @Gislasshaw @jodesiah @MatthewJshow @realDonaldTrump So only the science that reinforces what you already think is true is the “real” science and when it doesn’t that’s when it’s the “fake” science correct; 🤣🤣🤣 I’m just trying to understand Trump supporter logic (0.648297)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.696092)
-
-- @Truthfind3er @LLinWood @GodKnowsBubba First of all i believe in both and especially our president; In has a good point for those senators wannabe but lin also fighting for trump;  You need to stand up and protect our rights and our freedom of speech; (0.8152)
-
-- @VinceRugari I’m neutral on them at best but discovered this recently discovered this and I know I don’t want to be on the side of Trump and Harvey;   (0.864824)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- Trump "[doesnt take responsibility]" for covid;;; as if he takes responsibility for anything wow what a thought Coronavirus Capitalism 1:20 #introgwss (0.653099)
-
-- We really have an untreated mental health crisis in this country; Between the QAnon and the Trump cult generally; These folks are not living in reality; (0.53644)
-
-- Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss, and several have yet to fully acknowledge Biden as the winner of the election amid ongoing, unfounded fraud claims by the president;   (0.579367)
-
-- @BruceEllerstein @jonrog1 I believe Trump wants to flip a state, because he doesn't want to leave with the same elector votes Hillary had 4 years ago; (0.512886)
-
-- @JedediahBila I know;  Did you know the ballots they put through were 98% for Biden; Trump would get more than that at a Black communist lesbian convention; (0.659886)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.819034)
-
-- @IAmSophiaNelson Trump said, "we have made America safe again;" Yes we have made America safer again by electing Biden as President and sending Trump packing on Jan 20, 2021 (0.546148)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.87867)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.771025)
-
-- Basically these conspiracies' go like this: a thing happened, this is fact, we think that fact means x, we have no proof but look at these coincidences; she ends it saying John Trump is the secret father of Julian Assange and might have invented a time machine;; yep seriously; (0.856362)
-
-- The con man must gain the marks’ trust; He must appeal to their sense of grievance, the unfairness of their lives, their victimhood; He must keep them there as long as they assume he is the only one to help them, his success is theirs, etc; (0.69572)
-
-- @realJeffreyLord @newsmax How long are you going to enable Trump;   What he did tonight is not only an embarrassment to our country but to the republican party that stands silent while he spews his lies;   How sad for all of you; (0.579367)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-
-
-
-Anger
-- All this shit has been happening covid wise and donald trump has not done SHIT for you or your family;  But after he lost to BIDEN, hes not even pretending to give a fuck about you fucking ANT motherfuckers to him; (0.913617)
-
-- Trump you are  beginning to  really  piss me off; Quite  relying on the  God damned  lawyers; You are  the  president; Put down this ongoing coup attempt  immediatly; Martial law; You  should be  hopping  mad that people are  trying to  steal America; Robert a Manella (0.711787)
-
-- @GoJackFlynn @LABD71 @realDonaldTrump As Trump supporters we will flood the street’s and throw our masks up in the air in celebration;The antifa pros will probably run out of funds, the remnant will get arrested and the remnant of those will go into hiding (0.571749)
-
-- @Michell48573497 @rushbaby78 @COOLWHIPJIM @scally_lynn @PhilipRucker @GlennKesslerWP Zero fucking evidence; Hence the courts; Your legal vote was counted, but so many more fucking hate trump, one of the least popular presidents of our generation; How is it hard to believe that people do like him; (0.685135)
-
-- Why don’t you ask YOUR SAVIOR TRUMP WHY HE DIDN’T MENTION THE NATL GUARD WAS GOING TI BE INJECTING YOU WITH NEEDLES   KEEP BELIEVING HIS LIES  #scumbag @realDonaldTrump (0.547046)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.509665)
-
-- @briza_alexandra @awcds @PoliticalSloth3 @realDonaldTrump You are so clueless; You should just give Trump all your money, he’ll solve all of your problems 🥴 fucking idiots; (0.844674)
-
-- Are you fucking KIDDING ME; Covid is EXPLODING through communties of color (and everywhere else) in Georgia &amp; this asshole is shaking hands &amp; posing for selfies at the Trump rally;It's called DEPRAVED INDIFFERENCE MURDER; (0.619183)
-
-- @ECMcLaughlin I have an idea; Just stay sober until Trump loses another lawsuit, and then another; That's a sure-fire plan; Hell, Friday you only had to make it a few minutes between each of them; Piece of cake; (0.527356)
-
-- @realDonaldTrump Revenge; Seriously; Sitting President of the United States telling citizens of his country what to do if they want revenge; And his followers continue to support this behavior; All evil dictators have had their followers; Trump followers going down same path; (0.653239)
-
-- This right here;This;The “victim” game; This is the bullshit every butthurt Trumper is going to throw in your face in the months to come;Just ask them, specifically, how this election has “victimized” them;Laugh heartily at their vaporous answers; (0.643825)
-
-
-
-
-Joy
-- This is so true but the great thing is, Biden won’t be whining and rage-tweeting about how mean everyone is to him; 😄 (0.916293)
-
-- #BidenCheated and should admit the #RiggedElection, concede and maybe he won’t be brought before a military tribunal;  Perhaps even Trump will pardon him (and Jill);  Just sing and bring all the traitors to justice; God Bless Trump and fukk Biden #traitor (0.621013)
-
-- @realDonaldTrump Blessings;  Trump &amp; Gop needs to pray Salm 2 (Nations) &amp; Salm 3 (Victory) and Salm 145; He is  chosen by God to continue 4 more years;YES YES YES Patriot President  @realDonaldTrumpTRUMP 2020 (0.593897)
-
-- Pretty sure everyone with a functioning brain knows he's a whacko yet it is fun to say, Trump is out of his fucking mind;Ah, feeling better; :-) (0.775023)
-
-- He also @realDonaldTrump gave back my beliefs in Human Rights;God bless this man;Down Under🇦🇺 wishes we had the same passion in our leaders; (0.732921)
-
-- @mrscorie @dhiggins63 Trump is revitalizing distressed communities through Opportunity Zones, which encourage investment and growth in underserved communities; More than 8,760 communities in all 50 States, the District of Columbia, and 5 Territories have been designated as Opportunity Zones; (0.613871)
-
-- @Truthfind3er @LLinWood @GodKnowsBubba First of all i believe in both and especially our president; In has a good point for those senators wannabe but lin also fighting for trump;  You need to stand up and protect our rights and our freedom of speech; (0.619772)
-
-- @VinceRugari I’m neutral on them at best but discovered this recently discovered this and I know I don’t want to be on the side of Trump and Harvey;   (0.503606)
-
-- @d_kompare They’re not craven cowards; they’re cynical conservatives happy to let Trump become the disposed icon of the anti-democratic ideology they’ve pursued for more than forty years; (0.691952)
-
-- @williamlegate You're following Kayleigh McNinny aka Trump's New Barbie Doll Blow-Up Sex Toy; Kayleigh McTwatty; The Water Buffalo was bad enough; This one reminds me of Iraq's Baghdad Bob who broadcast good news from Baghdad, moving locations when US troops got too close; (0.588307)
-
-- The con man must gain the marks’ trust; He must appeal to their sense of grievance, the unfairness of their lives, their victimhood; He must keep them there as long as they assume he is the only one to help them, his success is theirs, etc; (0.749201)
-
-- Are you listening Mitt Romney;  You and those like you are not the Republican party;  You think you are, but you are not;  If you can't stand with President Trump, we can't stand with you and we won't;;;;; (0.666635)
-
-
-
-
-Tentative
-- #BidenCheated and should admit the #RiggedElection, concede and maybe he won’t be brought before a military tribunal;  Perhaps even Trump will pardon him (and Jill);  Just sing and bring all the traitors to justice; God Bless Trump and fukk Biden #traitor (0.602632)
-
-- @DevinCow I wonder if Target in Minneapolis has pulled his land filling pillows from their shelves yet ; That’s what happens in Minnesota, we don’t play around where we can; tRump got shooed away in Rochester slick as you please;;; (0.511119)
-
-- @realMarkLydell @BrianKempGA @KimRick31years How about Kemp acts like a governor and affirms his state's vote; You act like just because Trump wants something, it's right; You know that he thinks any vote against him is "illegal"-- he'll never accept that he lost, but he did; (0.647986)
-
-- "Loeffler gave some wet noodle soundbites to a tepid audience response;;;;when the ever-entitled;;;;Perdue attempted to address the crowd, well, the patriots were just done listening to the elitist duplicity and started chanting: “Fight For Trump;”    (0.739732)
-
-- Trump "[doesnt take responsibility]" for covid;;; as if he takes responsibility for anything wow what a thought Coronavirus Capitalism 1:20 #introgwss (0.659112)
-
-- @KamalaHarris @JoeBiden Can’t wait; Here’s hoping for transparency to ensure that people stop believing Trump conspiracy theories; Also hoping we continue with interest free student loan payments; (0.898329)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.534455)
-
-- Trump Has 258,000 Watching His Rally on RSBN -- Or 258 Times More Viewers than Joe Biden's Thanksgiving Speech - The Most Popular Democrat In Universal History via @gatewaypundit   (0.534455)
-
-- idk why this reminds me of like voldemort pointlessly monologuing before he attempts and fails to kill harry x10000 times (0.704683)
-
-- @Ashley888Avram @littllemel @VincentCrypt46 So far we haven't seen that evidence over AG special counsel; Or do you suppose this is why DOJ is dragging their feet about helping Trump team with investigation; a little blackmail dragging AG Barr down;;;; (0.615352)
-
-
-
-
-Confident
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑MIDNIGHT EXPRESS LEAVING THE STATION NOW;TRUMP SUPPORTERS FOLLOW TRAIN;  THERALLY WAS AWESOME;;;;🛑 Drop handle here and 🛑 Retweet 🛑 Follow all back 🛑 remember me👉 @johnnm53 👈🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑   (0.543112)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.765006)
-
-- @JasonMillerinDC @KamVTV The pettiness needs to stop for now;  If Trump doesn't win, these 2 seats are the only thing keeping America from being run by socialists and Marxists;  After the election we can revamp the republican party, but until then make sure EVERY republican gets out and votes; (0.534439)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- @sherrybb @xoxoPatrioticRN @realDonaldTrump Well, you are half right; Those were actually pelican cases; Pelicans eat their young; That's why the Trump ballots went missing;The end (0.509368)
-
-- @OlgaNYC1211 Soon be done , a real attorney general will enforce the law , restore faith and never will they try this again, attacks against the Constitution is very chargeable, very convictable , trump and his allies will be charged, Lindsey Graham will be slaughtered for treason and removed (0.783291)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.560944)
-
-- The unlimited power of God is enormous and Trump is powerless; May Trump's disruption continue to proceed; God, Trump is all yours &amp; thank you God for all you do to those of us who are faithful to you &amp; protecting us from the likes of Trump; (0.551946)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.67107)
-
-- @briza_alexandra @awcds @PoliticalSloth3 @realDonaldTrump You are so clueless; You should just give Trump all your money, he’ll solve all of your problems 🥴 fucking idiots; (0.543112)
-
-- @AOC @DanCrenshawTX Stfu you retard, Crenshaw helps ppl of all kinds unlike your racist chicom self;  You want to tax the working class forever keeping them poor; Put your money where your mouth is, donate all your salary like trump #horseface #aoc   (0.686557)
-
-- @realTrumpForce Ruby freeman and her criminal daughter did this in Georgia but who instructed them;  All state shut down at the same time so it was coordinated; I’m sure Trump already knows who it is and has the evidence (0.683408)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-
-
-
-Twitter:
-Document Tones
-Number of tweets: 65
-Overall Tones
-
-Major Themes:
-Sadness (40.0%)
-Analytical (38.46%)
-Anger (18.46%)
-Joy (20.0%)
-Tentative (16.92%)
-Confident (24.62%)
-
-Sadness
-- @RileyTheRad @stahir359 @BGOnTheScene Theres actually a ton of evidence to the contrary but when Trump loses he just gets his fanbase to fight his battles for him; They dont even understand theyve become his pawns now (0.580556)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- @brokenNotRecord @GalGreyt True, but I mean I feel powerless to do anything about what’s going down right now; Trump and his crew are destroying the place while his supporters guzzle Kool Aid; Sadly the cyanide kills democracy, not those who quaff it (0.680947)
-
-- The My pillow guy thinks the governors of Nevada and Pennsylvania can be convinced to deny the election results @rjashinn Don’t think they are even going to get Georgia to change; (0.529361)
-
-- @19snoopy55 @realDonaldTrump I have shook my head so violently and so many times in the entirety of Trump that it is a wonder it is still on my body; (0.672314)
-
-- @FriedmanGrace @santiagomayer_ I only had 1 trump supporter “friend”; When I tried to discuss trump she would just turn into a floodgate of ranting; Lots of ALL CAPS and way too many exclamation points;;;;; Could never keep her on one topic so it was impossible to get anywhere; (0.614696)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.602483)
-
-- Newsmax turns out they duped all you; Oh yeah we are the new" News" as they cut away from trump speaking; There is still RSB  everyone else go away (0.641208)
-
-- @MaggsBud Lol they’re celebrating that they can rip our country off again now that the compromised senile candidate has been “elected” instead of Trump (0.630116)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- @sherrybb @xoxoPatrioticRN @realDonaldTrump Well, you are half right; Those were actually pelican cases; Pelicans eat their young; That's why the Trump ballots went missing;The end (0.674943)
-
-- @KamalaHarris @JoeBiden Can’t wait; Here’s hoping for transparency to ensure that people stop believing Trump conspiracy theories; Also hoping we continue with interest free student loan payments; (0.62074)
-
-- Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss, and several have yet to fully acknowledge Biden as the winner of the election amid ongoing, unfounded fraud claims by the president;   (0.547909)
-
-- @BruceEllerstein @jonrog1 I believe Trump wants to flip a state, because he doesn't want to leave with the same elector votes Hillary had 4 years ago; (0.596595)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.634064)
-
-- #Trump makes multiple false claims in first campaign rally since #Election2020 #TrumpLost  #ByeDon #ByeByeTrump https://t;co/p7HjSDdACv (0.522877)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.708584)
-
-- @WGAL You have the audacity to state this headline when YOU falsely claimed Trump’s election in 2016 was illegitimate over a FALSE Russian collusion narrative you ran with for 4 years; 😂😂😂😂😂😂; You and your MSM cohorts are a laughingstock with ZERO credibility; (0.558879)
-
-- idk why this reminds me of like voldemort pointlessly monologuing before he attempts and fails to kill harry x10000 times (0.748507)
-
-- @Acyn Got it; Anyone who was loyal but has a pinky toe still dabbling in facts and logic (maybe self preservation) is deep state unless they're willing to risk it all for trump; That's a cult;  Drink the kool aid you horrible fucks; (0.520339)
-
-- TRY TRUMP FOR SEDITIONTrump flew past 25th Amendment years ago, and now has landed in enemy territory, where he should face a firing squad for seditious actions;  Defiant Trump insists election was 'rigged' at rally for Georgia Senate Republicans -   (0.530617)
-
-- @atrupar @gtconway3d It's almost sad to watch (I said ALMOST) Trump as he has devolved into a rambling, nonsensical, blithering idiot during the last days of his presidency; Wait, he was a rambling, nonsensical, blithering idiot the first day of his presidency; (0.761697)
-
-- @Ashley888Avram @littllemel @VincentCrypt46 So far we haven't seen that evidence over AG special counsel; Or do you suppose this is why DOJ is dragging their feet about helping Trump team with investigation; a little blackmail dragging AG Barr down;;;; (0.504814)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-
-
-
-Analytical
-- @RileyTheRad @stahir359 @BGOnTheScene Theres actually a ton of evidence to the contrary but when Trump loses he just gets his fanbase to fight his battles for him; They dont even understand theyve become his pawns now (0.69266)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑MIDNIGHT EXPRESS LEAVING THE STATION NOW;TRUMP SUPPORTERS FOLLOW TRAIN;  THERALLY WAS AWESOME;;;;🛑 Drop handle here and 🛑 Retweet 🛑 Follow all back 🛑 remember me👉 @johnnm53 👈🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑   (0.672469)
-
-- @realMarkLydell @BrianKempGA @KimRick31years How about Kemp acts like a governor and affirms his state's vote; You act like just because Trump wants something, it's right; You know that he thinks any vote against him is "illegal"-- he'll never accept that he lost, but he did; (0.771775)
-
-- He also @realDonaldTrump gave back my beliefs in Human Rights;God bless this man;Down Under🇦🇺 wishes we had the same passion in our leaders; (0.60456)
-
-- @Gislasshaw @jodesiah @MatthewJshow @realDonaldTrump So only the science that reinforces what you already think is true is the “real” science and when it doesn’t that’s when it’s the “fake” science correct; 🤣🤣🤣 I’m just trying to understand Trump supporter logic (0.648297)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.696092)
-
-- @Truthfind3er @LLinWood @GodKnowsBubba First of all i believe in both and especially our president; In has a good point for those senators wannabe but lin also fighting for trump;  You need to stand up and protect our rights and our freedom of speech; (0.8152)
-
-- @VinceRugari I’m neutral on them at best but discovered this recently discovered this and I know I don’t want to be on the side of Trump and Harvey;   (0.864824)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- Trump "[doesnt take responsibility]" for covid;;; as if he takes responsibility for anything wow what a thought Coronavirus Capitalism 1:20 #introgwss (0.653099)
-
-- We really have an untreated mental health crisis in this country; Between the QAnon and the Trump cult generally; These folks are not living in reality; (0.53644)
-
-- Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss, and several have yet to fully acknowledge Biden as the winner of the election amid ongoing, unfounded fraud claims by the president;   (0.579367)
-
-- @BruceEllerstein @jonrog1 I believe Trump wants to flip a state, because he doesn't want to leave with the same elector votes Hillary had 4 years ago; (0.512886)
-
-- @JedediahBila I know;  Did you know the ballots they put through were 98% for Biden; Trump would get more than that at a Black communist lesbian convention; (0.659886)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.819034)
-
-- @IAmSophiaNelson Trump said, "we have made America safe again;" Yes we have made America safer again by electing Biden as President and sending Trump packing on Jan 20, 2021 (0.546148)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.87867)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.771025)
-
-- Basically these conspiracies' go like this: a thing happened, this is fact, we think that fact means x, we have no proof but look at these coincidences; she ends it saying John Trump is the secret father of Julian Assange and might have invented a time machine;; yep seriously; (0.856362)
-
-- The con man must gain the marks’ trust; He must appeal to their sense of grievance, the unfairness of their lives, their victimhood; He must keep them there as long as they assume he is the only one to help them, his success is theirs, etc; (0.69572)
-
-- @realJeffreyLord @newsmax How long are you going to enable Trump;   What he did tonight is not only an embarrassment to our country but to the republican party that stands silent while he spews his lies;   How sad for all of you; (0.579367)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-
-
-
-Anger
-- All this shit has been happening covid wise and donald trump has not done SHIT for you or your family;  But after he lost to BIDEN, hes not even pretending to give a fuck about you fucking ANT motherfuckers to him; (0.913617)
-
-- Trump you are  beginning to  really  piss me off; Quite  relying on the  God damned  lawyers; You are  the  president; Put down this ongoing coup attempt  immediatly; Martial law; You  should be  hopping  mad that people are  trying to  steal America; Robert a Manella (0.711787)
-
-- @GoJackFlynn @LABD71 @realDonaldTrump As Trump supporters we will flood the street’s and throw our masks up in the air in celebration;The antifa pros will probably run out of funds, the remnant will get arrested and the remnant of those will go into hiding (0.571749)
-
-- @Michell48573497 @rushbaby78 @COOLWHIPJIM @scally_lynn @PhilipRucker @GlennKesslerWP Zero fucking evidence; Hence the courts; Your legal vote was counted, but so many more fucking hate trump, one of the least popular presidents of our generation; How is it hard to believe that people do like him; (0.685135)
-
-- Why don’t you ask YOUR SAVIOR TRUMP WHY HE DIDN’T MENTION THE NATL GUARD WAS GOING TI BE INJECTING YOU WITH NEEDLES   KEEP BELIEVING HIS LIES  #scumbag @realDonaldTrump (0.547046)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.509665)
-
-- @briza_alexandra @awcds @PoliticalSloth3 @realDonaldTrump You are so clueless; You should just give Trump all your money, he’ll solve all of your problems 🥴 fucking idiots; (0.844674)
-
-- Are you fucking KIDDING ME; Covid is EXPLODING through communties of color (and everywhere else) in Georgia &amp; this asshole is shaking hands &amp; posing for selfies at the Trump rally;It's called DEPRAVED INDIFFERENCE MURDER; (0.619183)
-
-- @ECMcLaughlin I have an idea; Just stay sober until Trump loses another lawsuit, and then another; That's a sure-fire plan; Hell, Friday you only had to make it a few minutes between each of them; Piece of cake; (0.527356)
-
-- @realDonaldTrump Revenge; Seriously; Sitting President of the United States telling citizens of his country what to do if they want revenge; And his followers continue to support this behavior; All evil dictators have had their followers; Trump followers going down same path; (0.653239)
-
-- This right here;This;The “victim” game; This is the bullshit every butthurt Trumper is going to throw in your face in the months to come;Just ask them, specifically, how this election has “victimized” them;Laugh heartily at their vaporous answers; (0.643825)
-
-
-
-
-Joy
-- This is so true but the great thing is, Biden won’t be whining and rage-tweeting about how mean everyone is to him; 😄 (0.916293)
-
-- #BidenCheated and should admit the #RiggedElection, concede and maybe he won’t be brought before a military tribunal;  Perhaps even Trump will pardon him (and Jill);  Just sing and bring all the traitors to justice; God Bless Trump and fukk Biden #traitor (0.621013)
-
-- @realDonaldTrump Blessings;  Trump &amp; Gop needs to pray Salm 2 (Nations) &amp; Salm 3 (Victory) and Salm 145; He is  chosen by God to continue 4 more years;YES YES YES Patriot President  @realDonaldTrumpTRUMP 2020 (0.593897)
-
-- Pretty sure everyone with a functioning brain knows he's a whacko yet it is fun to say, Trump is out of his fucking mind;Ah, feeling better; :-) (0.775023)
-
-- He also @realDonaldTrump gave back my beliefs in Human Rights;God bless this man;Down Under🇦🇺 wishes we had the same passion in our leaders; (0.732921)
-
-- @mrscorie @dhiggins63 Trump is revitalizing distressed communities through Opportunity Zones, which encourage investment and growth in underserved communities; More than 8,760 communities in all 50 States, the District of Columbia, and 5 Territories have been designated as Opportunity Zones; (0.613871)
-
-- @Truthfind3er @LLinWood @GodKnowsBubba First of all i believe in both and especially our president; In has a good point for those senators wannabe but lin also fighting for trump;  You need to stand up and protect our rights and our freedom of speech; (0.619772)
-
-- @VinceRugari I’m neutral on them at best but discovered this recently discovered this and I know I don’t want to be on the side of Trump and Harvey;   (0.503606)
-
-- @d_kompare They’re not craven cowards; they’re cynical conservatives happy to let Trump become the disposed icon of the anti-democratic ideology they’ve pursued for more than forty years; (0.691952)
-
-- @williamlegate You're following Kayleigh McNinny aka Trump's New Barbie Doll Blow-Up Sex Toy; Kayleigh McTwatty; The Water Buffalo was bad enough; This one reminds me of Iraq's Baghdad Bob who broadcast good news from Baghdad, moving locations when US troops got too close; (0.588307)
-
-- The con man must gain the marks’ trust; He must appeal to their sense of grievance, the unfairness of their lives, their victimhood; He must keep them there as long as they assume he is the only one to help them, his success is theirs, etc; (0.749201)
-
-- Are you listening Mitt Romney;  You and those like you are not the Republican party;  You think you are, but you are not;  If you can't stand with President Trump, we can't stand with you and we won't;;;;; (0.666635)
-
-
-
-
-Tentative
-- #BidenCheated and should admit the #RiggedElection, concede and maybe he won’t be brought before a military tribunal;  Perhaps even Trump will pardon him (and Jill);  Just sing and bring all the traitors to justice; God Bless Trump and fukk Biden #traitor (0.602632)
-
-- @DevinCow I wonder if Target in Minneapolis has pulled his land filling pillows from their shelves yet ; That’s what happens in Minnesota, we don’t play around where we can; tRump got shooed away in Rochester slick as you please;;; (0.511119)
-
-- @realMarkLydell @BrianKempGA @KimRick31years How about Kemp acts like a governor and affirms his state's vote; You act like just because Trump wants something, it's right; You know that he thinks any vote against him is "illegal"-- he'll never accept that he lost, but he did; (0.647986)
-
-- "Loeffler gave some wet noodle soundbites to a tepid audience response;;;;when the ever-entitled;;;;Perdue attempted to address the crowd, well, the patriots were just done listening to the elitist duplicity and started chanting: “Fight For Trump;”    (0.739732)
-
-- Trump "[doesnt take responsibility]" for covid;;; as if he takes responsibility for anything wow what a thought Coronavirus Capitalism 1:20 #introgwss (0.659112)
-
-- @KamalaHarris @JoeBiden Can’t wait; Here’s hoping for transparency to ensure that people stop believing Trump conspiracy theories; Also hoping we continue with interest free student loan payments; (0.898329)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.534455)
-
-- Trump Has 258,000 Watching His Rally on RSBN -- Or 258 Times More Viewers than Joe Biden's Thanksgiving Speech - The Most Popular Democrat In Universal History via @gatewaypundit   (0.534455)
-
-- idk why this reminds me of like voldemort pointlessly monologuing before he attempts and fails to kill harry x10000 times (0.704683)
-
-- @Ashley888Avram @littllemel @VincentCrypt46 So far we haven't seen that evidence over AG special counsel; Or do you suppose this is why DOJ is dragging their feet about helping Trump team with investigation; a little blackmail dragging AG Barr down;;;; (0.615352)
-
-
-
-
-Confident
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑MIDNIGHT EXPRESS LEAVING THE STATION NOW;TRUMP SUPPORTERS FOLLOW TRAIN;  THERALLY WAS AWESOME;;;;🛑 Drop handle here and 🛑 Retweet 🛑 Follow all back 🛑 remember me👉 @johnnm53 👈🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑   (0.543112)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.765006)
-
-- @JasonMillerinDC @KamVTV The pettiness needs to stop for now;  If Trump doesn't win, these 2 seats are the only thing keeping America from being run by socialists and Marxists;  After the election we can revamp the republican party, but until then make sure EVERY republican gets out and votes; (0.534439)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- @sherrybb @xoxoPatrioticRN @realDonaldTrump Well, you are half right; Those were actually pelican cases; Pelicans eat their young; That's why the Trump ballots went missing;The end (0.509368)
-
-- @OlgaNYC1211 Soon be done , a real attorney general will enforce the law , restore faith and never will they try this again, attacks against the Constitution is very chargeable, very convictable , trump and his allies will be charged, Lindsey Graham will be slaughtered for treason and removed (0.783291)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.560944)
-
-- The unlimited power of God is enormous and Trump is powerless; May Trump's disruption continue to proceed; God, Trump is all yours &amp; thank you God for all you do to those of us who are faithful to you &amp; protecting us from the likes of Trump; (0.551946)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.67107)
-
-- @briza_alexandra @awcds @PoliticalSloth3 @realDonaldTrump You are so clueless; You should just give Trump all your money, he’ll solve all of your problems 🥴 fucking idiots; (0.543112)
-
-- @AOC @DanCrenshawTX Stfu you retard, Crenshaw helps ppl of all kinds unlike your racist chicom self;  You want to tax the working class forever keeping them poor; Put your money where your mouth is, donate all your salary like trump #horseface #aoc   (0.686557)
-
-- @realTrumpForce Ruby freeman and her criminal daughter did this in Georgia but who instructed them;  All state shut down at the same time so it was coordinated; I’m sure Trump already knows who it is and has the evidence (0.683408)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-
-
-
-Twitter:
-Document Tones
-Number of tweets: 65
-Overall Tones
-
-Major Themes:
-Sadness (40.0%)
-Analytical (38.46%)
-Anger (18.46%)
-Joy (20.0%)
-Tentative (16.92%)
-Confident (24.62%)
-
-Sadness
-- @RileyTheRad @stahir359 @BGOnTheScene Theres actually a ton of evidence to the contrary but when Trump loses he just gets his fanbase to fight his battles for him; They dont even understand theyve become his pawns now (0.580556)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- @brokenNotRecord @GalGreyt True, but I mean I feel powerless to do anything about what’s going down right now; Trump and his crew are destroying the place while his supporters guzzle Kool Aid; Sadly the cyanide kills democracy, not those who quaff it (0.680947)
-
-- The My pillow guy thinks the governors of Nevada and Pennsylvania can be convinced to deny the election results @rjashinn Don’t think they are even going to get Georgia to change; (0.529361)
-
-- @19snoopy55 @realDonaldTrump I have shook my head so violently and so many times in the entirety of Trump that it is a wonder it is still on my body; (0.672314)
-
-- @FriedmanGrace @santiagomayer_ I only had 1 trump supporter “friend”; When I tried to discuss trump she would just turn into a floodgate of ranting; Lots of ALL CAPS and way too many exclamation points;;;;; Could never keep her on one topic so it was impossible to get anywhere; (0.614696)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.602483)
-
-- Newsmax turns out they duped all you; Oh yeah we are the new" News" as they cut away from trump speaking; There is still RSB  everyone else go away (0.641208)
-
-- @MaggsBud Lol they’re celebrating that they can rip our country off again now that the compromised senile candidate has been “elected” instead of Trump (0.630116)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- @sherrybb @xoxoPatrioticRN @realDonaldTrump Well, you are half right; Those were actually pelican cases; Pelicans eat their young; That's why the Trump ballots went missing;The end (0.674943)
-
-- @KamalaHarris @JoeBiden Can’t wait; Here’s hoping for transparency to ensure that people stop believing Trump conspiracy theories; Also hoping we continue with interest free student loan payments; (0.62074)
-
-- Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss, and several have yet to fully acknowledge Biden as the winner of the election amid ongoing, unfounded fraud claims by the president;   (0.547909)
-
-- @BruceEllerstein @jonrog1 I believe Trump wants to flip a state, because he doesn't want to leave with the same elector votes Hillary had 4 years ago; (0.596595)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.634064)
-
-- #Trump makes multiple false claims in first campaign rally since #Election2020 #TrumpLost  #ByeDon #ByeByeTrump https://t;co/p7HjSDdACv (0.522877)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.708584)
-
-- @WGAL You have the audacity to state this headline when YOU falsely claimed Trump’s election in 2016 was illegitimate over a FALSE Russian collusion narrative you ran with for 4 years; 😂😂😂😂😂😂; You and your MSM cohorts are a laughingstock with ZERO credibility; (0.558879)
-
-- idk why this reminds me of like voldemort pointlessly monologuing before he attempts and fails to kill harry x10000 times (0.748507)
-
-- @Acyn Got it; Anyone who was loyal but has a pinky toe still dabbling in facts and logic (maybe self preservation) is deep state unless they're willing to risk it all for trump; That's a cult;  Drink the kool aid you horrible fucks; (0.520339)
-
-- TRY TRUMP FOR SEDITIONTrump flew past 25th Amendment years ago, and now has landed in enemy territory, where he should face a firing squad for seditious actions;  Defiant Trump insists election was 'rigged' at rally for Georgia Senate Republicans -   (0.530617)
-
-- @atrupar @gtconway3d It's almost sad to watch (I said ALMOST) Trump as he has devolved into a rambling, nonsensical, blithering idiot during the last days of his presidency; Wait, he was a rambling, nonsensical, blithering idiot the first day of his presidency; (0.761697)
-
-- @Ashley888Avram @littllemel @VincentCrypt46 So far we haven't seen that evidence over AG special counsel; Or do you suppose this is why DOJ is dragging their feet about helping Trump team with investigation; a little blackmail dragging AG Barr down;;;; (0.504814)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.792427)
-
-
-
-
-Analytical
-- @RileyTheRad @stahir359 @BGOnTheScene Theres actually a ton of evidence to the contrary but when Trump loses he just gets his fanbase to fight his battles for him; They dont even understand theyve become his pawns now (0.69266)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑MIDNIGHT EXPRESS LEAVING THE STATION NOW;TRUMP SUPPORTERS FOLLOW TRAIN;  THERALLY WAS AWESOME;;;;🛑 Drop handle here and 🛑 Retweet 🛑 Follow all back 🛑 remember me👉 @johnnm53 👈🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑   (0.672469)
-
-- @realMarkLydell @BrianKempGA @KimRick31years How about Kemp acts like a governor and affirms his state's vote; You act like just because Trump wants something, it's right; You know that he thinks any vote against him is "illegal"-- he'll never accept that he lost, but he did; (0.771775)
-
-- He also @realDonaldTrump gave back my beliefs in Human Rights;God bless this man;Down Under🇦🇺 wishes we had the same passion in our leaders; (0.60456)
-
-- @Gislasshaw @jodesiah @MatthewJshow @realDonaldTrump So only the science that reinforces what you already think is true is the “real” science and when it doesn’t that’s when it’s the “fake” science correct; 🤣🤣🤣 I’m just trying to understand Trump supporter logic (0.648297)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.696092)
-
-- @Truthfind3er @LLinWood @GodKnowsBubba First of all i believe in both and especially our president; In has a good point for those senators wannabe but lin also fighting for trump;  You need to stand up and protect our rights and our freedom of speech; (0.8152)
-
-- @VinceRugari I’m neutral on them at best but discovered this recently discovered this and I know I don’t want to be on the side of Trump and Harvey;   (0.864824)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- Trump "[doesnt take responsibility]" for covid;;; as if he takes responsibility for anything wow what a thought Coronavirus Capitalism 1:20 #introgwss (0.653099)
-
-- We really have an untreated mental health crisis in this country; Between the QAnon and the Trump cult generally; These folks are not living in reality; (0.53644)
-
-- Christian conservatives who stood by Trump through moments of crisis and success are hardly comfortable with his loss, and several have yet to fully acknowledge Biden as the winner of the election amid ongoing, unfounded fraud claims by the president;   (0.579367)
-
-- @BruceEllerstein @jonrog1 I believe Trump wants to flip a state, because he doesn't want to leave with the same elector votes Hillary had 4 years ago; (0.512886)
-
-- @JedediahBila I know;  Did you know the ballots they put through were 98% for Biden; Trump would get more than that at a Black communist lesbian convention; (0.659886)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.819034)
-
-- @IAmSophiaNelson Trump said, "we have made America safe again;" Yes we have made America safer again by electing Biden as President and sending Trump packing on Jan 20, 2021 (0.546148)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.87867)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.771025)
-
-- Basically these conspiracies' go like this: a thing happened, this is fact, we think that fact means x, we have no proof but look at these coincidences; she ends it saying John Trump is the secret father of Julian Assange and might have invented a time machine;; yep seriously; (0.856362)
-
-- The con man must gain the marks’ trust; He must appeal to their sense of grievance, the unfairness of their lives, their victimhood; He must keep them there as long as they assume he is the only one to help them, his success is theirs, etc; (0.69572)
-
-- @realJeffreyLord @newsmax How long are you going to enable Trump;   What he did tonight is not only an embarrassment to our country but to the republican party that stands silent while he spews his lies;   How sad for all of you; (0.579367)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.69672)
-
-
-
-
-Anger
-- All this shit has been happening covid wise and donald trump has not done SHIT for you or your family;  But after he lost to BIDEN, hes not even pretending to give a fuck about you fucking ANT motherfuckers to him; (0.913617)
-
-- Trump you are  beginning to  really  piss me off; Quite  relying on the  God damned  lawyers; You are  the  president; Put down this ongoing coup attempt  immediatly; Martial law; You  should be  hopping  mad that people are  trying to  steal America; Robert a Manella (0.711787)
-
-- @GoJackFlynn @LABD71 @realDonaldTrump As Trump supporters we will flood the street’s and throw our masks up in the air in celebration;The antifa pros will probably run out of funds, the remnant will get arrested and the remnant of those will go into hiding (0.571749)
-
-- @Michell48573497 @rushbaby78 @COOLWHIPJIM @scally_lynn @PhilipRucker @GlennKesslerWP Zero fucking evidence; Hence the courts; Your legal vote was counted, but so many more fucking hate trump, one of the least popular presidents of our generation; How is it hard to believe that people do like him; (0.685135)
-
-- Why don’t you ask YOUR SAVIOR TRUMP WHY HE DIDN’T MENTION THE NATL GUARD WAS GOING TI BE INJECTING YOU WITH NEEDLES   KEEP BELIEVING HIS LIES  #scumbag @realDonaldTrump (0.547046)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.509665)
-
-- @briza_alexandra @awcds @PoliticalSloth3 @realDonaldTrump You are so clueless; You should just give Trump all your money, he’ll solve all of your problems 🥴 fucking idiots; (0.844674)
-
-- Are you fucking KIDDING ME; Covid is EXPLODING through communties of color (and everywhere else) in Georgia &amp; this asshole is shaking hands &amp; posing for selfies at the Trump rally;It's called DEPRAVED INDIFFERENCE MURDER; (0.619183)
-
-- @ECMcLaughlin I have an idea; Just stay sober until Trump loses another lawsuit, and then another; That's a sure-fire plan; Hell, Friday you only had to make it a few minutes between each of them; Piece of cake; (0.527356)
-
-- @realDonaldTrump Revenge; Seriously; Sitting President of the United States telling citizens of his country what to do if they want revenge; And his followers continue to support this behavior; All evil dictators have had their followers; Trump followers going down same path; (0.653239)
-
-- This right here;This;The “victim” game; This is the bullshit every butthurt Trumper is going to throw in your face in the months to come;Just ask them, specifically, how this election has “victimized” them;Laugh heartily at their vaporous answers; (0.643825)
-
-
-
-
-Joy
-- This is so true but the great thing is, Biden won’t be whining and rage-tweeting about how mean everyone is to him; 😄 (0.916293)
-
-- #BidenCheated and should admit the #RiggedElection, concede and maybe he won’t be brought before a military tribunal;  Perhaps even Trump will pardon him (and Jill);  Just sing and bring all the traitors to justice; God Bless Trump and fukk Biden #traitor (0.621013)
-
-- @realDonaldTrump Blessings;  Trump &amp; Gop needs to pray Salm 2 (Nations) &amp; Salm 3 (Victory) and Salm 145; He is  chosen by God to continue 4 more years;YES YES YES Patriot President  @realDonaldTrumpTRUMP 2020 (0.593897)
-
-- Pretty sure everyone with a functioning brain knows he's a whacko yet it is fun to say, Trump is out of his fucking mind;Ah, feeling better; :-) (0.775023)
-
-- He also @realDonaldTrump gave back my beliefs in Human Rights;God bless this man;Down Under🇦🇺 wishes we had the same passion in our leaders; (0.732921)
-
-- @mrscorie @dhiggins63 Trump is revitalizing distressed communities through Opportunity Zones, which encourage investment and growth in underserved communities; More than 8,760 communities in all 50 States, the District of Columbia, and 5 Territories have been designated as Opportunity Zones; (0.613871)
-
-- @Truthfind3er @LLinWood @GodKnowsBubba First of all i believe in both and especially our president; In has a good point for those senators wannabe but lin also fighting for trump;  You need to stand up and protect our rights and our freedom of speech; (0.619772)
-
-- @VinceRugari I’m neutral on them at best but discovered this recently discovered this and I know I don’t want to be on the side of Trump and Harvey;   (0.503606)
-
-- @d_kompare They’re not craven cowards; they’re cynical conservatives happy to let Trump become the disposed icon of the anti-democratic ideology they’ve pursued for more than forty years; (0.691952)
-
-- @williamlegate You're following Kayleigh McNinny aka Trump's New Barbie Doll Blow-Up Sex Toy; Kayleigh McTwatty; The Water Buffalo was bad enough; This one reminds me of Iraq's Baghdad Bob who broadcast good news from Baghdad, moving locations when US troops got too close; (0.588307)
-
-- The con man must gain the marks’ trust; He must appeal to their sense of grievance, the unfairness of their lives, their victimhood; He must keep them there as long as they assume he is the only one to help them, his success is theirs, etc; (0.749201)
-
-- Are you listening Mitt Romney;  You and those like you are not the Republican party;  You think you are, but you are not;  If you can't stand with President Trump, we can't stand with you and we won't;;;;; (0.666635)
-
-
-
-
-Tentative
-- #BidenCheated and should admit the #RiggedElection, concede and maybe he won’t be brought before a military tribunal;  Perhaps even Trump will pardon him (and Jill);  Just sing and bring all the traitors to justice; God Bless Trump and fukk Biden #traitor (0.602632)
-
-- @DevinCow I wonder if Target in Minneapolis has pulled his land filling pillows from their shelves yet ; That’s what happens in Minnesota, we don’t play around where we can; tRump got shooed away in Rochester slick as you please;;; (0.511119)
-
-- @realMarkLydell @BrianKempGA @KimRick31years How about Kemp acts like a governor and affirms his state's vote; You act like just because Trump wants something, it's right; You know that he thinks any vote against him is "illegal"-- he'll never accept that he lost, but he did; (0.647986)
-
-- "Loeffler gave some wet noodle soundbites to a tepid audience response;;;;when the ever-entitled;;;;Perdue attempted to address the crowd, well, the patriots were just done listening to the elitist duplicity and started chanting: “Fight For Trump;”    (0.739732)
-
-- Trump "[doesnt take responsibility]" for covid;;; as if he takes responsibility for anything wow what a thought Coronavirus Capitalism 1:20 #introgwss (0.659112)
-
-- @KamalaHarris @JoeBiden Can’t wait; Here’s hoping for transparency to ensure that people stop believing Trump conspiracy theories; Also hoping we continue with interest free student loan payments; (0.898329)
-
-- @louise_mireya If you think that many people died of covid or that Trump is somehow responsible then you’ve farmed your common sense out to the media, and through them, China; (0.534455)
-
-- Trump Has 258,000 Watching His Rally on RSBN -- Or 258 Times More Viewers than Joe Biden's Thanksgiving Speech - The Most Popular Democrat In Universal History via @gatewaypundit   (0.534455)
-
-- idk why this reminds me of like voldemort pointlessly monologuing before he attempts and fails to kill harry x10000 times (0.704683)
-
-- @Ashley888Avram @littllemel @VincentCrypt46 So far we haven't seen that evidence over AG special counsel; Or do you suppose this is why DOJ is dragging their feet about helping Trump team with investigation; a little blackmail dragging AG Barr down;;;; (0.615352)
-
-
-
-
-Confident
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑MIDNIGHT EXPRESS LEAVING THE STATION NOW;TRUMP SUPPORTERS FOLLOW TRAIN;  THERALLY WAS AWESOME;;;;🛑 Drop handle here and 🛑 Retweet 🛑 Follow all back 🛑 remember me👉 @johnnm53 👈🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑   (0.543112)
-
-- @tracybeanz Such desperation; If lame duck Trump and his lawyers are unable to provide genuine evidence proving voter fraud, then by all means let's listen to the MAGAts and their 'REAL' proof of election fraud; Trump is done on January 20th; Get over it; (0.765006)
-
-- @JasonMillerinDC @KamVTV The pettiness needs to stop for now;  If Trump doesn't win, these 2 seats are the only thing keeping America from being run by socialists and Marxists;  After the election we can revamp the republican party, but until then make sure EVERY republican gets out and votes; (0.534439)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- @sherrybb @xoxoPatrioticRN @realDonaldTrump Well, you are half right; Those were actually pelican cases; Pelicans eat their young; That's why the Trump ballots went missing;The end (0.509368)
-
-- @OlgaNYC1211 Soon be done , a real attorney general will enforce the law , restore faith and never will they try this again, attacks against the Constitution is very chargeable, very convictable , trump and his allies will be charged, Lindsey Graham will be slaughtered for treason and removed (0.783291)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-- He literally said that if you take away 3 states, then Donald Trump wins;;;Yes, that’s how it’s always worked, that’s how counting works😂😂 (0.560944)
-
-- The unlimited power of God is enormous and Trump is powerless; May Trump's disruption continue to proceed; God, Trump is all yours &amp; thank you God for all you do to those of us who are faithful to you &amp; protecting us from the likes of Trump; (0.551946)
-
-- @GhostOf177Six @ChuckCallesto @RealMattCouch  HEY Federal &amp; State Government &amp; USPSYou can shut everyone up buy publishing these factual numbersORThe NUMBERS will CONFIRM the Elections was Stolen;Publish them so we all know which is which; (0.67107)
-
-- @briza_alexandra @awcds @PoliticalSloth3 @realDonaldTrump You are so clueless; You should just give Trump all your money, he’ll solve all of your problems 🥴 fucking idiots; (0.543112)
-
-- @AOC @DanCrenshawTX Stfu you retard, Crenshaw helps ppl of all kinds unlike your racist chicom self;  You want to tax the working class forever keeping them poor; Put your money where your mouth is, donate all your salary like trump #horseface #aoc   (0.686557)
-
-- @realTrumpForce Ruby freeman and her criminal daughter did this in Georgia but who instructed them;  All state shut down at the same time so it was coordinated; I’m sure Trump already knows who it is and has the evidence (0.683408)
-
-- @FoxNews More than 120 Americans died from covid during Trump’s Georgia “feel sorry for me” rally; Trump lost the election and can’t  handle the truth;;; meanwhile America suffers because Trump couldn’t tell the truth and deal with facts; #TrumpPandemic (0.509368)
-
-
-
-
-Twitter:
-Document Tones
-Number of tweets: 69
-Overall Tones
-
-Major Themes:
-Anger (21.74%)
-Joy (21.74%)
-Analytical (31.88%)
-Sadness (37.68%)
-Tentative (20.29%)
-Confident (4.35%)
-
-Anger
-- @ColumbiaBugle how she dares speaks like that to anyone, not mentioning the President of the United States of America; And they say Trump is a despot;;; He is the nicest person around them, I don't understand how he can be so patient with them, they are so unprofessional, stupid, arrogant, rude (0.572462)
-
-- @realDonaldTrump Lots of LIES; Just a mind boggling amount of DISINFORMATION; Is Trump delusional; No it's just classic PROPAGANDA that would make Putin jealous;   (0.554752)
-
-- @kylenabecker I told myself the night of the election when those States stopped counting at the same time: “Self — AG Barr must immediately send in Agents to take over the precincts because something egregiously nefarious is going down;” It’s not about Trump vs Biden;cc: @TheJusticeDept (0.571964)
-
-- Tired of Trump only calling out antifa; Blm is &amp; has always been the greatest threat to weakest, elderly,women, whites; Long before Trump; Obama, prop media birthed blm; #1 researcher @colinflaherty; Books-DON'T MAKE THE BLACK KIDS ANGRY; WHITE GIRL BLEED A LOT; tw, YT; (0.521176)
-
-- I used to blame ignorance &amp; stupidity; Now it is just plain meanness, stating “I Don’t give a fuck about the virus or who gets it and I don’t care about all the suffering and death, or the exhausted health care workers; Basically these non wearing maskers don’ care about others; (0.53521)
-
-- THAT'S THE WAY TO DO IT , BEAT THE SHIT OUT OF THESE LITTLE BASSTURDS ; YEA BUDDY ; TIME TO FIGHT BACK AGAINST ANTIFA AND THE DEMOCRATS ; (0.740059)
-
-- @jessieopie I'm Jack Dorsey president elect and I hate people but love myself can't speak for myself on Joe Rogan a woman has to speak because I'm fucken retarded and I hate Trump because he won't kiss my bass with hiss ugh policies; (0.731865)
-
-- @alicetweet Ok Trump WonCNN SucksTrump Won CNN is Fake NewsTrump WonCNN has lousy reportersTrump WonCNN is as incompetent as BidenTrump WonCNN couldn’t Report a coin tossTrump WonCNN will be BankruptTrump WokCNN is part of the CoupeTrump WonCNN is communistTrump WonF CNN (0.593648)
-
-- @mmpadellan I know when Trump dies, a lot of people will be finding his burial site to piss on his grave; That's how hated he's become in America; (0.557461)
-
-- @funder OK THE JOKE IS OVER; YALL LIBERATS CANT HELP BUT LIE ABOUT EVERYTHING; WE THE PPL HAVE PHONES AND COMPUTERS; YOU DONT THINK BY NOW PPL ARE SEEINGFOR THE TRUTH ; AND YOU SIR ARE NOT THE TRUTH;       LIBERATS  TRUMP  WINS (0.608483)
-
-- @jaketapper you still denied there is Fraud in this Election;Stop telling Lies;  Do your Job; Report the Real News; America is Watching;You will be judged by your in Actions;Will history be kind to you for your Fake New Propaganda; (0.53164)
-
-- @kayleighmcenany @TeamTrump @realDonaldTrump @MELANIATRUMP Shame on every Democrat in the country that treated President Trump the way they did for four years; Shame on all of you; What didn't he do for us especially all of you who Damn him; Now you idiots are going to lose everything unless you are super duper rich and can bribe people; (0.532067)
-
-- Donald J Trump is so ignorant corrupt and stupid he thinks his penis has ears; Trump::: lower your voice my penis has ears Donald Trump continues to lie (0.64132)
-
-- ;;; sharing what the facts are; I guaran-damn-tee you his followers will quote him DIRECTLY: "Well the facts are irrefutable;" 2) Trump getting them to accept their status as, "victims;" You're left w/a dangerous combination: angry ppl who are convinced they've been cheated;;; (0.776087)
-
-
-
-
-Joy
-- Get ready for God’s reset, it will Trump the Great Reset bigly;Our founding fathers told us this time would come; It is our duty to stand up to tyranny; God bless you all in this, our greatest hour (0.85952)
-
-- @JoeConchaTV you better check the tape on the elementary interviews fox gave trump for 4 years; It’s kind of hilarious watching you moan about special treatment for biden, after hannity and Dobbs literally gave trump a BJ during their interviews with him; (0.6148)
-
-- @tappedthru @Immortantrump20 Take the senate, Trump wins, 2-4 years this man must be protected and will be one of the most important people in American First history; Fact; Like most great people, he is ahead of his time;;;literally the spark that will light the fire of our future; In time my friends; (0.63151)
-
-- @jbradye4344 @BrunoAmato_1 Just think if all the folks that couldn't vote because of covid; Trump was thinking that it would be good for him and covid had made lots of money for the rich; (0.52972)
-
-- @realDonaldTrump @tickelsurfancy You don’t know,how we interested winning President Trump; Seems it is our election &amp;he is our president; Iranians love USA&amp; Americans, but they don’t have voice;We are with you to save USA&amp; freedom for world; World  watching you;Fight for us; Be our voice please; (0.66143)
-
-- @realDonaldTrump Trump skillfully separates those he perceives as fools from their money; Donating money to a bazillionare con artist;; Trump is happy to keep telling supporters "we're going to win" and "we won" for as long as they're willing to keep sending money to his fundraising scam; (0.631548)
-
-- @wmmII88 If they win their seats it will protect President Trump from being impeached and removed and Pence as well so we don't end up with Pelosi as President; (0.532124)
-
-- @nbcwashington Because Biden behaves more as a Christian than Trump does; Biden actually  walks the walk; Trump can’t even name his favorite Bible verse or Book; (0.503889)
-
-- @RealAmVoice @RealDrGina @realMikeLindell Romans 13:1 Let every soul be subject to governing authorities; For there is no authority except from God and authorities that exist are appointed by God;   Please Lord reappoint Trump as president Thx you in Jesus name Amen 🙏🏻 (0.677799)
-
-- The Republican Party is over;Balloons are popped, cake is gone, kegs are dry; Stick a fork in her; The Grand Old Party is done; #trumpism (0.623025)
-
-- They’re cheering for news channels; These people;;;;are cheering; For new outlets; I;;;;don’t understand this mentality; (0.566038)
-
-- @DolapoBA Honestly maybe because of all his blunders, very BIZARRE comments, and association with the Trump administration lately I’m sympathetic to these families; And I want to believe he wasn’t that great a surgeon after all (0.646635)
-
-- @realDonaldTrump You guys are in for some great prizes for being so cavalier with your health; Trump won't go near you without a mask;; Why; Because he doesn't wanna catch Corona; Why isn't he concerned you will; Because he doesn't care; (0.867629)
-
-- @MollyJongFast They are crazy; If you're not 100% if and or but Trump you're out; It's like all or nothing at all ( a Cole Porter song, BTW ) (0.533722)
-
-
-
-
-Analytical
-- Never forget the GOP hating on Trump running, and then winning; They treated our President horrible for many months and some still do; They found out that Trump was smarter than they, and has more go power than all of the democrats and the republicans party together; Trump 2020; (0.584783)
-
-- #TrumpRally After all the election chatter is said and done more is said than done;In the words of the APPRENTICE:Mr; Donald J; TRUMP you were the team leader,Your team finished second,YOU ARE FIRED;;; (0.724236)
-
-- @iipiakaate @CT_Bergstrom Trump is the embodiment of postmodernism;   He, without reflection opposes dominate discourses;  His achievements are a result of exposing the hegemonic systems claim to truth as nothing more than a system devised to protect the power of people who benefit from it; (0.841001)
-
-- Nancy Pelosi purposely held back from passing any stimulus package before the election in order to harm president Trump;@SpeakerPelosi does not care or work for the American ppl; Her goal is to destroy @realDonaldTrump at all &amp; any cost regardless of the harm to the citizenry; (0.602352)
-
-- @tappedthru @Immortantrump20 Take the senate, Trump wins, 2-4 years this man must be protected and will be one of the most important people in American First history; Fact; Like most great people, he is ahead of his time;;;literally the spark that will light the fire of our future; In time my friends; (0.627413)
-
-- @jbradye4344 @BrunoAmato_1 Just think if all the folks that couldn't vote because of covid; Trump was thinking that it would be good for him and covid had made lots of money for the rich; (0.867677)
-
-- VOTER- FRAUD;  CROOKED DEMOCRATS KNOW HOW TO DO VOTE-FRAUD like @HillaryClinton KNOWS HOW TO HAVE PEOPLE COMMIT SUICIDE just before testifying against her; dems are crooked, liars &amp; corrupt; Trump kept all  PROMISES, EXCEPT sending  @hillaryclinton toJAIL; (0.575806)
-
-- @wmmII88 If they win their seats it will protect President Trump from being impeached and removed and Pence as well so we don't end up with Pelosi as President; (0.646387)
-
-- Yea, not only do Republicans take an oath, to defend our constitution; They also are being paid by taxpayers; If I had been this cowardly, in the military, I would have received a dishonorable discharge;#DishonorableRepublicans (0.756947)
-
-- @BirdBigbird9112 @GaRepublicans @DavidShafer @Perduesenate @KLoeffler @BubbaPSC @realDonaldTrump @GaSecofState Trump has known; It happened in 2018 midterms; They watched and learned and have been collecting evidence ever since; You have no idea what’s about to happen; Read his 2018 Executive Order for election interference; It’s all happening; Cue the military;   (0.554386)
-
-- @JennPellegrino @JasonMillerinDC @realMikeLindell Dear Georgia Trump Voters,You all might have already heard; #GeorgiaSenateRunoff election has already been decided;It has been exhausting, but it is what it is; We like it or not;We must now accept the outcome;Let's regroup in 2 years;Write-inDonald J; Trump &amp; Melania Trump (0.560875)
-
-- @I_gave_you_powr @FeasterFamine @dankremnitzer @GabrielSterling You know nothing about the court system; You expect a district level judge to rule thousands of votes illegal and overturn the election; Throw out popular vote and rule that Trump wins the state; You would need physical copies of verified fraudulent ballots (0.773881)
-
-- @JoyAnnReid In fairness, zombies thrive by consuming the brains of their victims, right; If they have only members of the Trump death cult to feed on I think the zombies would starve to death long before they got around to stalking normal people; (0.611241)
-
-- @realDonaldTrump Is this true;;; “Trump seems to acknowledge his time is up as he turns Georgia senate speech into rally for himself : INDEPENDENT “ (0.775384)
-
-- @Jell0wYell0w @maf62maf @4YrsToday Trump wouldn't lend them $100 even if they donated Thousands of dlls to him; But in their minds, they believe he would (0.702145)
-
-- @Right_Sensing @paulbryand @trump_tran @RudyGiuliani What a boneheaded thought; What do you say to the judges appointed by Trump that threw out these cases;You’d rather pack an absurd argument together with a billion twists and turns that needs the cooperation of thousands of people than see the plain simple truth that Trump lost (0.579367)
-
-- @RBReich @busterronly AGREE; Unfortunately this seems to be lost on tRump &amp; his base; If you recall the Steven Seagal quote, "What does it take;;;What does it take to change the essence of a man;" It doesn't matter what happens, nothing will change the Orange Oval Clown as he is not a man, just child; (0.581742)
-
-- @GOP @GOPChairwoman  In case you missed this, or misunderstood this;  Americans are fighting for President Trump, not the gop that has sold us down the river for for decades;   @lisamurkowski @MittRomney (0.620279)
-
-- This is Insane; BUT all I kept hearing was fake news for the past 4 years, maybe they figured their news wasn't fake till now, when they can’t accept the results -Insanity I tell you; (0.677381)
-
-- @DolapoBA Honestly maybe because of all his blunders, very BIZARRE comments, and association with the Trump administration lately I’m sympathetic to these families; And I want to believe he wasn’t that great a surgeon after all (0.855572)
-
-- @Grossie @twdixon @ChadHartmanShow Trump is a nut; Don't know what I said to make you think that I think otherwise; As far as democracy and the parties only one talks about socialism and socialist idealism; (0.862286)
-
-
-
-
-Sadness
-- @JennaEllisEsq @TeamTrump @schatzjoe @realDonaldTrump The only election fraud is being committed by Donald Trump and his enablers;  Trump and his enablers will be remembers as sore losers, peddlers of conspiracy theories and lies, bilking followers out of money, corruption &amp; fraud;  And losing dozens of election lawsuits &amp; recounts; (0.535461)
-
-- @TheLeoTerrell we will not have a republic in 2024;THE FIGHT FOR TRUMP IS NOW;We will cancel our membership in the @gop RNC if trump loses;I HOPE THE GET THE MESSAGE &amp; FIGHT FOR TRUMP (0.562687)
-
-- Damn; Really thought I was gonna hit a home run with that Trump/MyPillow mashup; Guess I just wasted another 20 minutes of the most wasted year ever 🤷‍♂️ (0.501848)
-
-- @MSNBC The group that is most responsible for the damage trump is inflicting on the country are the evangelical extremists political cults masquerading as Christian churches; (0.523263)
-
-- @biesecker_laura @lqualman @DonnaSulligan @JoeBiden Also, your good man Trump, never entered a church in his life before politics except for a friends wedding or funeral; Maybe  for a politician when trying to impress them; He only got “religion” when he realized there was a huge base of them he could easily use to get into power; (0.640154)
-
-- yewwWHAT @NDpendentPDX: 'Fight breaks out between Portland/ Washington protesters and counter protesters for Back The Blue and President Trump #Portland #PortlandProtests #Washington #antifa #fight '  , see more https://t;co/v8suWI9Fhs (0.55322)
-
-- Hey @RepDanCrenshaw I see you were in GA tonight, unmasked attending the tragic Trump “rally”; Do the people of Houston a favor, stay the hell away; Quarantine for 14 days before returning to this city; We don’t need you or your germs; Your ability to be worthless is remarkable; (0.794226)
-
-- Don’t mean to be haughty, but who’s the one person you can’t wait to rub in their face after Trump wins second term; I have several including @Acosta , @JedediahBila and every host on @TheView Who is yours; (0.656644)
-
-- @Rothbard1776 @JennaEllisEsq Do they allow curing of votes in AZ; If so, then they have to get those spoiled overvotes and call each of those voters and get their real votes in; It's possible for Trump to win on that alone if say, a miscreant worker(s) took 11K Trump ballots and filled in Biden; (0.541191)
-
-- @realDonaldTrump @JennaEllisEsq The only election fraud is being committed by Donald Trump and his enablers;  Trump and his enablers will be remembers as sore losers, peddlers of conspiracy theories and lies, bilking followers out of money, corruption &amp; fraud;  And losing dozens of election lawsuits &amp; recounts; (0.535461)
-
-- I used to blame ignorance &amp; stupidity; Now it is just plain meanness, stating “I Don’t give a fuck about the virus or who gets it and I don’t care about all the suffering and death, or the exhausted health care workers; Basically these non wearing maskers don’ care about others; (0.602429)
-
-- @thehill @TheHillOpinion Years of groundless leftist Democrat harrassment could not find Trump 'guilty'; The same cannot be said for Hildebeast, Hussein, or Billion$Biden;; (0.581847)
-
-- @DomNsfwYG @GregRetallack @Hattusili3789 @JennaEllisEsq Two things you are missing; One is that poll watchers are a courtesy not a requirement; Two is that a former campaign staffer of Trump organized an Army of Trump poll watchers who were trained to harass election workers so of course they got kicked out; That was by Trump’s design (0.520424)
-
-- Looks like I am going to lose my gentleman's bet that Trump would fire Barr my December 8th;  Kudlow, Navarro, Miller should be packing up now, nothing left to do but leave the WH with the heads hanging down; (0.573429)
-
-- @mmpadellan I know when Trump dies, a lot of people will be finding his burial site to piss on his grave; That's how hated he's become in America; (0.53912)
-
-- I developed an interest in politics via discussions, debates and arguments with him throughout the years; I wish I could talk to him about electing a Democrat to congress in Utah, my travels across the country and electing Joe Biden and defeating Donald Trump; He would be proud   (0.563859)
-
-- @JennaEllisEsq The only election fraud is being committed by Donald Trump and his enablers;  Trump and his enablers will be remembers as sore losers, peddlers of conspiracy theories and lies, bilking followers out of money, corruption &amp; fraud;  And losing dozens of election lawsuits &amp; recounts; (0.535461)
-
-- @JoyAnnReid In fairness, zombies thrive by consuming the brains of their victims, right; If they have only members of the Trump death cult to feed on I think the zombies would starve to death long before they got around to stalking normal people; (0.703887)
-
-- Maybe I missed it but did Donald Trump mention anything about the COVID crisis tonight;  He talks about himself but gives no thank you to first responders or empathy to those who have lost their lives; Disgusting@SenateGOP @GovKemp #COVID (0.616816)
-
-- @Right_Sensing @paulbryand @trump_tran @RudyGiuliani What a boneheaded thought; What do you say to the judges appointed by Trump that threw out these cases;You’d rather pack an absurd argument together with a billion twists and turns that needs the cooperation of thousands of people than see the plain simple truth that Trump lost (0.656107)
-
-- @BeeJaySee When Trump showed the entire video of the guy in charge of the election first saying he’s debunked the footage then admits he hadn’t even watched it kinda brings them down; (0.508431)
-
-- @GOP @GOPChairwoman  In case you missed this, or misunderstood this;  Americans are fighting for President Trump, not the gop that has sold us down the river for for decades;   @lisamurkowski @MittRomney (0.627192)
-
-- This is Insane; BUT all I kept hearing was fake news for the past 4 years, maybe they figured their news wasn't fake till now, when they can’t accept the results -Insanity I tell you; (0.695576)
-
-- @Lochai @Joris_Almayer @tomspettigue @thehill See, the problem is that I really believe that Trump saw how the  politicians were screwing the American people and he just wanted to help us;  You got caught up in the propaganda and voted for the elitist and now WE WILL ALL suffer because of it;  Good luck with those unicorns (0.622822)
-
-- @JudgeJeanine And there was, trumps ppl were there; trump lost get over it move on; You should not be on any show or interview with anyone; You have lied to us so many times to defend this con man trump (0.542727)
-
-
-
-
-Tentative
-- Damn; Really thought I was gonna hit a home run with that Trump/MyPillow mashup; Guess I just wasted another 20 minutes of the most wasted year ever 🤷‍♂️ (0.779898)
-
-- @realDonaldTrump Lots of LIES; Just a mind boggling amount of DISINFORMATION; Is Trump delusional; No it's just classic PROPAGANDA that would make Putin jealous;   (0.75152)
-
-- @biesecker_laura @lqualman @DonnaSulligan @JoeBiden Also, your good man Trump, never entered a church in his life before politics except for a friends wedding or funeral; Maybe  for a politician when trying to impress them; He only got “religion” when he realized there was a huge base of them he could easily use to get into power; (0.534455)
-
-- @lifeisgood1616 Do you mean the 81,000,000 that voted for Biden or the 74,000,00 that voted for Trump; I’d spit on him, just not to put out a fire; He put us through a shitfest 4 years &amp; he deserves the worst of any &amp; everything; (0.615352)
-
-- @EricVictorino @TheRickWilson That was, perhaps, the craziest 100 minutes in American presidential history;This was probably the craziest 100 minutes in American presidential history;  (0.75152)
-
-- I used to blame ignorance &amp; stupidity; Now it is just plain meanness, stating “I Don’t give a fuck about the virus or who gets it and I don’t care about all the suffering and death, or the exhausted health care workers; Basically these non wearing maskers don’ care about others; (0.72506)
-
-- @thehill @TheHillOpinion Years of groundless leftist Democrat harrassment could not find Trump 'guilty'; The same cannot be said for Hildebeast, Hussein, or Billion$Biden;; (0.75152)
-
-- @NaomiPatriot @DemsRcommeez @LLinWood @realDonaldTrump @KLoeffler @sendavidperdue @BrianKempGA You’re right; It makes me wonder where Republicans go from here when Trump (or at least his rhetoric) has become so toxic and deluded;   (0.631525)
-
-- Maybe I missed it but did Donald Trump mention anything about the COVID crisis tonight;  He talks about himself but gives no thank you to first responders or empathy to those who have lost their lives; Disgusting@SenateGOP @GovKemp #COVID (0.822231)
-
-- He seriously needs some mental help; He is sick and needs some help;  Anybody else he would of had an intervention by now; (0.849846)
-
-- Pillow dude actually said on VIDEO that Kemp needs to do “whatever” and just “hand Trump the election”; They just say anything these days 😂 (0.75152)
-
-- @JudgeJeanine And there was, trumps ppl were there; trump lost get over it move on; You should not be on any show or interview with anyone; You have lied to us so many times to defend this con man trump (0.704683)
-
-- @MollyJongFast They are crazy; If you're not 100% if and or but Trump you're out; It's like all or nothing at all ( a Cole Porter song, BTW ) (0.735884)
-
-
-
-
-Confident
-- @kayleighmcenany @TeamTrump @realDonaldTrump @MELANIATRUMP Shame on every Democrat in the country that treated President Trump the way they did for four years; Shame on all of you; What didn't he do for us especially all of you who Damn him; Now you idiots are going to lose everything unless you are super duper rich and can bribe people; (0.632066)
-
-- ;;; sharing what the facts are; I guaran-damn-tee you his followers will quote him DIRECTLY: "Well the facts are irrefutable;" 2) Trump getting them to accept their status as, "victims;" You're left w/a dangerous combination: angry ppl who are convinced they've been cheated;;; (0.74355)
-
+- @GOPLeader Listen you horrible human; Trump knew a year ago how deadly this virus was and sat back while over 400,000 Americans so you need to shut your mouth; Biden has not stop working since the day he became President; #McCarthyResign #BloodOnYourHands (0.546383)
 
 
 
